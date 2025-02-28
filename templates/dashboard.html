@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Financial Summary</title>
+</head>
+<body>
+    <h1>Your Financial Summary</h1>
+
+    <h3>Transaction Summary</h3>
+    <div>
+        <!-- Processed data will be displayed here -->
+        {{ tables|safe }}
+    </div>
+
+    <h3>Alerts</h3>
+    <div>
+        <!-- Alerts will be displayed here -->
+        {{ alerts|safe }}
+    </div>
+</body>
+</html>
