@@ -80,3 +80,22 @@ def process_data(data):
     overall_spending = data.groupby('Merchant')['Amount'].sum().reset_index()
 
     return brand_category_summary, overall_spending
+
+def check_budget_spending(processed_data, budget_goals):
+    alerts = []
+
+    # Compare monthly spending with budget goals
+    for index, row in processed_data.iterrows():
+        category = row['Category']
+        amount_spent = row['Amount']
+
+        if category in budget_goals:
+            budget = budget_goals[category]
+            if amount_spent > budget:
+                alert = f"Alert: You have overspent on {category} by £{amount_spent - budget:.2f}."
+                alerts.append(alert)
+            else:
+                alert = f"Good job! You are within the budget for {category}."
+                alerts.append(alert)
+
+    return alerts
