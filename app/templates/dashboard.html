@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Health Coach - Dashboard</title>
+</head>
+<body>
+    <h1>Your Financial Summary</h1>
+
+    <!-- Display Transaction Summary by Merchant and Category -->
+    <h2>Transaction Summary by Merchant and Category</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Merchant</th>
+                <th>Category</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in brand_category_summary.itertuples() %}
+                <tr>
+                    <td>{{ row.Merchant }}</td>
+                    <td>{{ row.Category }}</td>
+                    <td>£{{ row.Amount|round(2) }}</td> <!-- Display amount rounded to 2 decimal places -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <!-- Display Overall Spending Summary -->
+    <h2>Overall Spending Summary</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in overall_spending.itertuples() %}
+                <tr>
+                    <td>{{ row.Category }}</td>
+                    <td>£{{ row.Amount|round(2) }}</td> <!-- Display amount rounded to 2 decimal places -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <!-- Display Budget Alerts -->
+    <h2>Budget Alerts</h2>
+    <ul>
+        {% for alert in alerts %}
+            <li>{{ alert }}</li>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>

@@ -1,90 +1,38 @@
+import joblib
 import pandas as pd
-import logging
 
-brand_category_mapping={
-    'Tesco': 'Groceries',
-    'Sainsbury\'s': 'Groceries',
-    'Lidl': 'Groceries',
-    'Asda': 'Groceries',
-    'M&S Foods': 'Groceries',
-    'Waitrose': 'Groceries',
-    'Amazon': 'Shopping',
-    'ebay': 'Shopping',
-    'shein': 'Shopping',
-    'Temu': 'Shopping',
-    'Walmart': 'Shopping',
-    'Iceland': 'Shopping',
-    'Uber': 'Transport',
-    'Starbucks': 'Food & Drink',
-    'Nandos': 'Food & Drink',
-    'Preat A Manger': 'Food & Drink',
-    'Costa': 'Food & Drink',
-    'Gails': 'Food & Drink',
-    'Cafe': 'Food & Drink',
-    'Coffee': 'Food & Drink',
-    'Greggs': 'Food & Drink',
-    'Restaurent': 'Food & Drink',
-    'Wagamama': 'Food & Drink',
-    'McDonalds': 'Food & Drink',
-    'TFL': 'Transport',
-    'Cineworld': 'Entertainment',
-    'Odeon': 'Entertainment',
-    'Netflix UK': 'Entertainment',
-    'Spotify': 'Entertainment',
-    'Cineworld': 'Entertainment',
-    'O2': 'Mobile Services',
-    'EE': 'Mobile Services',
-    'Vodafone': 'Mobile Services',
-    'Three': 'Mobile Services',
-    'Thames Water': 'Utilities & Bills',
-    'British Gas': 'Utilities & Bills',
+# Load the trained model
+model = joblib.load('models/merchant_classifier.pkl')
+
+# Possible column name mappings for 'Amount' and 'Merchant'
+column_name_mapping = {
+    'Amount': ['amount', 'price', 'total_amount', 'cost'],
+    'Merchant': ['merchant', 'seller', 'brand', 'company', 'store']
 }
 
-logging.basicConfig(level=logging.INFO)
+# Function to predict the category for a new merchant
+def predict_category(merchant):
+    return model.predict([merchant])[0]
 
-def process_data(data):
-    # Define the column name mappings for dynamic columns
-    column_mapping = {
-        'amount': 'Amount',
-        'cost': 'Amount',
-        'price': 'Amount',
-    }
-
-     # Rename columns based on the mapping
-    old_columns = list(data.columns)
-    data.columns = [column_mapping.get(col.lower(), col) for col in data.columns]
+# Function to standardize columns in the uploaded CSV file
+def standardize_columns(data):
+    # Standardize 'Amount' column name
+    for standard_col, variations in column_name_mapping.items():
+        for var in variations:
+            if var in data.columns.str.lower():
+                data = data.rename(columns={var: standard_col})
+                break
     
-    # Log which columns were renamed
-    renamed_columns = {old: new for old, new in zip(old_columns, data.columns) if old != new}
-    if renamed_columns:
-        logging.info(f"Renamed columns: {renamed_columns}")
-
-    # Check if required columns are present
-    if 'Amount' not in data.columns or 'Merchant' not in data.columns:
-        raise ValueError("Required columns 'Amount' and 'Merchant' are missing from the file.")
-
-    # Remove irrelevant columns (like 'TransactionID', 'Timestamp', etc.)
-    irrelevant_columns = ['TransactionID', 'Timestamp', 'UserID', 'PaymentMethod']
-    data = data.drop(columns=[col for col in irrelevant_columns if col in data.columns])
-
-    # Convert 'Amount' to numeric
-    data['Amount'] = pd.to_numeric(data['Amount'], errors='coerce')
-
-    # Apply categorization logic based on merchant (brand)
-    data['Category'] = data['Merchant'].apply(lambda x: brand_category_mapping.get(x, 'Other'))
-
-    # Summarize the data by category and brand
-    brand_category_summary = data.groupby(['Merchant', 'Category'])['Amount'].sum().reset_index()
-
-    # Get overall spending by brand
-    overall_spending = data.groupby('Merchant')['Amount'].sum().reset_index()
-
-    return brand_category_summary, overall_spending
+    # Ensure 'Merchant' and 'Amount' columns are present
+    if 'Merchant' not in data.columns or 'Amount' not in data.columns:
+        raise ValueError("Required columns 'Merchant' and 'Amount' are missing or misnamed in the file.")
+    
+    return data
 
 def check_budget_spending(processed_data, budget_goals):
     alerts = []
 
-    # Compare monthly spending with budget goals
+    # Compare actual spending with budget goals
     for index, row in processed_data.iterrows():
         category = row['Category']
         amount_spent = row['Amount']
@@ -97,5 +45,9 @@ def check_budget_spending(processed_data, budget_goals):
             else:
                 alert = f"Good job! You are within the budget for {category}."
                 alerts.append(alert)
+
+    # If no alerts, return a positive summary
+    if not alerts:
+        alerts.append("Great! You are within your overall budget for all categories.")
 
     return alerts
