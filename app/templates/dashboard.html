@@ -2,13 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Financial Health Coach - Dashboard</title>
 </head>
 <body>
     <h1>Your Financial Summary</h1>
 
-    <!-- Display Transaction Summary by Merchant and Category -->
     <h2>Transaction Summary by Merchant and Category</h2>
     <table border="1">
         <thead>
@@ -23,32 +21,30 @@
                 <tr>
                     <td>{{ row.Merchant }}</td>
                     <td>{{ row.Category }}</td>
-                    <td>£{{ row.Amount|round(2) }}</td> <!-- Display amount rounded to 2 decimal places -->
+                    <td>£{{ "%.2f"|format(row.Amount) }}</td>
                 </tr>
             {% endfor %}
         </tbody>
     </table>
 
-    <!-- Display Overall Spending Summary -->
     <h2>Overall Spending Summary</h2>
     <table border="1">
         <thead>
             <tr>
                 <th>Category</th>
-                <th>Amount</th>
+                <th>Total Amount</th>
             </tr>
         </thead>
         <tbody>
             {% for row in overall_spending.itertuples() %}
-                <tr>
-                    <td>{{ row.Category }}</td>
-                    <td>£{{ row.Amount|round(2) }}</td> <!-- Display amount rounded to 2 decimal places -->
-                </tr>
+            <tr>
+                <td>{{ row.Category }}</td>
+                <td>£{{ "%.2f"|format(row.Amount) }}</td>
+            </tr>
             {% endfor %}
         </tbody>
     </table>
 
-    <!-- Display Budget Alerts -->
     <h2>Budget Alerts</h2>
     <ul>
         {% for alert in alerts %}
@@ -56,5 +52,22 @@
         {% endfor %}
     </ul>
 
+    <h2>Alternative Merchant Recommendations (Overspent Categories Only)</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Merchant Causing Overspending</th>
+                <th>Recommended Alternative Merchant</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for recommendation in alternative_recommendations.itertuples() %}
+                <tr>
+                    <td>{{ recommendation.Merchant }}</td>
+                    <td>{{ recommendation._2 }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

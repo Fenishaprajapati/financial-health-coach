@@ -6,7 +6,7 @@ from sklearn.pipeline import make_pipeline
 import joblib
 
 # Load synthetic dataset
-df = pd.read_csv('data/synthetic_transactions_300.csv')
+df = pd.read_csv('data/synthetic_transactions_1000.csv')
 
 # Extract features (Merchant names) and labels (Categories)
 X = df['Merchant']

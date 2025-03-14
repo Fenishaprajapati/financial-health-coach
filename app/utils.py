@@ -1,53 +1,50 @@
 import joblib
 import pandas as pd
 
-# Load the trained model
-model = joblib.load('models/merchant_classifier.pkl')
+# Load clearly trained models (no label encoder needed here)
+category_model = joblib.load('models/merchant_classifier.pkl')
+recommendation_model = joblib.load('models/merchant_recommendations_classifier.pkl')
 
-# Possible column name mappings for 'Amount' and 'Merchant'
-column_name_mapping = {
-    'Amount': ['amount', 'price', 'total_amount', 'cost'],
-    'Merchant': ['merchant', 'seller', 'brand', 'company', 'store']
-}
-
-# Function to predict the category for a new merchant
-def predict_category(merchant):
-    return model.predict([merchant])[0]
-
-# Function to standardize columns in the uploaded CSV file
+# Standardize CSV columns
 def standardize_columns(data):
-    # Standardize 'Amount' column name
+    column_name_mapping = {
+        'Amount': ['amount', 'price', 'total_amount', 'cost'],
+        'Merchant': ['merchant', 'seller', 'brand', 'company', 'name']
+    }
     for standard_col, variations in column_name_mapping.items():
         for var in variations:
             if var in data.columns.str.lower():
-                data = data.rename(columns={var: standard_col})
+                data.rename(columns={var: standard_col}, inplace=True)
                 break
-    
-    # Ensure 'Merchant' and 'Amount' columns are present
+
     if 'Merchant' not in data.columns or 'Amount' not in data.columns:
-        raise ValueError("Required columns 'Merchant' and 'Amount' are missing or misnamed in the file.")
-    
+        raise ValueError("Columns 'Merchant' and 'Amount' must be present.")
+
     return data
 
-def check_budget_spending(processed_data, budget_goals):
+# Predict spending category of merchant
+def predict_category(merchant):
+    return category_model.predict([merchant])[0]
+
+# Check overall budget and alert for overspending
+def check_budget_alerts(data, budget_goals):
     alerts = []
+    overspent_categories = []
 
-    # Compare actual spending with budget goals
-    for index, row in processed_data.iterrows():
-        category = row['Category']
-        amount_spent = row['Amount']
+    category_spending = data.groupby('Category')['Amount'].sum()
 
-        if category in budget_goals:
-            budget = budget_goals[category]
-            if amount_spent > budget:
-                alert = f"Alert: You have overspent on {category} by £{amount_spent - budget:.2f}."
-                alerts.append(alert)
-            else:
-                alert = f"Good job! You are within the budget for {category}."
-                alerts.append(alert)
+    for category, budget in budget_goals.items():
+        spent = category_spending.get(category, 0)
+        if spent > budget:
+            overspent_amount = spent - budget
+            alerts.append(f"Alert: Overspent on {category} by £{overspent_amount:.2f}.")
+            overspent_categories.append(category)
+        else:
+            alerts.append(f"Good job! You are within the budget for {category}.")
 
-    # If no alerts, return a positive summary
-    if not alerts:
-        alerts.append("Great! You are within your overall budget for all categories.")
+    return alerts, overspent_categories
 
-    return alerts
+# Directly predict alternative merchant (No encoding/decoding)
+def recommend_alternative_merchant(merchant):
+    alternative_merchant = recommendation_model.predict([merchant])[0]
+    return alternative_merchant
