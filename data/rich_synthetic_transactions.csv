@@ -1,0 +1,5001 @@
+Merchant,Category,Amount,User
+Vodafone,Mobile Services,237.93,107
+Apple Music,Entertainment,43.22,75
+Lidl,Groceries,152.27,152
+Iceland,Groceries,18.82,88
+Bolt,Transport,57.02,192
+Uber,Transport,156.28,58
+EDF,Utilities & Bills,110.83,49
+Waitrose,Groceries,102.97,188
+Virgin Mobile,Mobile Services,27.2,190
+Aldi,Groceries,130.99,64
+John Lewis,Shopping,215.69,135
+Netflix,Entertainment,20.94,132
+Primark,Shopping,143.01,9
+McDonald's,Food & Drink,61.57,92
+Vodafone,Mobile Services,34.9,8
+Sky Mobile,Mobile Services,227.78,164
+KFC,Food & Drink,190.06,134
+Octopus Energy,Utilities & Bills,144.09,191
+Costa,Food & Drink,115.19,190
+Bolt,Transport,183.18,15
+British Gas,Utilities & Bills,132.6,190
+Apple Music,Entertainment,71.48,53
+Starbucks,Food & Drink,73.83,124
+Netflix,Entertainment,77.59,45
+Amazon,Shopping,246.79,88
+Primark,Shopping,76.9,63
+Waitrose,Groceries,178.18,163
+Tesco,Groceries,153.46,41
+TFL,Transport,213.26,12
+Starbucks,Food & Drink,20.57,151
+Thames Water,Utilities & Bills,168.15,172
+British Gas,Utilities & Bills,142.5,101
+Virgin Mobile,Mobile Services,212.98,5
+Nando's,Food & Drink,193.89,103
+Tesco,Groceries,179.11,90
+Greggs,Food & Drink,31.43,63
+Giffgaff,Mobile Services,82.02,96
+Bolt,Transport,39.14,143
+Lidl,Groceries,61.06,160
+Sky Mobile,Mobile Services,175.22,28
+Costa,Food & Drink,202.99,185
+Spotify,Entertainment,201.9,44
+Bolt,Transport,221.4,128
+Nando's,Food & Drink,224.54,190
+Amazon,Shopping,60.84,190
+Primark,Shopping,91.38,3
+Virgin Mobile,Mobile Services,130.13,137
+EDF,Utilities & Bills,174.65,172
+Sky Mobile,Mobile Services,84.18,96
+Primark,Shopping,94.09,186
+National Rail,Transport,66.69,130
+Tesco,Groceries,41.28,184
+John Lewis,Shopping,154.34,130
+Bolt,Transport,13.1,129
+Iceland,Groceries,40.5,172
+KFC,Food & Drink,140.46,68
+Sky Mobile,Mobile Services,95.57,145
+Virgin Mobile,Mobile Services,95.11,116
+Burger King,Food & Drink,102.71,144
+Amazon,Shopping,83.59,70
+Vue,Entertainment,149.77,187
+TFL,Transport,179.23,147
+National Rail,Transport,28.56,161
+Virgin Mobile,Mobile Services,210.24,11
+Uber,Transport,32.8,151
+Virgin Mobile,Mobile Services,175.47,7
+National Rail,Transport,205.22,60
+Argos,Shopping,249.08,140
+Apple Music,Entertainment,221.25,9
+John Lewis,Shopping,176.59,131
+National Rail,Transport,104.1,161
+TFL,Transport,234.23,164
+Thames Water,Utilities & Bills,153.58,112
+EDF,Utilities & Bills,167.56,93
+KFC,Food & Drink,79.81,194
+British Gas,Utilities & Bills,164.73,169
+Uber,Transport,9.43,142
+Spotify,Entertainment,94.78,136
+Sky Mobile,Mobile Services,166.12,33
+TFL,Transport,95.09,119
+Octopus Energy,Utilities & Bills,149.52,109
+Iceland,Groceries,226.99,27
+McDonald's,Food & Drink,128.15,28
+Vodafone,Mobile Services,216.72,61
+Aldi,Groceries,10.96,49
+Primark,Shopping,235.41,46
+Vue,Entertainment,188.19,37
+Netflix,Entertainment,140.43,95
+Aldi,Groceries,213.99,191
+Apple Music,Entertainment,51.77,161
+Sainsbury's,Groceries,141.42,54
+Pret A Manger,Food & Drink,144.66,24
+KFC,Food & Drink,169.43,151
+Nando's,Food & Drink,131.99,130
+Starbucks,Food & Drink,212.92,137
+Iceland,Groceries,93.08,170
+Virgin Mobile,Mobile Services,203.48,153
+Spotify,Entertainment,130.28,57
+Uber,Transport,52.6,8
+Thames Water,Utilities & Bills,17.44,115
+Sky Mobile,Mobile Services,97.02,66
+Sky Mobile,Mobile Services,13.81,153
+Nando's,Food & Drink,245.55,150
+Costa,Food & Drink,12.47,180
+Burger King,Food & Drink,79.3,188
+Netflix,Entertainment,207.83,60
+National Rail,Transport,157.61,196
+EDF,Utilities & Bills,52.62,94
+Sky Mobile,Mobile Services,161.17,52
+Disney+,Entertainment,131.49,158
+Tesco,Groceries,102.71,19
+Bolt,Transport,24.22,117
+British Gas,Utilities & Bills,109.94,140
+Netflix,Entertainment,47.46,1
+Virgin Mobile,Mobile Services,63.75,118
+ASOS,Shopping,73.58,16
+Apple Music,Entertainment,154.87,195
+Bolt,Transport,92.21,86
+ASOS,Shopping,33.44,69
+Giffgaff,Mobile Services,81.3,190
+Uber,Transport,121.17,176
+Spotify,Entertainment,47.43,101
+Virgin Mobile,Mobile Services,155.88,69
+Bolt,Transport,68.92,138
+Pret A Manger,Food & Drink,128.27,1
+Apple Music,Entertainment,44.92,24
+Virgin Mobile,Mobile Services,11.5,128
+Aldi,Groceries,145.99,178
+Aldi,Groceries,36.48,189
+Waitrose,Groceries,235.66,67
+Amazon,Shopping,164.61,43
+Uber,Transport,21.99,95
+Octopus Energy,Utilities & Bills,14.55,35
+Giffgaff,Mobile Services,165.65,93
+Costa,Food & Drink,10.7,162
+Tesco,Groceries,126.53,58
+Disney+,Entertainment,159.09,157
+Uber,Transport,201.85,164
+McDonald's,Food & Drink,188.9,192
+Tesco,Groceries,184.25,36
+Starbucks,Food & Drink,195.22,152
+Virgin Mobile,Mobile Services,142.66,12
+Zara,Shopping,188.96,99
+eBay,Shopping,226.13,62
+National Rail,Transport,100.46,141
+Waitrose,Groceries,100.35,140
+Netflix,Entertainment,212.55,9
+Vodafone,Mobile Services,237.77,128
+TFL,Transport,125.79,144
+Apple Music,Entertainment,76.84,25
+TFL,Transport,57.12,53
+Vodafone,Mobile Services,198.46,109
+Disney+,Entertainment,243.69,142
+Virgin Mobile,Mobile Services,113.17,75
+Nando's,Food & Drink,40.03,74
+Greggs,Food & Drink,217.38,7
+EDF,Utilities & Bills,59.53,137
+Pret A Manger,Food & Drink,178.03,5
+Apple Music,Entertainment,62.14,136
+Netflix,Entertainment,220.69,145
+Sky Mobile,Mobile Services,246.57,132
+Bolt,Transport,178.5,19
+Spotify,Entertainment,141.81,91
+Costa,Food & Drink,85.91,126
+Lidl,Groceries,7.78,126
+Greggs,Food & Drink,34.11,61
+Giffgaff,Mobile Services,187.33,131
+Spotify,Entertainment,240.73,191
+Uber,Transport,25.31,161
+EDF,Utilities & Bills,240.99,44
+Apple Music,Entertainment,15.57,149
+EDF,Utilities & Bills,248.28,164
+Waitrose,Groceries,242.48,146
+Giffgaff,Mobile Services,58.12,143
+Giffgaff,Mobile Services,158.75,118
+Morrisons,Groceries,16.13,12
+KFC,Food & Drink,19.18,102
+National Rail,Transport,156.93,8
+Greggs,Food & Drink,163.48,136
+Greggs,Food & Drink,148.0,101
+Primark,Shopping,246.62,191
+Amazon,Shopping,80.83,157
+Vue,Entertainment,206.52,82
+Lidl,Groceries,155.29,194
+KFC,Food & Drink,219.78,109
+Netflix,Entertainment,195.51,146
+Giffgaff,Mobile Services,97.3,26
+Giffgaff,Mobile Services,242.63,27
+ASOS,Shopping,20.56,105
+Morrisons,Groceries,71.98,55
+Thames Water,Utilities & Bills,204.16,95
+Vue,Entertainment,141.08,53
+Disney+,Entertainment,213.16,145
+Netflix,Entertainment,36.64,51
+Apple Music,Entertainment,55.77,193
+Argos,Shopping,92.75,72
+Virgin Mobile,Mobile Services,127.05,182
+British Gas,Utilities & Bills,132.44,12
+eBay,Shopping,242.15,57
+Zara,Shopping,12.05,85
+Octopus Energy,Utilities & Bills,202.24,103
+Thames Water,Utilities & Bills,8.56,38
+Costa,Food & Drink,160.98,79
+Waitrose,Groceries,226.52,52
+eBay,Shopping,115.47,79
+Bolt,Transport,157.41,51
+ASOS,Shopping,200.14,138
+Argos,Shopping,193.38,84
+Disney+,Entertainment,157.1,194
+Vue,Entertainment,147.01,115
+Giffgaff,Mobile Services,117.73,80
+Sky Mobile,Mobile Services,39.01,8
+National Rail,Transport,175.64,25
+Waitrose,Groceries,131.23,160
+McDonald's,Food & Drink,52.11,147
+Apple Music,Entertainment,89.55,170
+Apple Music,Entertainment,139.44,133
+Primark,Shopping,55.55,34
+eBay,Shopping,85.87,155
+Argos,Shopping,200.86,121
+British Gas,Utilities & Bills,130.36,107
+Vodafone,Mobile Services,19.96,26
+Uber,Transport,25.71,99
+Spotify,Entertainment,56.29,127
+Octopus Energy,Utilities & Bills,156.47,78
+McDonald's,Food & Drink,20.27,187
+Morrisons,Groceries,173.36,151
+British Gas,Utilities & Bills,135.37,18
+Burger King,Food & Drink,135.49,15
+Zara,Shopping,97.43,39
+Amazon,Shopping,56.8,126
+Uber,Transport,223.18,25
+Bolt,Transport,198.35,109
+Nando's,Food & Drink,148.13,34
+Vodafone,Mobile Services,148.7,83
+Starbucks,Food & Drink,87.67,180
+KFC,Food & Drink,144.84,184
+Lidl,Groceries,85.94,121
+ASOS,Shopping,29.94,198
+British Gas,Utilities & Bills,124.51,94
+Iceland,Groceries,74.85,95
+Giffgaff,Mobile Services,24.66,31
+Spotify,Entertainment,249.33,6
+Greggs,Food & Drink,242.52,4
+Virgin Mobile,Mobile Services,243.89,94
+British Gas,Utilities & Bills,206.11,194
+Sky Mobile,Mobile Services,145.05,179
+Spotify,Entertainment,55.24,154
+Thames Water,Utilities & Bills,109.23,20
+Primark,Shopping,33.14,90
+Thames Water,Utilities & Bills,26.39,126
+Morrisons,Groceries,122.88,3
+eBay,Shopping,87.47,10
+Disney+,Entertainment,247.54,13
+Greggs,Food & Drink,67.39,101
+Amazon,Shopping,33.59,143
+British Gas,Utilities & Bills,199.6,95
+ASOS,Shopping,208.5,178
+EDF,Utilities & Bills,184.06,137
+Greggs,Food & Drink,97.91,1
+Thames Water,Utilities & Bills,211.25,72
+Tesco,Groceries,188.87,60
+British Gas,Utilities & Bills,45.25,5
+Waitrose,Groceries,160.27,62
+Uber,Transport,219.91,89
+KFC,Food & Drink,115.73,104
+Thames Water,Utilities & Bills,118.36,166
+Zara,Shopping,112.49,153
+Amazon,Shopping,100.91,194
+EDF,Utilities & Bills,227.09,179
+Sky Mobile,Mobile Services,110.72,67
+Sky Mobile,Mobile Services,87.05,192
+TFL,Transport,220.26,33
+Bolt,Transport,224.0,164
+Netflix,Entertainment,81.37,155
+Giffgaff,Mobile Services,13.22,86
+Costa,Food & Drink,126.03,74
+eBay,Shopping,206.21,159
+Vodafone,Mobile Services,116.97,180
+Giffgaff,Mobile Services,137.27,157
+Vodafone,Mobile Services,181.95,130
+Morrisons,Groceries,151.62,164
+Bolt,Transport,66.69,69
+TFL,Transport,239.97,104
+Octopus Energy,Utilities & Bills,103.21,47
+Burger King,Food & Drink,155.66,141
+Octopus Energy,Utilities & Bills,154.81,111
+TFL,Transport,233.37,100
+Uber,Transport,231.01,72
+Virgin Mobile,Mobile Services,193.96,31
+Starbucks,Food & Drink,108.91,29
+Thames Water,Utilities & Bills,210.91,11
+Giffgaff,Mobile Services,32.74,149
+Burger King,Food & Drink,50.65,57
+Zara,Shopping,81.3,115
+Giffgaff,Mobile Services,97.93,53
+Argos,Shopping,201.7,117
+Starbucks,Food & Drink,33.0,25
+Pret A Manger,Food & Drink,231.13,135
+Pret A Manger,Food & Drink,185.69,17
+Waitrose,Groceries,115.85,179
+Thames Water,Utilities & Bills,146.52,180
+EDF,Utilities & Bills,229.14,177
+Vue,Entertainment,159.9,156
+McDonald's,Food & Drink,131.22,81
+Uber,Transport,41.42,118
+Thames Water,Utilities & Bills,136.09,104
+Zara,Shopping,150.87,141
+British Gas,Utilities & Bills,109.56,184
+Iceland,Groceries,55.26,29
+ASOS,Shopping,97.54,144
+Sainsbury's,Groceries,77.04,115
+Virgin Mobile,Mobile Services,133.48,113
+Burger King,Food & Drink,142.11,63
+Uber,Transport,86.92,55
+Sky Mobile,Mobile Services,96.46,110
+Greggs,Food & Drink,201.18,55
+National Rail,Transport,180.41,93
+Amazon,Shopping,59.38,187
+Giffgaff,Mobile Services,150.79,67
+Tesco,Groceries,141.4,8
+Pret A Manger,Food & Drink,64.58,78
+British Gas,Utilities & Bills,240.85,165
+EDF,Utilities & Bills,104.57,55
+Nando's,Food & Drink,160.14,161
+Giffgaff,Mobile Services,11.5,125
+Aldi,Groceries,162.52,82
+Starbucks,Food & Drink,205.27,148
+Sainsbury's,Groceries,207.15,195
+Sky Mobile,Mobile Services,70.68,5
+Netflix,Entertainment,111.85,172
+Aldi,Groceries,243.76,108
+Argos,Shopping,143.62,59
+British Gas,Utilities & Bills,200.96,114
+Tesco,Groceries,70.83,40
+McDonald's,Food & Drink,103.62,22
+Iceland,Groceries,246.18,186
+Apple Music,Entertainment,174.35,37
+Iceland,Groceries,229.0,85
+Greggs,Food & Drink,127.03,34
+ASOS,Shopping,164.6,122
+TFL,Transport,31.11,86
+Vue,Entertainment,225.5,134
+Sainsbury's,Groceries,152.13,53
+Virgin Mobile,Mobile Services,229.03,154
+Spotify,Entertainment,193.87,46
+Greggs,Food & Drink,239.86,193
+Lidl,Groceries,152.77,26
+Apple Music,Entertainment,210.08,11
+Uber,Transport,181.78,54
+Nando's,Food & Drink,167.6,150
+Netflix,Entertainment,71.13,148
+Waitrose,Groceries,211.17,81
+British Gas,Utilities & Bills,151.23,154
+McDonald's,Food & Drink,89.37,40
+Amazon,Shopping,126.4,171
+Starbucks,Food & Drink,65.37,131
+McDonald's,Food & Drink,5.57,179
+Octopus Energy,Utilities & Bills,149.61,19
+Spotify,Entertainment,202.82,49
+Netflix,Entertainment,237.81,55
+Zara,Shopping,26.24,80
+Morrisons,Groceries,202.61,118
+Thames Water,Utilities & Bills,66.17,89
+TFL,Transport,174.83,109
+Nando's,Food & Drink,15.82,16
+Giffgaff,Mobile Services,49.24,86
+Nando's,Food & Drink,13.32,117
+Giffgaff,Mobile Services,52.19,72
+Pret A Manger,Food & Drink,236.35,82
+Virgin Mobile,Mobile Services,18.45,146
+Sainsbury's,Groceries,162.91,14
+Vodafone,Mobile Services,61.35,188
+Disney+,Entertainment,221.82,171
+Nando's,Food & Drink,104.1,39
+Vodafone,Mobile Services,137.18,93
+EDF,Utilities & Bills,185.77,161
+Disney+,Entertainment,219.78,194
+Sky Mobile,Mobile Services,218.17,158
+Morrisons,Groceries,50.44,18
+Waitrose,Groceries,249.49,29
+EDF,Utilities & Bills,103.47,185
+TFL,Transport,102.58,158
+Zara,Shopping,108.23,133
+eBay,Shopping,5.82,173
+Thames Water,Utilities & Bills,75.37,68
+Burger King,Food & Drink,149.33,176
+ASOS,Shopping,246.99,73
+Giffgaff,Mobile Services,100.95,196
+TFL,Transport,237.74,61
+Vue,Entertainment,149.2,39
+Virgin Mobile,Mobile Services,152.2,62
+Disney+,Entertainment,45.92,52
+TFL,Transport,103.39,93
+Virgin Mobile,Mobile Services,153.9,110
+Pret A Manger,Food & Drink,48.25,169
+Argos,Shopping,196.0,6
+Apple Music,Entertainment,159.3,177
+John Lewis,Shopping,151.33,61
+Sainsbury's,Groceries,131.24,82
+EDF,Utilities & Bills,42.7,160
+Iceland,Groceries,157.62,125
+Giffgaff,Mobile Services,150.27,142
+Disney+,Entertainment,117.07,184
+Waitrose,Groceries,36.73,137
+Tesco,Groceries,213.79,170
+Zara,Shopping,165.53,5
+Waitrose,Groceries,73.94,124
+Virgin Mobile,Mobile Services,68.64,133
+Costa,Food & Drink,24.86,60
+Spotify,Entertainment,23.65,81
+KFC,Food & Drink,221.31,62
+Vue,Entertainment,207.05,56
+KFC,Food & Drink,143.6,33
+Thames Water,Utilities & Bills,200.37,168
+Uber,Transport,43.55,48
+ASOS,Shopping,210.07,89
+Disney+,Entertainment,30.93,155
+Thames Water,Utilities & Bills,43.86,45
+Starbucks,Food & Drink,12.17,23
+Costa,Food & Drink,205.89,181
+British Gas,Utilities & Bills,44.39,100
+Burger King,Food & Drink,190.38,12
+Virgin Mobile,Mobile Services,75.32,46
+Tesco,Groceries,142.16,104
+Virgin Mobile,Mobile Services,160.33,88
+Vue,Entertainment,36.47,158
+Virgin Mobile,Mobile Services,110.9,63
+National Rail,Transport,48.98,37
+Spotify,Entertainment,47.57,68
+Tesco,Groceries,193.89,145
+Burger King,Food & Drink,89.74,120
+Sainsbury's,Groceries,218.53,192
+Giffgaff,Mobile Services,114.26,180
+Spotify,Entertainment,11.02,139
+eBay,Shopping,96.1,160
+Waitrose,Groceries,172.41,26
+Burger King,Food & Drink,119.79,4
+John Lewis,Shopping,115.59,39
+Sky Mobile,Mobile Services,207.35,75
+National Rail,Transport,25.18,84
+British Gas,Utilities & Bills,71.95,81
+Thames Water,Utilities & Bills,12.67,21
+Vodafone,Mobile Services,215.05,84
+British Gas,Utilities & Bills,72.18,131
+Tesco,Groceries,83.58,166
+Virgin Mobile,Mobile Services,57.21,64
+Amazon,Shopping,180.16,18
+Vodafone,Mobile Services,120.94,72
+Bolt,Transport,54.91,93
+Vue,Entertainment,211.97,199
+Lidl,Groceries,37.15,181
+Bolt,Transport,156.08,46
+Giffgaff,Mobile Services,5.3,199
+eBay,Shopping,172.96,9
+Thames Water,Utilities & Bills,125.44,63
+Octopus Energy,Utilities & Bills,84.85,130
+Lidl,Groceries,41.65,21
+Burger King,Food & Drink,101.16,110
+Sky Mobile,Mobile Services,181.86,11
+Netflix,Entertainment,215.73,102
+John Lewis,Shopping,122.72,88
+Amazon,Shopping,30.18,46
+Vodafone,Mobile Services,123.18,92
+Uber,Transport,142.11,160
+Greggs,Food & Drink,22.74,33
+ASOS,Shopping,25.21,77
+Bolt,Transport,102.25,194
+British Gas,Utilities & Bills,54.21,122
+Nando's,Food & Drink,54.04,119
+Uber,Transport,238.13,61
+Waitrose,Groceries,12.74,6
+Zara,Shopping,155.17,41
+Greggs,Food & Drink,218.39,178
+Bolt,Transport,196.94,111
+Morrisons,Groceries,24.63,84
+Bolt,Transport,205.24,154
+Sky Mobile,Mobile Services,14.98,188
+Burger King,Food & Drink,25.0,12
+Vodafone,Mobile Services,44.09,45
+Sainsbury's,Groceries,85.61,100
+Apple Music,Entertainment,198.48,183
+Aldi,Groceries,141.06,146
+Iceland,Groceries,86.42,56
+John Lewis,Shopping,164.33,35
+Apple Music,Entertainment,107.51,97
+Vodafone,Mobile Services,47.68,159
+McDonald's,Food & Drink,212.33,37
+National Rail,Transport,95.9,20
+National Rail,Transport,138.11,179
+Primark,Shopping,12.2,98
+Bolt,Transport,151.44,164
+British Gas,Utilities & Bills,72.82,115
+Burger King,Food & Drink,92.99,131
+Disney+,Entertainment,159.73,143
+John Lewis,Shopping,195.12,100
+British Gas,Utilities & Bills,159.97,14
+Octopus Energy,Utilities & Bills,49.34,69
+EDF,Utilities & Bills,112.11,60
+Netflix,Entertainment,167.34,70
+John Lewis,Shopping,81.48,28
+Pret A Manger,Food & Drink,165.9,193
+National Rail,Transport,102.18,151
+Sky Mobile,Mobile Services,62.83,195
+Octopus Energy,Utilities & Bills,86.07,93
+Greggs,Food & Drink,208.08,1
+Spotify,Entertainment,149.03,1
+eBay,Shopping,46.07,121
+Lidl,Groceries,92.4,165
+Amazon,Shopping,177.82,56
+TFL,Transport,217.73,108
+Lidl,Groceries,13.38,78
+Starbucks,Food & Drink,135.14,20
+McDonald's,Food & Drink,161.8,35
+EDF,Utilities & Bills,233.8,69
+Amazon,Shopping,148.24,12
+Greggs,Food & Drink,246.72,43
+Octopus Energy,Utilities & Bills,84.17,29
+Zara,Shopping,116.41,171
+Nando's,Food & Drink,168.38,84
+Vodafone,Mobile Services,37.52,52
+Costa,Food & Drink,184.56,8
+McDonald's,Food & Drink,28.01,8
+Apple Music,Entertainment,241.02,175
+Starbucks,Food & Drink,210.34,171
+Burger King,Food & Drink,126.81,145
+KFC,Food & Drink,216.83,113
+TFL,Transport,233.08,46
+Uber,Transport,152.15,31
+EDF,Utilities & Bills,168.41,105
+Burger King,Food & Drink,166.17,192
+British Gas,Utilities & Bills,244.41,169
+ASOS,Shopping,196.68,77
+Giffgaff,Mobile Services,31.73,98
+Spotify,Entertainment,168.56,198
+Costa,Food & Drink,220.08,23
+Lidl,Groceries,205.37,88
+Octopus Energy,Utilities & Bills,164.02,143
+Primark,Shopping,154.41,143
+Vue,Entertainment,100.2,161
+Amazon,Shopping,113.88,102
+Pret A Manger,Food & Drink,152.84,110
+Octopus Energy,Utilities & Bills,191.04,9
+Lidl,Groceries,216.52,48
+Burger King,Food & Drink,228.99,154
+Primark,Shopping,41.5,48
+Spotify,Entertainment,121.79,43
+Virgin Mobile,Mobile Services,187.98,108
+Waitrose,Groceries,9.47,151
+Morrisons,Groceries,224.7,117
+TFL,Transport,64.65,51
+Vodafone,Mobile Services,233.94,19
+Burger King,Food & Drink,124.04,117
+Bolt,Transport,80.29,156
+Sainsbury's,Groceries,154.53,146
+Starbucks,Food & Drink,244.3,90
+eBay,Shopping,49.38,95
+Bolt,Transport,200.95,159
+Sky Mobile,Mobile Services,31.18,170
+Disney+,Entertainment,229.85,84
+Bolt,Transport,202.47,129
+National Rail,Transport,133.99,47
+Lidl,Groceries,152.39,118
+Spotify,Entertainment,60.88,9
+Virgin Mobile,Mobile Services,47.82,121
+Disney+,Entertainment,225.51,49
+Pret A Manger,Food & Drink,196.23,50
+Aldi,Groceries,108.82,89
+Pret A Manger,Food & Drink,157.85,183
+McDonald's,Food & Drink,46.16,108
+Starbucks,Food & Drink,58.1,150
+Vue,Entertainment,153.74,160
+Sainsbury's,Groceries,67.94,77
+Netflix,Entertainment,126.71,2
+Morrisons,Groceries,175.31,67
+Burger King,Food & Drink,114.22,169
+John Lewis,Shopping,247.86,188
+British Gas,Utilities & Bills,152.79,102
+KFC,Food & Drink,72.17,36
+Netflix,Entertainment,150.96,73
+John Lewis,Shopping,89.17,196
+Netflix,Entertainment,208.81,188
+Spotify,Entertainment,62.26,149
+Thames Water,Utilities & Bills,164.46,44
+Disney+,Entertainment,86.59,70
+Nando's,Food & Drink,97.73,102
+John Lewis,Shopping,184.01,30
+National Rail,Transport,147.22,186
+Uber,Transport,47.95,31
+Giffgaff,Mobile Services,46.77,106
+Octopus Energy,Utilities & Bills,115.34,144
+Uber,Transport,78.71,136
+TFL,Transport,232.16,23
+TFL,Transport,42.34,5
+National Rail,Transport,193.31,65
+eBay,Shopping,132.63,198
+Octopus Energy,Utilities & Bills,198.04,32
+ASOS,Shopping,207.39,38
+Bolt,Transport,20.46,36
+Zara,Shopping,69.46,66
+ASOS,Shopping,89.85,193
+Waitrose,Groceries,102.26,151
+Greggs,Food & Drink,218.97,6
+Iceland,Groceries,126.76,86
+Uber,Transport,100.81,12
+Giffgaff,Mobile Services,33.51,82
+Vue,Entertainment,170.2,158
+Octopus Energy,Utilities & Bills,39.61,7
+Bolt,Transport,24.83,149
+Sainsbury's,Groceries,42.68,163
+Burger King,Food & Drink,244.02,10
+Argos,Shopping,37.47,54
+Primark,Shopping,153.56,65
+Thames Water,Utilities & Bills,192.38,125
+TFL,Transport,238.44,134
+ASOS,Shopping,95.05,136
+Disney+,Entertainment,129.0,79
+Uber,Transport,139.63,32
+Uber,Transport,234.43,20
+McDonald's,Food & Drink,30.89,134
+Vue,Entertainment,156.8,60
+Sky Mobile,Mobile Services,99.68,5
+Sainsbury's,Groceries,117.65,130
+British Gas,Utilities & Bills,189.79,159
+Giffgaff,Mobile Services,110.43,137
+Lidl,Groceries,34.74,190
+British Gas,Utilities & Bills,48.55,144
+Uber,Transport,129.81,103
+ASOS,Shopping,155.73,52
+Spotify,Entertainment,165.65,166
+Virgin Mobile,Mobile Services,37.02,116
+Virgin Mobile,Mobile Services,165.25,7
+Aldi,Groceries,123.0,199
+Apple Music,Entertainment,193.48,183
+Burger King,Food & Drink,122.93,79
+Disney+,Entertainment,171.84,120
+Giffgaff,Mobile Services,57.72,181
+McDonald's,Food & Drink,240.1,164
+John Lewis,Shopping,70.13,139
+Giffgaff,Mobile Services,211.87,183
+Disney+,Entertainment,36.16,34
+National Rail,Transport,185.65,180
+Disney+,Entertainment,197.33,141
+Amazon,Shopping,30.03,120
+Amazon,Shopping,173.59,60
+Netflix,Entertainment,211.01,58
+National Rail,Transport,118.06,34
+Iceland,Groceries,160.98,79
+Primark,Shopping,115.4,173
+Lidl,Groceries,185.67,193
+Giffgaff,Mobile Services,16.72,200
+Zara,Shopping,180.5,109
+Waitrose,Groceries,7.97,133
+Uber,Transport,99.96,159
+Thames Water,Utilities & Bills,90.68,143
+Morrisons,Groceries,197.04,51
+Sainsbury's,Groceries,29.11,94
+Thames Water,Utilities & Bills,21.83,138
+British Gas,Utilities & Bills,25.13,81
+Vodafone,Mobile Services,193.46,153
+Argos,Shopping,168.5,195
+Primark,Shopping,155.68,78
+Amazon,Shopping,240.16,119
+British Gas,Utilities & Bills,242.28,149
+National Rail,Transport,121.21,2
+EDF,Utilities & Bills,147.69,95
+Bolt,Transport,36.38,15
+Argos,Shopping,60.03,153
+Iceland,Groceries,112.65,114
+Thames Water,Utilities & Bills,63.97,172
+Iceland,Groceries,8.12,149
+Sainsbury's,Groceries,204.91,119
+Giffgaff,Mobile Services,68.32,175
+McDonald's,Food & Drink,189.99,149
+Thames Water,Utilities & Bills,188.31,135
+Vodafone,Mobile Services,18.2,86
+British Gas,Utilities & Bills,70.99,92
+Apple Music,Entertainment,45.38,29
+Spotify,Entertainment,205.36,95
+Sky Mobile,Mobile Services,41.92,44
+Vue,Entertainment,190.76,97
+Morrisons,Groceries,30.95,23
+Spotify,Entertainment,160.89,128
+Disney+,Entertainment,141.72,72
+Primark,Shopping,182.98,193
+National Rail,Transport,52.52,64
+Costa,Food & Drink,54.99,10
+Vue,Entertainment,51.07,169
+Netflix,Entertainment,140.79,86
+Costa,Food & Drink,210.79,12
+eBay,Shopping,54.61,162
+Netflix,Entertainment,171.2,144
+Morrisons,Groceries,79.87,56
+Lidl,Groceries,35.55,111
+Spotify,Entertainment,181.91,24
+British Gas,Utilities & Bills,38.77,54
+Giffgaff,Mobile Services,12.12,174
+National Rail,Transport,199.58,20
+Zara,Shopping,219.19,14
+Lidl,Groceries,147.1,55
+National Rail,Transport,17.94,24
+Burger King,Food & Drink,202.22,159
+National Rail,Transport,83.92,63
+British Gas,Utilities & Bills,19.34,109
+Bolt,Transport,245.58,117
+Vodafone,Mobile Services,131.73,176
+Spotify,Entertainment,34.98,113
+Giffgaff,Mobile Services,26.71,116
+John Lewis,Shopping,201.33,47
+Tesco,Groceries,233.61,45
+Amazon,Shopping,161.2,148
+Sky Mobile,Mobile Services,173.05,47
+Thames Water,Utilities & Bills,99.04,137
+KFC,Food & Drink,54.72,61
+Costa,Food & Drink,45.5,107
+eBay,Shopping,208.77,198
+John Lewis,Shopping,78.19,147
+Pret A Manger,Food & Drink,110.27,69
+Apple Music,Entertainment,122.82,149
+KFC,Food & Drink,123.33,70
+Greggs,Food & Drink,17.21,39
+Pret A Manger,Food & Drink,112.03,57
+Bolt,Transport,19.03,174
+National Rail,Transport,38.16,31
+National Rail,Transport,120.65,158
+Bolt,Transport,74.14,135
+Morrisons,Groceries,227.03,120
+KFC,Food & Drink,95.95,106
+ASOS,Shopping,70.69,73
+Spotify,Entertainment,13.24,84
+Costa,Food & Drink,142.69,21
+Bolt,Transport,105.72,7
+British Gas,Utilities & Bills,63.01,160
+Aldi,Groceries,36.36,176
+Giffgaff,Mobile Services,17.8,120
+EDF,Utilities & Bills,126.15,21
+McDonald's,Food & Drink,165.27,165
+John Lewis,Shopping,80.63,85
+Uber,Transport,49.84,161
+McDonald's,Food & Drink,60.2,71
+British Gas,Utilities & Bills,138.55,152
+Apple Music,Entertainment,215.73,186
+Tesco,Groceries,198.97,177
+Argos,Shopping,25.02,198
+Starbucks,Food & Drink,110.01,5
+Burger King,Food & Drink,213.24,66
+Costa,Food & Drink,216.19,179
+Spotify,Entertainment,20.26,168
+Thames Water,Utilities & Bills,92.21,99
+Morrisons,Groceries,126.83,32
+Giffgaff,Mobile Services,45.35,127
+Bolt,Transport,189.76,143
+Spotify,Entertainment,218.29,155
+Netflix,Entertainment,142.24,28
+Starbucks,Food & Drink,11.66,153
+British Gas,Utilities & Bills,227.76,97
+Greggs,Food & Drink,200.59,167
+TFL,Transport,206.42,178
+Waitrose,Groceries,113.06,11
+Bolt,Transport,28.04,41
+Uber,Transport,160.47,55
+Zara,Shopping,52.98,104
+Costa,Food & Drink,114.66,198
+Bolt,Transport,82.61,131
+Vue,Entertainment,224.81,107
+EDF,Utilities & Bills,151.54,8
+Spotify,Entertainment,205.99,101
+Bolt,Transport,155.75,19
+Primark,Shopping,186.23,119
+Zara,Shopping,123.91,21
+EDF,Utilities & Bills,84.14,156
+Octopus Energy,Utilities & Bills,109.73,128
+Lidl,Groceries,142.14,97
+Uber,Transport,206.62,154
+Octopus Energy,Utilities & Bills,184.22,189
+Uber,Transport,77.64,178
+British Gas,Utilities & Bills,191.1,121
+Sainsbury's,Groceries,206.3,108
+ASOS,Shopping,67.31,131
+National Rail,Transport,133.73,21
+National Rail,Transport,26.36,161
+Vue,Entertainment,39.78,41
+Morrisons,Groceries,51.86,75
+Zara,Shopping,157.13,150
+ASOS,Shopping,202.52,94
+Sky Mobile,Mobile Services,160.36,125
+Costa,Food & Drink,82.16,156
+Sky Mobile,Mobile Services,45.95,148
+Uber,Transport,210.08,87
+Sky Mobile,Mobile Services,175.07,153
+Virgin Mobile,Mobile Services,93.29,21
+Tesco,Groceries,79.47,46
+Bolt,Transport,226.38,145
+Giffgaff,Mobile Services,198.17,77
+Virgin Mobile,Mobile Services,164.44,134
+Waitrose,Groceries,142.31,91
+KFC,Food & Drink,97.98,142
+Uber,Transport,138.93,35
+Iceland,Groceries,201.58,84
+Amazon,Shopping,108.25,14
+Burger King,Food & Drink,73.61,176
+John Lewis,Shopping,243.33,131
+Pret A Manger,Food & Drink,202.2,173
+Virgin Mobile,Mobile Services,183.03,124
+Giffgaff,Mobile Services,73.97,175
+Bolt,Transport,58.52,181
+Spotify,Entertainment,28.65,30
+Amazon,Shopping,119.85,89
+British Gas,Utilities & Bills,23.19,187
+Octopus Energy,Utilities & Bills,151.71,68
+National Rail,Transport,219.93,125
+Octopus Energy,Utilities & Bills,223.61,127
+Sky Mobile,Mobile Services,135.17,62
+eBay,Shopping,110.15,11
+Octopus Energy,Utilities & Bills,145.47,149
+Spotify,Entertainment,58.96,172
+ASOS,Shopping,28.0,189
+Primark,Shopping,217.8,65
+Spotify,Entertainment,228.12,174
+Sky Mobile,Mobile Services,152.47,26
+Uber,Transport,46.79,21
+Iceland,Groceries,149.97,157
+Aldi,Groceries,170.72,92
+National Rail,Transport,99.21,173
+Iceland,Groceries,69.36,162
+Morrisons,Groceries,246.04,72
+Virgin Mobile,Mobile Services,22.38,153
+Starbucks,Food & Drink,14.74,6
+Pret A Manger,Food & Drink,39.31,124
+Starbucks,Food & Drink,115.36,109
+John Lewis,Shopping,53.04,35
+Spotify,Entertainment,55.71,141
+Netflix,Entertainment,6.88,190
+Aldi,Groceries,31.47,90
+Giffgaff,Mobile Services,112.44,192
+Octopus Energy,Utilities & Bills,76.9,126
+Amazon,Shopping,205.09,49
+Amazon,Shopping,32.89,51
+Morrisons,Groceries,145.82,39
+Vue,Entertainment,15.99,139
+Apple Music,Entertainment,101.67,108
+Aldi,Groceries,221.15,189
+Apple Music,Entertainment,153.94,161
+Disney+,Entertainment,238.99,197
+John Lewis,Shopping,5.52,158
+Netflix,Entertainment,152.93,82
+Costa,Food & Drink,168.0,161
+Vodafone,Mobile Services,95.42,147
+Vodafone,Mobile Services,139.65,113
+Primark,Shopping,24.64,143
+Zara,Shopping,106.11,29
+Argos,Shopping,93.67,75
+Disney+,Entertainment,128.03,51
+EDF,Utilities & Bills,155.08,28
+Aldi,Groceries,161.28,117
+McDonald's,Food & Drink,21.28,144
+Thames Water,Utilities & Bills,205.9,169
+Thames Water,Utilities & Bills,77.28,65
+Giffgaff,Mobile Services,102.85,101
+Netflix,Entertainment,57.93,153
+Vodafone,Mobile Services,164.81,28
+Vue,Entertainment,110.33,99
+Netflix,Entertainment,80.05,122
+Thames Water,Utilities & Bills,60.44,32
+Waitrose,Groceries,215.1,79
+Zara,Shopping,29.22,75
+Pret A Manger,Food & Drink,152.26,100
+Uber,Transport,133.82,34
+Uber,Transport,163.21,165
+Amazon,Shopping,236.93,19
+Disney+,Entertainment,163.23,163
+Morrisons,Groceries,22.57,126
+Tesco,Groceries,29.81,64
+Disney+,Entertainment,211.22,184
+Bolt,Transport,116.23,132
+ASOS,Shopping,243.15,158
+Waitrose,Groceries,241.18,4
+Pret A Manger,Food & Drink,56.17,107
+Sainsbury's,Groceries,101.88,6
+Lidl,Groceries,117.34,30
+McDonald's,Food & Drink,209.69,37
+Greggs,Food & Drink,81.92,87
+Thames Water,Utilities & Bills,248.74,113
+Apple Music,Entertainment,153.68,126
+Uber,Transport,99.45,22
+Uber,Transport,42.77,49
+Disney+,Entertainment,46.24,53
+Morrisons,Groceries,112.91,42
+KFC,Food & Drink,178.71,85
+British Gas,Utilities & Bills,71.21,44
+Morrisons,Groceries,138.48,129
+TFL,Transport,39.1,141
+Virgin Mobile,Mobile Services,124.78,179
+Netflix,Entertainment,184.97,82
+EDF,Utilities & Bills,199.17,19
+Apple Music,Entertainment,41.26,5
+ASOS,Shopping,138.04,147
+Vodafone,Mobile Services,150.29,98
+Iceland,Groceries,135.68,140
+EDF,Utilities & Bills,187.74,5
+Primark,Shopping,119.36,12
+EDF,Utilities & Bills,237.53,154
+National Rail,Transport,189.88,70
+Sky Mobile,Mobile Services,96.96,102
+Tesco,Groceries,142.86,151
+Sky Mobile,Mobile Services,130.26,179
+Vue,Entertainment,104.86,179
+Sky Mobile,Mobile Services,149.89,135
+Vue,Entertainment,54.12,73
+Uber,Transport,112.59,113
+John Lewis,Shopping,81.42,67
+Lidl,Groceries,130.06,189
+Sky Mobile,Mobile Services,9.68,22
+Vue,Entertainment,218.65,138
+KFC,Food & Drink,78.35,194
+John Lewis,Shopping,56.62,57
+British Gas,Utilities & Bills,247.68,114
+Starbucks,Food & Drink,27.0,30
+Sky Mobile,Mobile Services,185.78,25
+Netflix,Entertainment,21.91,141
+Spotify,Entertainment,166.34,127
+Primark,Shopping,176.51,191
+Giffgaff,Mobile Services,182.17,128
+Bolt,Transport,11.0,75
+Waitrose,Groceries,159.86,173
+McDonald's,Food & Drink,239.0,123
+Thames Water,Utilities & Bills,172.03,145
+Virgin Mobile,Mobile Services,199.66,144
+Thames Water,Utilities & Bills,40.57,13
+Sky Mobile,Mobile Services,61.93,39
+Morrisons,Groceries,232.66,126
+Sky Mobile,Mobile Services,10.4,53
+Giffgaff,Mobile Services,139.5,158
+Apple Music,Entertainment,152.86,53
+Tesco,Groceries,191.1,31
+Zara,Shopping,128.26,190
+Costa,Food & Drink,206.25,54
+National Rail,Transport,172.24,14
+Greggs,Food & Drink,62.49,53
+Virgin Mobile,Mobile Services,143.01,4
+Vue,Entertainment,194.96,12
+Sky Mobile,Mobile Services,74.65,82
+Nando's,Food & Drink,18.31,49
+Giffgaff,Mobile Services,5.03,93
+Costa,Food & Drink,72.66,38
+Zara,Shopping,147.9,8
+eBay,Shopping,65.47,121
+Spotify,Entertainment,29.96,65
+Waitrose,Groceries,143.42,162
+National Rail,Transport,198.29,143
+Lidl,Groceries,108.48,198
+TFL,Transport,26.88,186
+Virgin Mobile,Mobile Services,143.33,60
+Tesco,Groceries,177.44,138
+Sky Mobile,Mobile Services,67.29,13
+Netflix,Entertainment,73.22,11
+Primark,Shopping,177.12,94
+ASOS,Shopping,121.47,140
+Disney+,Entertainment,30.68,48
+Vodafone,Mobile Services,217.13,99
+Vodafone,Mobile Services,56.18,105
+TFL,Transport,193.05,141
+TFL,Transport,181.32,137
+eBay,Shopping,120.71,184
+EDF,Utilities & Bills,200.08,87
+Apple Music,Entertainment,77.35,8
+Vodafone,Mobile Services,185.96,28
+Thames Water,Utilities & Bills,17.79,28
+Octopus Energy,Utilities & Bills,146.9,21
+TFL,Transport,95.11,57
+eBay,Shopping,196.59,53
+TFL,Transport,209.69,46
+Apple Music,Entertainment,228.21,2
+EDF,Utilities & Bills,35.47,138
+Tesco,Groceries,185.37,102
+Primark,Shopping,150.81,24
+Vue,Entertainment,220.02,122
+Bolt,Transport,171.0,84
+Vodafone,Mobile Services,70.48,104
+Bolt,Transport,215.0,181
+Pret A Manger,Food & Drink,98.73,162
+Apple Music,Entertainment,88.74,55
+Nando's,Food & Drink,90.28,126
+National Rail,Transport,144.18,117
+Uber,Transport,243.68,111
+Tesco,Groceries,139.01,8
+Zara,Shopping,196.19,200
+Vue,Entertainment,79.21,195
+Netflix,Entertainment,234.66,156
+Spotify,Entertainment,121.08,4
+KFC,Food & Drink,235.97,133
+Bolt,Transport,162.92,32
+Bolt,Transport,94.59,59
+Greggs,Food & Drink,156.83,185
+Starbucks,Food & Drink,196.42,45
+Waitrose,Groceries,245.51,200
+TFL,Transport,45.15,65
+Zara,Shopping,229.78,182
+Uber,Transport,223.08,174
+Costa,Food & Drink,41.09,5
+National Rail,Transport,61.41,54
+Argos,Shopping,78.97,15
+Disney+,Entertainment,171.51,197
+Octopus Energy,Utilities & Bills,232.52,190
+Burger King,Food & Drink,138.91,141
+Virgin Mobile,Mobile Services,142.41,6
+Spotify,Entertainment,224.93,108
+Amazon,Shopping,245.39,77
+Pret A Manger,Food & Drink,101.01,70
+Primark,Shopping,238.1,48
+Sainsbury's,Groceries,133.02,76
+Lidl,Groceries,112.06,19
+Sky Mobile,Mobile Services,57.42,154
+Thames Water,Utilities & Bills,208.2,29
+Lidl,Groceries,236.21,107
+Lidl,Groceries,238.46,162
+Vodafone,Mobile Services,44.61,8
+Thames Water,Utilities & Bills,80.95,94
+John Lewis,Shopping,168.32,187
+National Rail,Transport,192.08,93
+Thames Water,Utilities & Bills,7.97,74
+Uber,Transport,97.36,156
+Nando's,Food & Drink,160.42,170
+National Rail,Transport,212.77,200
+Iceland,Groceries,110.03,121
+Vue,Entertainment,224.19,173
+Greggs,Food & Drink,75.78,155
+Pret A Manger,Food & Drink,126.2,89
+Netflix,Entertainment,160.68,148
+Vue,Entertainment,19.14,103
+Sainsbury's,Groceries,92.49,18
+Spotify,Entertainment,99.65,181
+Sainsbury's,Groceries,165.87,114
+Argos,Shopping,219.95,148
+TFL,Transport,128.96,41
+ASOS,Shopping,13.82,145
+Octopus Energy,Utilities & Bills,171.49,169
+Spotify,Entertainment,147.5,139
+Lidl,Groceries,131.59,26
+Waitrose,Groceries,40.23,199
+Sky Mobile,Mobile Services,236.88,40
+Apple Music,Entertainment,191.96,23
+Greggs,Food & Drink,126.9,116
+Apple Music,Entertainment,67.55,112
+Morrisons,Groceries,13.04,68
+Nando's,Food & Drink,220.48,129
+Morrisons,Groceries,203.67,40
+Giffgaff,Mobile Services,183.05,24
+Greggs,Food & Drink,42.14,185
+Zara,Shopping,16.12,116
+Giffgaff,Mobile Services,14.2,181
+EDF,Utilities & Bills,5.0,188
+Octopus Energy,Utilities & Bills,18.39,138
+Sky Mobile,Mobile Services,79.53,61
+TFL,Transport,221.27,86
+Vodafone,Mobile Services,241.88,38
+Morrisons,Groceries,161.96,169
+Apple Music,Entertainment,108.54,50
+Octopus Energy,Utilities & Bills,205.42,112
+Waitrose,Groceries,49.5,126
+Morrisons,Groceries,202.64,39
+EDF,Utilities & Bills,137.91,200
+John Lewis,Shopping,106.55,170
+KFC,Food & Drink,45.99,9
+John Lewis,Shopping,158.97,17
+National Rail,Transport,77.66,153
+Lidl,Groceries,142.22,65
+Giffgaff,Mobile Services,47.16,81
+Zara,Shopping,207.74,104
+Vodafone,Mobile Services,29.07,198
+Zara,Shopping,175.18,167
+Netflix,Entertainment,72.15,169
+Netflix,Entertainment,89.61,6
+National Rail,Transport,43.54,81
+Giffgaff,Mobile Services,183.13,175
+Netflix,Entertainment,81.44,15
+National Rail,Transport,99.87,196
+Starbucks,Food & Drink,11.17,116
+Iceland,Groceries,177.41,14
+McDonald's,Food & Drink,28.89,59
+Vue,Entertainment,178.02,177
+Lidl,Groceries,128.67,27
+Thames Water,Utilities & Bills,48.92,64
+British Gas,Utilities & Bills,238.35,80
+Waitrose,Groceries,217.0,148
+Vodafone,Mobile Services,158.13,2
+British Gas,Utilities & Bills,127.87,72
+Virgin Mobile,Mobile Services,158.09,195
+KFC,Food & Drink,245.57,179
+Greggs,Food & Drink,170.13,124
+Amazon,Shopping,9.85,53
+Lidl,Groceries,91.47,145
+EDF,Utilities & Bills,110.48,156
+EDF,Utilities & Bills,21.75,59
+eBay,Shopping,25.56,19
+EDF,Utilities & Bills,22.67,47
+Vodafone,Mobile Services,245.6,84
+British Gas,Utilities & Bills,159.91,14
+Sky Mobile,Mobile Services,197.39,148
+Disney+,Entertainment,235.61,105
+Argos,Shopping,115.28,17
+Burger King,Food & Drink,139.21,156
+EDF,Utilities & Bills,185.78,169
+John Lewis,Shopping,132.33,71
+Waitrose,Groceries,55.31,89
+Sainsbury's,Groceries,75.43,74
+Octopus Energy,Utilities & Bills,40.27,183
+Sky Mobile,Mobile Services,23.52,20
+Tesco,Groceries,27.56,108
+Aldi,Groceries,27.56,66
+EDF,Utilities & Bills,8.7,67
+British Gas,Utilities & Bills,143.1,73
+eBay,Shopping,81.66,100
+Aldi,Groceries,5.49,196
+John Lewis,Shopping,30.95,10
+Vue,Entertainment,185.45,48
+Vue,Entertainment,194.21,100
+Burger King,Food & Drink,171.63,28
+Amazon,Shopping,99.48,7
+Amazon,Shopping,115.31,129
+Greggs,Food & Drink,182.8,46
+KFC,Food & Drink,169.75,176
+EDF,Utilities & Bills,127.02,27
+Octopus Energy,Utilities & Bills,27.69,85
+Giffgaff,Mobile Services,111.34,15
+Uber,Transport,130.62,155
+Pret A Manger,Food & Drink,149.42,17
+Tesco,Groceries,169.32,178
+Uber,Transport,27.39,113
+Spotify,Entertainment,8.37,63
+Amazon,Shopping,8.87,43
+KFC,Food & Drink,91.94,178
+Iceland,Groceries,153.65,75
+Burger King,Food & Drink,238.12,138
+Burger King,Food & Drink,98.9,164
+Morrisons,Groceries,138.34,174
+Sainsbury's,Groceries,130.83,120
+Iceland,Groceries,76.42,73
+Vue,Entertainment,136.89,113
+National Rail,Transport,229.24,37
+Argos,Shopping,197.91,85
+McDonald's,Food & Drink,219.06,123
+Bolt,Transport,109.76,164
+Greggs,Food & Drink,40.37,79
+Bolt,Transport,207.06,150
+Sainsbury's,Groceries,10.37,4
+Thames Water,Utilities & Bills,104.87,107
+Thames Water,Utilities & Bills,232.14,129
+Sky Mobile,Mobile Services,105.37,121
+eBay,Shopping,44.08,157
+Netflix,Entertainment,50.48,21
+Nando's,Food & Drink,181.54,47
+TFL,Transport,32.06,69
+Primark,Shopping,231.52,27
+Nando's,Food & Drink,67.45,61
+Virgin Mobile,Mobile Services,208.0,153
+Apple Music,Entertainment,85.05,177
+Costa,Food & Drink,235.57,97
+ASOS,Shopping,226.37,6
+Lidl,Groceries,128.27,150
+eBay,Shopping,199.65,87
+Primark,Shopping,215.4,195
+EDF,Utilities & Bills,8.25,29
+Giffgaff,Mobile Services,105.72,160
+Thames Water,Utilities & Bills,61.25,151
+Netflix,Entertainment,186.45,85
+McDonald's,Food & Drink,184.44,18
+Octopus Energy,Utilities & Bills,137.64,158
+eBay,Shopping,45.61,170
+Iceland,Groceries,34.77,115
+Bolt,Transport,132.21,28
+Iceland,Groceries,45.9,47
+British Gas,Utilities & Bills,62.38,143
+Thames Water,Utilities & Bills,145.12,107
+Netflix,Entertainment,106.86,190
+John Lewis,Shopping,171.35,168
+Virgin Mobile,Mobile Services,47.07,178
+Pret A Manger,Food & Drink,138.94,129
+McDonald's,Food & Drink,135.46,48
+ASOS,Shopping,33.71,157
+Vodafone,Mobile Services,245.21,17
+Giffgaff,Mobile Services,101.01,49
+Morrisons,Groceries,194.38,103
+Netflix,Entertainment,9.44,17
+Tesco,Groceries,169.95,131
+Giffgaff,Mobile Services,158.96,160
+Greggs,Food & Drink,220.98,54
+Uber,Transport,136.24,65
+Netflix,Entertainment,219.17,169
+Aldi,Groceries,86.74,199
+EDF,Utilities & Bills,49.94,194
+ASOS,Shopping,123.66,139
+Netflix,Entertainment,201.87,179
+KFC,Food & Drink,15.29,6
+TFL,Transport,137.73,36
+Vodafone,Mobile Services,138.67,49
+Disney+,Entertainment,96.99,45
+British Gas,Utilities & Bills,61.73,123
+McDonald's,Food & Drink,114.36,3
+Octopus Energy,Utilities & Bills,96.27,59
+Virgin Mobile,Mobile Services,96.75,60
+TFL,Transport,165.9,107
+Iceland,Groceries,58.33,62
+Amazon,Shopping,6.3,124
+McDonald's,Food & Drink,30.4,48
+Primark,Shopping,192.8,58
+Apple Music,Entertainment,90.8,58
+Uber,Transport,8.58,192
+Uber,Transport,99.72,92
+Zara,Shopping,223.15,157
+Starbucks,Food & Drink,68.27,131
+Disney+,Entertainment,222.84,62
+Greggs,Food & Drink,121.11,13
+Iceland,Groceries,99.62,104
+Tesco,Groceries,64.17,187
+Burger King,Food & Drink,217.82,138
+TFL,Transport,51.04,81
+Costa,Food & Drink,37.74,115
+Nando's,Food & Drink,166.58,113
+Octopus Energy,Utilities & Bills,135.65,195
+British Gas,Utilities & Bills,160.91,129
+EDF,Utilities & Bills,207.35,149
+Burger King,Food & Drink,58.59,100
+Virgin Mobile,Mobile Services,20.47,181
+Sky Mobile,Mobile Services,195.62,23
+Virgin Mobile,Mobile Services,197.74,101
+National Rail,Transport,41.9,136
+ASOS,Shopping,68.6,70
+Apple Music,Entertainment,222.67,79
+Spotify,Entertainment,14.55,178
+EDF,Utilities & Bills,224.99,187
+Giffgaff,Mobile Services,111.92,77
+Octopus Energy,Utilities & Bills,211.99,75
+eBay,Shopping,178.18,38
+Aldi,Groceries,226.26,189
+Sky Mobile,Mobile Services,202.63,195
+Vue,Entertainment,64.17,143
+Apple Music,Entertainment,36.87,187
+Vue,Entertainment,104.47,158
+Vodafone,Mobile Services,165.31,35
+Octopus Energy,Utilities & Bills,9.2,152
+Starbucks,Food & Drink,191.76,160
+Sky Mobile,Mobile Services,130.35,186
+Waitrose,Groceries,158.03,85
+Disney+,Entertainment,100.7,68
+Apple Music,Entertainment,190.4,171
+Costa,Food & Drink,38.92,153
+National Rail,Transport,151.23,152
+Iceland,Groceries,96.01,28
+Vue,Entertainment,119.97,149
+Bolt,Transport,164.13,113
+Greggs,Food & Drink,235.28,14
+Waitrose,Groceries,209.04,155
+Virgin Mobile,Mobile Services,96.42,75
+Spotify,Entertainment,127.59,169
+Morrisons,Groceries,243.69,182
+Burger King,Food & Drink,43.27,64
+Vodafone,Mobile Services,106.39,104
+Bolt,Transport,116.52,175
+ASOS,Shopping,237.44,178
+Bolt,Transport,195.88,119
+Waitrose,Groceries,116.13,40
+Thames Water,Utilities & Bills,240.43,131
+National Rail,Transport,238.62,13
+Disney+,Entertainment,145.29,66
+Bolt,Transport,147.88,200
+National Rail,Transport,150.55,148
+Disney+,Entertainment,25.72,128
+National Rail,Transport,65.34,174
+British Gas,Utilities & Bills,56.75,45
+Morrisons,Groceries,172.45,155
+Netflix,Entertainment,249.32,37
+Starbucks,Food & Drink,157.54,119
+Zara,Shopping,212.61,110
+National Rail,Transport,21.42,119
+Uber,Transport,168.98,42
+EDF,Utilities & Bills,25.85,11
+Costa,Food & Drink,106.97,58
+Pret A Manger,Food & Drink,119.93,102
+KFC,Food & Drink,46.04,84
+Lidl,Groceries,191.03,40
+National Rail,Transport,43.12,139
+Thames Water,Utilities & Bills,78.35,94
+Bolt,Transport,67.83,49
+Uber,Transport,79.11,36
+Disney+,Entertainment,203.21,82
+British Gas,Utilities & Bills,246.75,120
+Virgin Mobile,Mobile Services,123.71,119
+Aldi,Groceries,156.22,190
+Disney+,Entertainment,128.85,152
+Aldi,Groceries,72.04,190
+Giffgaff,Mobile Services,113.23,57
+Virgin Mobile,Mobile Services,74.07,9
+EDF,Utilities & Bills,90.03,18
+Aldi,Groceries,195.38,143
+Nando's,Food & Drink,16.02,167
+Netflix,Entertainment,192.46,40
+Bolt,Transport,52.82,82
+Netflix,Entertainment,125.68,172
+British Gas,Utilities & Bills,166.23,48
+KFC,Food & Drink,85.42,196
+Tesco,Groceries,130.89,141
+Netflix,Entertainment,205.37,134
+Lidl,Groceries,146.93,90
+British Gas,Utilities & Bills,103.68,39
+ASOS,Shopping,167.11,191
+Thames Water,Utilities & Bills,50.39,195
+TFL,Transport,49.8,150
+Netflix,Entertainment,197.48,32
+Sainsbury's,Groceries,95.01,187
+Uber,Transport,183.72,93
+Giffgaff,Mobile Services,47.91,89
+Giffgaff,Mobile Services,66.9,84
+Sky Mobile,Mobile Services,69.5,13
+Disney+,Entertainment,199.19,20
+Uber,Transport,61.85,164
+Amazon,Shopping,91.05,17
+KFC,Food & Drink,230.58,109
+Virgin Mobile,Mobile Services,154.44,59
+Nando's,Food & Drink,227.57,167
+Netflix,Entertainment,194.27,189
+Virgin Mobile,Mobile Services,191.3,145
+British Gas,Utilities & Bills,234.12,94
+McDonald's,Food & Drink,170.23,94
+Netflix,Entertainment,130.09,116
+Giffgaff,Mobile Services,119.74,108
+Giffgaff,Mobile Services,17.31,180
+EDF,Utilities & Bills,213.98,137
+British Gas,Utilities & Bills,44.37,75
+KFC,Food & Drink,63.18,15
+Uber,Transport,194.48,185
+Iceland,Groceries,175.43,107
+Burger King,Food & Drink,18.6,103
+Morrisons,Groceries,194.33,160
+McDonald's,Food & Drink,214.84,168
+Vodafone,Mobile Services,99.89,178
+EDF,Utilities & Bills,188.61,54
+Amazon,Shopping,62.43,139
+ASOS,Shopping,240.57,63
+Morrisons,Groceries,70.05,17
+British Gas,Utilities & Bills,52.12,28
+Burger King,Food & Drink,237.05,115
+National Rail,Transport,90.85,177
+Aldi,Groceries,241.02,52
+KFC,Food & Drink,138.04,188
+British Gas,Utilities & Bills,81.41,99
+Thames Water,Utilities & Bills,81.72,28
+Argos,Shopping,89.13,40
+Zara,Shopping,246.29,114
+Bolt,Transport,20.14,137
+Vodafone,Mobile Services,178.98,31
+Virgin Mobile,Mobile Services,114.95,34
+Sainsbury's,Groceries,6.23,118
+Starbucks,Food & Drink,189.04,192
+Pret A Manger,Food & Drink,226.57,5
+Sainsbury's,Groceries,235.68,113
+Sky Mobile,Mobile Services,57.05,181
+Bolt,Transport,180.69,95
+Greggs,Food & Drink,190.58,132
+Vodafone,Mobile Services,174.31,129
+EDF,Utilities & Bills,183.78,131
+McDonald's,Food & Drink,110.34,177
+Bolt,Transport,47.47,116
+EDF,Utilities & Bills,125.74,110
+TFL,Transport,111.29,21
+Argos,Shopping,138.94,113
+Aldi,Groceries,184.59,196
+Sainsbury's,Groceries,30.93,104
+Vodafone,Mobile Services,225.1,138
+Primark,Shopping,7.65,61
+Disney+,Entertainment,146.33,55
+Vue,Entertainment,245.24,93
+Netflix,Entertainment,224.45,2
+Primark,Shopping,156.15,11
+National Rail,Transport,30.3,90
+Vue,Entertainment,188.3,192
+Apple Music,Entertainment,205.59,122
+EDF,Utilities & Bills,12.79,186
+Disney+,Entertainment,17.34,52
+Primark,Shopping,133.28,22
+Netflix,Entertainment,66.95,191
+Burger King,Food & Drink,224.95,79
+eBay,Shopping,121.95,8
+British Gas,Utilities & Bills,17.69,90
+Netflix,Entertainment,209.47,78
+Vue,Entertainment,59.2,72
+Apple Music,Entertainment,99.23,159
+Vue,Entertainment,9.11,197
+Octopus Energy,Utilities & Bills,172.55,162
+Nando's,Food & Drink,121.52,20
+Octopus Energy,Utilities & Bills,165.27,146
+Uber,Transport,232.38,13
+Vodafone,Mobile Services,63.59,143
+Morrisons,Groceries,234.93,163
+John Lewis,Shopping,91.89,100
+Sainsbury's,Groceries,209.24,104
+Apple Music,Entertainment,96.5,107
+Starbucks,Food & Drink,113.81,164
+Disney+,Entertainment,136.76,165
+Sky Mobile,Mobile Services,75.56,40
+Aldi,Groceries,227.28,132
+Disney+,Entertainment,46.21,194
+Sky Mobile,Mobile Services,61.69,24
+Sky Mobile,Mobile Services,69.27,45
+KFC,Food & Drink,17.3,108
+Morrisons,Groceries,160.68,57
+Iceland,Groceries,189.34,146
+McDonald's,Food & Drink,196.34,167
+Bolt,Transport,207.0,173
+Giffgaff,Mobile Services,6.97,184
+McDonald's,Food & Drink,110.67,4
+Disney+,Entertainment,211.83,168
+KFC,Food & Drink,72.22,6
+Morrisons,Groceries,71.64,139
+Tesco,Groceries,175.69,191
+Uber,Transport,183.45,133
+Thames Water,Utilities & Bills,202.33,22
+Primark,Shopping,98.65,11
+Vue,Entertainment,196.15,137
+National Rail,Transport,166.58,18
+John Lewis,Shopping,234.94,23
+Pret A Manger,Food & Drink,222.34,69
+Vodafone,Mobile Services,138.88,30
+Primark,Shopping,36.97,112
+Giffgaff,Mobile Services,200.32,58
+British Gas,Utilities & Bills,202.22,25
+British Gas,Utilities & Bills,152.6,10
+Waitrose,Groceries,10.81,149
+EDF,Utilities & Bills,79.63,192
+Thames Water,Utilities & Bills,73.04,121
+Costa,Food & Drink,17.4,75
+John Lewis,Shopping,101.26,187
+KFC,Food & Drink,7.77,108
+Morrisons,Groceries,65.73,42
+National Rail,Transport,102.43,130
+Pret A Manger,Food & Drink,136.17,79
+Vodafone,Mobile Services,226.54,111
+Virgin Mobile,Mobile Services,52.64,124
+Uber,Transport,208.93,17
+Giffgaff,Mobile Services,82.8,36
+Apple Music,Entertainment,27.03,36
+Bolt,Transport,87.68,76
+Disney+,Entertainment,167.39,180
+Uber,Transport,113.32,195
+Vodafone,Mobile Services,174.98,180
+Lidl,Groceries,145.14,64
+Vue,Entertainment,228.15,29
+Uber,Transport,70.7,164
+Burger King,Food & Drink,35.76,146
+Spotify,Entertainment,148.29,19
+Virgin Mobile,Mobile Services,52.39,62
+EDF,Utilities & Bills,89.48,180
+TFL,Transport,77.84,147
+Octopus Energy,Utilities & Bills,219.4,79
+Primark,Shopping,169.91,132
+Costa,Food & Drink,16.1,87
+British Gas,Utilities & Bills,93.32,186
+Uber,Transport,247.49,77
+Starbucks,Food & Drink,43.27,135
+TFL,Transport,46.42,159
+Tesco,Groceries,129.24,159
+Morrisons,Groceries,119.58,66
+Aldi,Groceries,114.38,194
+National Rail,Transport,143.24,144
+British Gas,Utilities & Bills,233.94,107
+John Lewis,Shopping,141.27,4
+Virgin Mobile,Mobile Services,133.28,140
+Giffgaff,Mobile Services,223.03,92
+Zara,Shopping,56.53,106
+Virgin Mobile,Mobile Services,152.61,4
+TFL,Transport,35.86,40
+Pret A Manger,Food & Drink,241.14,195
+TFL,Transport,170.74,113
+Octopus Energy,Utilities & Bills,192.63,130
+Bolt,Transport,110.12,166
+Uber,Transport,9.5,10
+Bolt,Transport,62.17,77
+eBay,Shopping,58.58,165
+Thames Water,Utilities & Bills,57.02,185
+Bolt,Transport,16.02,41
+KFC,Food & Drink,122.24,66
+National Rail,Transport,35.96,90
+Argos,Shopping,24.99,176
+TFL,Transport,159.69,65
+Aldi,Groceries,182.44,155
+Nando's,Food & Drink,202.35,194
+Spotify,Entertainment,150.04,84
+Apple Music,Entertainment,22.0,78
+Disney+,Entertainment,36.23,162
+Greggs,Food & Drink,41.92,198
+Uber,Transport,76.87,127
+Spotify,Entertainment,153.34,96
+ASOS,Shopping,171.51,18
+British Gas,Utilities & Bills,67.14,109
+Waitrose,Groceries,231.45,149
+Iceland,Groceries,113.38,198
+National Rail,Transport,226.16,87
+EDF,Utilities & Bills,88.97,32
+Vodafone,Mobile Services,231.44,54
+Vodafone,Mobile Services,164.2,109
+Aldi,Groceries,163.0,123
+British Gas,Utilities & Bills,223.34,31
+Tesco,Groceries,140.82,110
+Octopus Energy,Utilities & Bills,137.37,168
+Vue,Entertainment,206.78,133
+ASOS,Shopping,25.84,153
+Virgin Mobile,Mobile Services,168.24,69
+TFL,Transport,63.87,129
+National Rail,Transport,28.68,75
+Sky Mobile,Mobile Services,244.31,157
+Octopus Energy,Utilities & Bills,21.12,20
+British Gas,Utilities & Bills,204.06,58
+Netflix,Entertainment,103.66,157
+Bolt,Transport,150.11,112
+Tesco,Groceries,159.94,163
+Vue,Entertainment,34.29,109
+Uber,Transport,202.0,19
+British Gas,Utilities & Bills,156.7,141
+Spotify,Entertainment,193.04,52
+Giffgaff,Mobile Services,200.14,43
+Aldi,Groceries,140.01,90
+Sainsbury's,Groceries,78.03,77
+Uber,Transport,26.08,39
+Aldi,Groceries,121.17,183
+British Gas,Utilities & Bills,161.25,155
+Iceland,Groceries,133.19,19
+Octopus Energy,Utilities & Bills,151.66,113
+Greggs,Food & Drink,224.99,72
+Aldi,Groceries,183.9,120
+Sky Mobile,Mobile Services,227.4,68
+Primark,Shopping,176.93,110
+TFL,Transport,235.69,165
+EDF,Utilities & Bills,82.36,121
+Netflix,Entertainment,209.14,54
+Primark,Shopping,170.54,75
+Zara,Shopping,116.27,11
+Bolt,Transport,139.87,173
+Virgin Mobile,Mobile Services,148.21,111
+Argos,Shopping,204.86,29
+Tesco,Groceries,128.95,78
+Iceland,Groceries,127.33,195
+Octopus Energy,Utilities & Bills,235.56,173
+Virgin Mobile,Mobile Services,221.4,179
+Octopus Energy,Utilities & Bills,155.42,181
+Thames Water,Utilities & Bills,102.25,64
+Giffgaff,Mobile Services,235.42,22
+Argos,Shopping,53.42,74
+Starbucks,Food & Drink,152.44,125
+Burger King,Food & Drink,217.7,161
+Primark,Shopping,100.98,162
+Uber,Transport,156.89,4
+Zara,Shopping,150.83,189
+Lidl,Groceries,67.29,36
+Greggs,Food & Drink,24.42,27
+EDF,Utilities & Bills,102.1,157
+Morrisons,Groceries,218.13,31
+Uber,Transport,24.75,48
+Octopus Energy,Utilities & Bills,120.13,132
+Octopus Energy,Utilities & Bills,82.18,66
+National Rail,Transport,208.02,18
+McDonald's,Food & Drink,52.82,1
+Virgin Mobile,Mobile Services,247.0,90
+Spotify,Entertainment,14.87,86
+Lidl,Groceries,108.55,101
+EDF,Utilities & Bills,224.29,12
+Octopus Energy,Utilities & Bills,10.41,137
+EDF,Utilities & Bills,8.16,29
+John Lewis,Shopping,37.38,15
+Greggs,Food & Drink,10.91,172
+Octopus Energy,Utilities & Bills,151.87,171
+Greggs,Food & Drink,189.27,186
+Primark,Shopping,16.85,122
+Aldi,Groceries,53.86,196
+Argos,Shopping,200.95,22
+Greggs,Food & Drink,234.17,170
+Zara,Shopping,151.65,55
+Morrisons,Groceries,137.57,156
+TFL,Transport,158.28,9
+McDonald's,Food & Drink,205.8,197
+Giffgaff,Mobile Services,192.1,187
+Pret A Manger,Food & Drink,168.3,15
+Giffgaff,Mobile Services,8.02,131
+Sainsbury's,Groceries,54.56,35
+Thames Water,Utilities & Bills,102.46,77
+Vue,Entertainment,221.47,8
+Virgin Mobile,Mobile Services,40.61,132
+Lidl,Groceries,11.32,136
+Vodafone,Mobile Services,143.67,9
+Bolt,Transport,240.15,71
+Sky Mobile,Mobile Services,15.8,169
+Thames Water,Utilities & Bills,133.6,172
+Argos,Shopping,236.76,110
+Amazon,Shopping,234.55,89
+Primark,Shopping,35.2,112
+EDF,Utilities & Bills,45.69,23
+Iceland,Groceries,172.66,171
+Argos,Shopping,232.37,43
+Thames Water,Utilities & Bills,23.81,188
+Giffgaff,Mobile Services,18.58,56
+Morrisons,Groceries,106.35,68
+EDF,Utilities & Bills,29.11,67
+KFC,Food & Drink,139.72,24
+Virgin Mobile,Mobile Services,125.15,197
+Primark,Shopping,48.86,111
+Costa,Food & Drink,148.99,45
+Nando's,Food & Drink,231.0,114
+Giffgaff,Mobile Services,163.63,147
+Morrisons,Groceries,63.96,14
+EDF,Utilities & Bills,60.04,193
+Waitrose,Groceries,244.66,151
+British Gas,Utilities & Bills,86.88,183
+National Rail,Transport,184.23,33
+Aldi,Groceries,202.02,126
+ASOS,Shopping,174.55,98
+Sky Mobile,Mobile Services,117.61,38
+Spotify,Entertainment,249.15,16
+National Rail,Transport,193.39,173
+Thames Water,Utilities & Bills,43.89,85
+KFC,Food & Drink,36.25,65
+British Gas,Utilities & Bills,79.19,87
+Waitrose,Groceries,107.51,158
+Vue,Entertainment,90.71,149
+Zara,Shopping,140.6,45
+Bolt,Transport,21.94,47
+Sainsbury's,Groceries,120.89,176
+TFL,Transport,68.98,137
+Apple Music,Entertainment,106.04,21
+KFC,Food & Drink,154.48,77
+Zara,Shopping,82.74,117
+Uber,Transport,175.03,194
+Argos,Shopping,6.58,134
+Tesco,Groceries,64.43,134
+Vue,Entertainment,148.28,168
+Morrisons,Groceries,145.59,152
+Sainsbury's,Groceries,180.03,116
+Apple Music,Entertainment,67.14,1
+Uber,Transport,10.53,126
+Sainsbury's,Groceries,223.21,147
+Sky Mobile,Mobile Services,154.85,182
+Tesco,Groceries,145.17,147
+Argos,Shopping,49.39,104
+Virgin Mobile,Mobile Services,80.07,125
+Apple Music,Entertainment,109.49,96
+John Lewis,Shopping,26.51,10
+EDF,Utilities & Bills,57.43,188
+Uber,Transport,203.91,15
+TFL,Transport,216.55,109
+Argos,Shopping,233.52,16
+Sky Mobile,Mobile Services,141.56,69
+Giffgaff,Mobile Services,143.32,146
+Virgin Mobile,Mobile Services,204.94,4
+McDonald's,Food & Drink,181.44,95
+John Lewis,Shopping,17.06,110
+eBay,Shopping,67.77,99
+Apple Music,Entertainment,11.03,164
+Spotify,Entertainment,92.36,73
+TFL,Transport,81.59,56
+TFL,Transport,156.99,64
+Giffgaff,Mobile Services,233.96,179
+Netflix,Entertainment,42.21,20
+TFL,Transport,37.03,130
+ASOS,Shopping,109.91,106
+Virgin Mobile,Mobile Services,94.91,99
+Pret A Manger,Food & Drink,163.08,192
+Vue,Entertainment,102.58,188
+Iceland,Groceries,53.66,144
+Primark,Shopping,199.79,183
+Morrisons,Groceries,40.07,102
+TFL,Transport,11.26,49
+Zara,Shopping,70.52,179
+Greggs,Food & Drink,151.99,83
+Starbucks,Food & Drink,79.1,7
+Sainsbury's,Groceries,192.34,153
+Thames Water,Utilities & Bills,28.89,134
+Netflix,Entertainment,18.17,174
+Sainsbury's,Groceries,64.67,126
+Greggs,Food & Drink,201.59,166
+Vue,Entertainment,238.33,21
+Thames Water,Utilities & Bills,62.73,59
+Aldi,Groceries,75.91,59
+Giffgaff,Mobile Services,246.71,157
+Vodafone,Mobile Services,171.04,196
+Waitrose,Groceries,161.4,104
+Sky Mobile,Mobile Services,240.07,199
+TFL,Transport,46.23,75
+McDonald's,Food & Drink,160.83,63
+Uber,Transport,130.22,127
+John Lewis,Shopping,199.3,48
+Aldi,Groceries,233.8,99
+Bolt,Transport,169.4,61
+Sky Mobile,Mobile Services,220.42,24
+TFL,Transport,154.94,79
+Virgin Mobile,Mobile Services,90.7,50
+TFL,Transport,71.29,131
+British Gas,Utilities & Bills,216.55,98
+Spotify,Entertainment,138.34,1
+Burger King,Food & Drink,67.63,78
+ASOS,Shopping,132.53,199
+Apple Music,Entertainment,106.89,14
+Iceland,Groceries,121.13,101
+EDF,Utilities & Bills,150.86,93
+Uber,Transport,105.62,22
+Lidl,Groceries,205.96,122
+John Lewis,Shopping,117.22,186
+Virgin Mobile,Mobile Services,233.05,167
+Burger King,Food & Drink,151.03,69
+Spotify,Entertainment,5.4,51
+ASOS,Shopping,55.04,197
+Starbucks,Food & Drink,30.82,107
+Bolt,Transport,211.75,22
+Nando's,Food & Drink,189.45,110
+Argos,Shopping,182.08,127
+Amazon,Shopping,34.19,4
+Disney+,Entertainment,22.89,59
+Primark,Shopping,62.45,183
+National Rail,Transport,248.61,34
+Virgin Mobile,Mobile Services,51.52,56
+ASOS,Shopping,24.89,182
+Netflix,Entertainment,113.82,39
+Disney+,Entertainment,219.98,146
+Virgin Mobile,Mobile Services,7.43,98
+Greggs,Food & Drink,247.27,146
+Nando's,Food & Drink,189.87,193
+Bolt,Transport,102.67,114
+Lidl,Groceries,178.06,78
+John Lewis,Shopping,84.84,42
+Waitrose,Groceries,9.48,20
+Iceland,Groceries,248.01,182
+Amazon,Shopping,62.22,175
+Sky Mobile,Mobile Services,109.9,185
+Vodafone,Mobile Services,107.26,30
+Vue,Entertainment,226.8,157
+Tesco,Groceries,136.58,193
+Virgin Mobile,Mobile Services,19.76,122
+eBay,Shopping,83.5,110
+British Gas,Utilities & Bills,160.55,147
+Primark,Shopping,10.09,114
+Netflix,Entertainment,206.21,198
+Netflix,Entertainment,239.08,21
+Spotify,Entertainment,112.82,54
+KFC,Food & Drink,33.31,100
+KFC,Food & Drink,227.75,121
+Morrisons,Groceries,245.29,181
+Vodafone,Mobile Services,75.8,46
+Spotify,Entertainment,189.86,16
+Vodafone,Mobile Services,174.36,10
+McDonald's,Food & Drink,114.56,140
+Octopus Energy,Utilities & Bills,186.17,84
+eBay,Shopping,33.96,58
+British Gas,Utilities & Bills,97.45,45
+Zara,Shopping,237.95,135
+Vodafone,Mobile Services,242.56,97
+Vodafone,Mobile Services,48.88,192
+Tesco,Groceries,177.96,130
+Virgin Mobile,Mobile Services,31.63,87
+British Gas,Utilities & Bills,122.05,157
+Pret A Manger,Food & Drink,158.78,87
+Disney+,Entertainment,115.32,169
+Sky Mobile,Mobile Services,222.43,32
+Virgin Mobile,Mobile Services,231.4,105
+ASOS,Shopping,81.86,6
+Virgin Mobile,Mobile Services,41.38,158
+Uber,Transport,98.62,97
+Pret A Manger,Food & Drink,63.18,170
+Aldi,Groceries,152.23,41
+Virgin Mobile,Mobile Services,206.88,64
+British Gas,Utilities & Bills,201.23,130
+Vodafone,Mobile Services,131.74,13
+Giffgaff,Mobile Services,172.55,22
+Virgin Mobile,Mobile Services,82.44,74
+ASOS,Shopping,93.3,117
+EDF,Utilities & Bills,24.74,168
+Thames Water,Utilities & Bills,138.27,57
+KFC,Food & Drink,123.55,62
+Primark,Shopping,231.88,117
+KFC,Food & Drink,147.48,186
+Lidl,Groceries,138.94,183
+Disney+,Entertainment,135.97,18
+KFC,Food & Drink,78.86,45
+Starbucks,Food & Drink,96.16,177
+Spotify,Entertainment,238.26,148
+Sky Mobile,Mobile Services,18.36,79
+Morrisons,Groceries,58.06,19
+Greggs,Food & Drink,124.41,154
+Burger King,Food & Drink,240.58,82
+Vue,Entertainment,91.15,42
+Tesco,Groceries,78.31,76
+Zara,Shopping,182.65,49
+Virgin Mobile,Mobile Services,94.0,52
+Uber,Transport,152.34,46
+Thames Water,Utilities & Bills,202.25,189
+Octopus Energy,Utilities & Bills,114.26,25
+Burger King,Food & Drink,170.07,186
+Spotify,Entertainment,156.71,148
+Giffgaff,Mobile Services,58.69,154
+Burger King,Food & Drink,76.52,26
+ASOS,Shopping,98.22,195
+National Rail,Transport,180.21,2
+Thames Water,Utilities & Bills,121.4,140
+Greggs,Food & Drink,136.23,78
+Octopus Energy,Utilities & Bills,168.35,149
+National Rail,Transport,5.23,66
+Starbucks,Food & Drink,92.7,23
+eBay,Shopping,38.9,130
+National Rail,Transport,183.39,131
+Vodafone,Mobile Services,176.71,100
+Thames Water,Utilities & Bills,80.81,44
+Apple Music,Entertainment,224.86,22
+Greggs,Food & Drink,211.32,117
+Morrisons,Groceries,141.1,19
+Thames Water,Utilities & Bills,218.06,107
+Vue,Entertainment,171.69,143
+Sainsbury's,Groceries,186.27,181
+Netflix,Entertainment,160.65,93
+EDF,Utilities & Bills,131.93,72
+Netflix,Entertainment,142.14,72
+KFC,Food & Drink,185.99,119
+British Gas,Utilities & Bills,181.22,140
+Thames Water,Utilities & Bills,27.72,34
+Argos,Shopping,182.89,145
+Iceland,Groceries,203.84,1
+TFL,Transport,152.14,141
+Costa,Food & Drink,179.39,121
+Bolt,Transport,183.27,130
+Uber,Transport,181.68,6
+Vue,Entertainment,124.37,185
+Vodafone,Mobile Services,125.0,8
+Pret A Manger,Food & Drink,38.41,10
+Spotify,Entertainment,68.08,36
+Disney+,Entertainment,111.88,14
+Octopus Energy,Utilities & Bills,72.8,149
+Bolt,Transport,22.08,20
+Sky Mobile,Mobile Services,75.53,154
+Octopus Energy,Utilities & Bills,13.99,44
+Thames Water,Utilities & Bills,213.79,190
+Burger King,Food & Drink,140.44,38
+Sainsbury's,Groceries,169.83,149
+EDF,Utilities & Bills,73.93,39
+John Lewis,Shopping,196.84,57
+National Rail,Transport,212.19,42
+Sainsbury's,Groceries,128.7,180
+KFC,Food & Drink,245.39,25
+Morrisons,Groceries,13.93,180
+British Gas,Utilities & Bills,33.9,64
+Vodafone,Mobile Services,236.23,2
+Nando's,Food & Drink,108.32,84
+Waitrose,Groceries,146.52,146
+Octopus Energy,Utilities & Bills,82.31,125
+Thames Water,Utilities & Bills,61.68,87
+Uber,Transport,241.74,186
+Greggs,Food & Drink,131.57,13
+Primark,Shopping,212.8,94
+Sainsbury's,Groceries,190.66,54
+Primark,Shopping,231.54,53
+Argos,Shopping,228.64,5
+Burger King,Food & Drink,20.65,83
+Vue,Entertainment,213.75,123
+Costa,Food & Drink,189.18,130
+Aldi,Groceries,241.1,77
+Spotify,Entertainment,24.53,135
+Costa,Food & Drink,146.04,16
+Vodafone,Mobile Services,187.81,73
+Giffgaff,Mobile Services,136.65,74
+Uber,Transport,71.53,110
+Nando's,Food & Drink,54.44,127
+Vodafone,Mobile Services,103.58,99
+Sky Mobile,Mobile Services,50.09,85
+EDF,Utilities & Bills,56.21,108
+McDonald's,Food & Drink,14.88,85
+Apple Music,Entertainment,113.49,168
+Vue,Entertainment,54.87,189
+Vodafone,Mobile Services,210.46,159
+Disney+,Entertainment,13.44,140
+McDonald's,Food & Drink,78.94,97
+Uber,Transport,136.9,182
+Bolt,Transport,157.19,99
+Disney+,Entertainment,234.17,77
+Virgin Mobile,Mobile Services,124.59,58
+British Gas,Utilities & Bills,234.85,68
+Netflix,Entertainment,57.71,105
+Vue,Entertainment,55.18,121
+Virgin Mobile,Mobile Services,81.03,83
+British Gas,Utilities & Bills,54.85,4
+Virgin Mobile,Mobile Services,16.51,36
+Zara,Shopping,97.41,164
+Vue,Entertainment,161.89,53
+Pret A Manger,Food & Drink,237.18,63
+Zara,Shopping,72.13,4
+Netflix,Entertainment,37.67,178
+Vodafone,Mobile Services,60.94,76
+Uber,Transport,75.86,1
+Vodafone,Mobile Services,91.93,112
+Waitrose,Groceries,217.06,174
+Burger King,Food & Drink,42.18,49
+Octopus Energy,Utilities & Bills,199.94,132
+John Lewis,Shopping,105.63,199
+Virgin Mobile,Mobile Services,233.82,126
+Sky Mobile,Mobile Services,95.22,168
+Waitrose,Groceries,127.98,177
+Bolt,Transport,147.61,111
+Vue,Entertainment,116.94,192
+Thames Water,Utilities & Bills,121.49,195
+EDF,Utilities & Bills,25.39,124
+Primark,Shopping,139.68,56
+TFL,Transport,219.13,186
+Virgin Mobile,Mobile Services,141.63,151
+National Rail,Transport,130.59,145
+McDonald's,Food & Drink,215.18,158
+Disney+,Entertainment,48.04,164
+National Rail,Transport,196.11,109
+TFL,Transport,7.34,117
+TFL,Transport,235.28,69
+Virgin Mobile,Mobile Services,116.9,41
+Apple Music,Entertainment,115.31,10
+British Gas,Utilities & Bills,246.01,179
+Netflix,Entertainment,181.51,78
+Apple Music,Entertainment,24.41,145
+Disney+,Entertainment,37.94,52
+Vue,Entertainment,11.64,50
+ASOS,Shopping,191.66,97
+EDF,Utilities & Bills,199.04,36
+Greggs,Food & Drink,100.36,6
+Amazon,Shopping,197.37,21
+TFL,Transport,19.02,116
+Bolt,Transport,73.28,156
+Apple Music,Entertainment,147.06,198
+ASOS,Shopping,206.79,97
+ASOS,Shopping,18.47,21
+Tesco,Groceries,114.65,153
+Giffgaff,Mobile Services,130.06,55
+National Rail,Transport,33.26,98
+Vue,Entertainment,68.38,87
+Amazon,Shopping,158.18,19
+Morrisons,Groceries,144.69,42
+Pret A Manger,Food & Drink,136.7,17
+Morrisons,Groceries,135.86,62
+TFL,Transport,184.62,167
+McDonald's,Food & Drink,239.18,199
+Zara,Shopping,104.38,173
+Bolt,Transport,36.66,158
+National Rail,Transport,152.8,196
+Iceland,Groceries,77.38,170
+John Lewis,Shopping,154.78,17
+Thames Water,Utilities & Bills,205.21,23
+Amazon,Shopping,90.0,9
+Vodafone,Mobile Services,123.62,163
+British Gas,Utilities & Bills,88.81,76
+Uber,Transport,50.94,109
+Argos,Shopping,68.91,59
+British Gas,Utilities & Bills,130.22,146
+Thames Water,Utilities & Bills,144.94,18
+Morrisons,Groceries,218.77,82
+National Rail,Transport,147.86,162
+Vodafone,Mobile Services,27.65,38
+Morrisons,Groceries,147.4,200
+Sky Mobile,Mobile Services,239.74,133
+Thames Water,Utilities & Bills,174.08,167
+National Rail,Transport,113.64,194
+Iceland,Groceries,173.5,23
+Uber,Transport,17.66,68
+Vodafone,Mobile Services,39.05,135
+Zara,Shopping,125.3,133
+Bolt,Transport,6.67,124
+TFL,Transport,105.72,74
+Virgin Mobile,Mobile Services,162.05,17
+TFL,Transport,171.91,119
+Burger King,Food & Drink,125.56,45
+Pret A Manger,Food & Drink,56.69,44
+Virgin Mobile,Mobile Services,204.62,101
+KFC,Food & Drink,58.31,86
+Pret A Manger,Food & Drink,22.8,76
+Netflix,Entertainment,156.96,120
+Greggs,Food & Drink,26.94,88
+Primark,Shopping,57.32,69
+Starbucks,Food & Drink,58.28,21
+Thames Water,Utilities & Bills,218.54,3
+Uber,Transport,79.3,176
+British Gas,Utilities & Bills,70.36,108
+ASOS,Shopping,215.29,78
+Vue,Entertainment,162.9,164
+John Lewis,Shopping,160.73,2
+ASOS,Shopping,105.25,52
+TFL,Transport,217.23,22
+Sky Mobile,Mobile Services,203.85,188
+Greggs,Food & Drink,183.12,84
+Sky Mobile,Mobile Services,17.88,57
+Apple Music,Entertainment,154.37,120
+Starbucks,Food & Drink,102.21,118
+Vue,Entertainment,121.24,5
+Pret A Manger,Food & Drink,181.94,117
+Costa,Food & Drink,180.04,67
+Sky Mobile,Mobile Services,115.07,66
+EDF,Utilities & Bills,35.53,20
+Argos,Shopping,68.24,153
+TFL,Transport,78.0,45
+Iceland,Groceries,178.37,91
+Octopus Energy,Utilities & Bills,78.94,84
+Zara,Shopping,162.76,93
+Netflix,Entertainment,163.37,22
+Nando's,Food & Drink,66.69,18
+Octopus Energy,Utilities & Bills,24.95,64
+Nando's,Food & Drink,37.69,176
+Bolt,Transport,58.98,16
+Octopus Energy,Utilities & Bills,40.65,156
+Burger King,Food & Drink,168.4,59
+Spotify,Entertainment,217.66,45
+National Rail,Transport,162.56,94
+McDonald's,Food & Drink,17.08,128
+Virgin Mobile,Mobile Services,225.36,187
+EDF,Utilities & Bills,236.03,53
+Vodafone,Mobile Services,179.04,95
+Tesco,Groceries,233.43,182
+Disney+,Entertainment,88.54,4
+British Gas,Utilities & Bills,198.33,29
+TFL,Transport,11.04,186
+Waitrose,Groceries,59.64,39
+Virgin Mobile,Mobile Services,244.02,91
+TFL,Transport,171.83,123
+Zara,Shopping,36.45,159
+TFL,Transport,193.13,43
+Thames Water,Utilities & Bills,14.79,51
+Costa,Food & Drink,20.74,192
+McDonald's,Food & Drink,215.29,162
+Bolt,Transport,232.5,10
+Greggs,Food & Drink,102.5,85
+Zara,Shopping,243.28,177
+Sainsbury's,Groceries,167.14,189
+Apple Music,Entertainment,176.39,26
+Vue,Entertainment,30.12,144
+Vue,Entertainment,218.08,95
+Vue,Entertainment,23.86,182
+Iceland,Groceries,127.75,62
+Iceland,Groceries,210.52,139
+ASOS,Shopping,169.56,21
+Iceland,Groceries,206.02,192
+National Rail,Transport,211.71,31
+Starbucks,Food & Drink,134.13,9
+Virgin Mobile,Mobile Services,190.38,29
+Thames Water,Utilities & Bills,218.06,109
+EDF,Utilities & Bills,18.97,151
+ASOS,Shopping,9.29,156
+British Gas,Utilities & Bills,205.78,73
+Zara,Shopping,248.72,90
+Vue,Entertainment,68.8,72
+Giffgaff,Mobile Services,170.43,135
+Greggs,Food & Drink,74.53,58
+Octopus Energy,Utilities & Bills,170.67,117
+Tesco,Groceries,23.97,170
+Uber,Transport,30.88,67
+EDF,Utilities & Bills,83.97,53
+Costa,Food & Drink,177.3,87
+Greggs,Food & Drink,169.84,148
+Vodafone,Mobile Services,75.1,65
+Amazon,Shopping,110.84,117
+Uber,Transport,147.05,3
+British Gas,Utilities & Bills,48.09,192
+Uber,Transport,229.13,193
+Virgin Mobile,Mobile Services,190.95,28
+National Rail,Transport,55.99,59
+John Lewis,Shopping,62.06,144
+Giffgaff,Mobile Services,90.94,193
+Virgin Mobile,Mobile Services,80.82,43
+Vue,Entertainment,45.53,75
+Costa,Food & Drink,77.23,178
+Sky Mobile,Mobile Services,66.82,3
+TFL,Transport,220.29,161
+Disney+,Entertainment,227.21,199
+National Rail,Transport,115.96,164
+Uber,Transport,78.89,56
+Iceland,Groceries,27.79,183
+Argos,Shopping,130.75,69
+Iceland,Groceries,115.83,109
+Uber,Transport,28.91,164
+National Rail,Transport,63.03,178
+Argos,Shopping,136.63,21
+National Rail,Transport,18.4,47
+Giffgaff,Mobile Services,14.56,85
+Primark,Shopping,144.53,73
+Virgin Mobile,Mobile Services,88.73,2
+National Rail,Transport,170.2,59
+John Lewis,Shopping,60.44,186
+Sky Mobile,Mobile Services,200.65,41
+Waitrose,Groceries,228.0,144
+National Rail,Transport,124.86,14
+Vodafone,Mobile Services,81.04,81
+Costa,Food & Drink,115.07,171
+ASOS,Shopping,219.31,137
+Amazon,Shopping,121.15,146
+eBay,Shopping,228.49,125
+Burger King,Food & Drink,90.63,134
+McDonald's,Food & Drink,171.74,4
+Costa,Food & Drink,40.79,172
+Vodafone,Mobile Services,234.18,131
+Sainsbury's,Groceries,151.03,64
+EDF,Utilities & Bills,147.0,186
+Vodafone,Mobile Services,205.82,57
+EDF,Utilities & Bills,69.97,97
+National Rail,Transport,229.37,44
+Greggs,Food & Drink,159.39,69
+Giffgaff,Mobile Services,241.27,32
+eBay,Shopping,132.82,114
+Uber,Transport,204.91,185
+Netflix,Entertainment,88.85,62
+Iceland,Groceries,131.07,179
+Spotify,Entertainment,38.74,137
+McDonald's,Food & Drink,40.19,172
+Vodafone,Mobile Services,197.69,96
+McDonald's,Food & Drink,211.52,58
+Greggs,Food & Drink,154.73,56
+Morrisons,Groceries,93.5,30
+Sky Mobile,Mobile Services,93.58,55
+Lidl,Groceries,13.43,57
+Thames Water,Utilities & Bills,110.86,43
+Bolt,Transport,223.3,194
+Morrisons,Groceries,228.0,146
+Spotify,Entertainment,27.92,46
+Bolt,Transport,72.9,114
+Morrisons,Groceries,47.33,30
+Starbucks,Food & Drink,239.98,115
+National Rail,Transport,216.63,5
+Morrisons,Groceries,9.68,155
+Pret A Manger,Food & Drink,116.57,128
+Costa,Food & Drink,188.88,188
+Amazon,Shopping,113.46,97
+Vodafone,Mobile Services,204.22,26
+National Rail,Transport,63.0,117
+Netflix,Entertainment,106.83,22
+Giffgaff,Mobile Services,12.15,107
+Giffgaff,Mobile Services,124.54,117
+Octopus Energy,Utilities & Bills,92.89,39
+Argos,Shopping,113.17,166
+Starbucks,Food & Drink,217.89,50
+Octopus Energy,Utilities & Bills,181.08,155
+Primark,Shopping,52.12,190
+Disney+,Entertainment,229.14,150
+Octopus Energy,Utilities & Bills,124.27,140
+Iceland,Groceries,138.02,151
+Vodafone,Mobile Services,29.29,141
+Netflix,Entertainment,49.5,183
+Tesco,Groceries,45.32,130
+ASOS,Shopping,233.73,186
+Pret A Manger,Food & Drink,131.73,120
+Iceland,Groceries,92.9,192
+John Lewis,Shopping,31.82,103
+Primark,Shopping,240.74,67
+Tesco,Groceries,180.8,197
+John Lewis,Shopping,6.19,29
+Greggs,Food & Drink,24.26,130
+Apple Music,Entertainment,104.69,24
+Iceland,Groceries,184.49,58
+EDF,Utilities & Bills,63.55,143
+TFL,Transport,62.41,43
+Starbucks,Food & Drink,241.57,64
+Sainsbury's,Groceries,70.87,66
+British Gas,Utilities & Bills,207.23,26
+Vue,Entertainment,164.28,25
+ASOS,Shopping,157.52,90
+Starbucks,Food & Drink,157.82,149
+Amazon,Shopping,103.09,106
+Iceland,Groceries,132.46,44
+National Rail,Transport,224.9,127
+Sainsbury's,Groceries,234.44,76
+Vodafone,Mobile Services,58.19,46
+British Gas,Utilities & Bills,213.28,137
+Vue,Entertainment,49.81,91
+Argos,Shopping,136.71,161
+Virgin Mobile,Mobile Services,102.92,115
+National Rail,Transport,15.92,87
+Argos,Shopping,176.83,27
+Sainsbury's,Groceries,168.16,21
+McDonald's,Food & Drink,238.56,85
+Spotify,Entertainment,127.25,38
+Bolt,Transport,35.77,121
+Burger King,Food & Drink,84.24,67
+Amazon,Shopping,47.23,13
+Aldi,Groceries,153.91,57
+Waitrose,Groceries,132.0,5
+Burger King,Food & Drink,70.23,185
+Virgin Mobile,Mobile Services,205.37,53
+TFL,Transport,55.6,104
+EDF,Utilities & Bills,37.46,178
+National Rail,Transport,204.68,116
+Uber,Transport,214.05,39
+eBay,Shopping,229.8,112
+Vodafone,Mobile Services,36.58,128
+McDonald's,Food & Drink,240.4,15
+Uber,Transport,161.6,169
+KFC,Food & Drink,201.55,146
+Vodafone,Mobile Services,150.43,60
+Vodafone,Mobile Services,115.56,29
+Giffgaff,Mobile Services,30.92,177
+Amazon,Shopping,51.96,23
+John Lewis,Shopping,237.82,142
+Spotify,Entertainment,148.18,181
+Vodafone,Mobile Services,120.62,151
+Octopus Energy,Utilities & Bills,18.58,18
+Amazon,Shopping,233.96,182
+John Lewis,Shopping,63.39,120
+Disney+,Entertainment,86.84,196
+Costa,Food & Drink,194.43,11
+Sainsbury's,Groceries,46.78,127
+Zara,Shopping,84.17,16
+Thames Water,Utilities & Bills,78.13,21
+Pret A Manger,Food & Drink,97.45,17
+eBay,Shopping,117.15,148
+Argos,Shopping,23.77,181
+Vue,Entertainment,124.87,103
+Zara,Shopping,143.12,198
+Disney+,Entertainment,147.94,26
+eBay,Shopping,172.41,199
+British Gas,Utilities & Bills,182.06,59
+Giffgaff,Mobile Services,36.03,17
+Thames Water,Utilities & Bills,62.42,186
+Vue,Entertainment,97.18,32
+Bolt,Transport,36.17,37
+Starbucks,Food & Drink,166.43,64
+Bolt,Transport,169.65,158
+Spotify,Entertainment,5.96,191
+Morrisons,Groceries,217.0,100
+British Gas,Utilities & Bills,33.21,15
+Sky Mobile,Mobile Services,97.11,29
+Pret A Manger,Food & Drink,23.98,130
+TFL,Transport,161.4,50
+British Gas,Utilities & Bills,213.12,115
+Aldi,Groceries,93.61,123
+Vue,Entertainment,196.87,183
+Octopus Energy,Utilities & Bills,11.73,137
+Waitrose,Groceries,147.04,67
+Spotify,Entertainment,171.59,25
+Disney+,Entertainment,182.22,48
+EDF,Utilities & Bills,42.92,50
+Giffgaff,Mobile Services,222.74,78
+Amazon,Shopping,246.71,101
+Disney+,Entertainment,79.14,200
+Tesco,Groceries,18.35,43
+Virgin Mobile,Mobile Services,221.96,67
+National Rail,Transport,145.06,66
+Nando's,Food & Drink,150.41,81
+Virgin Mobile,Mobile Services,242.68,172
+EDF,Utilities & Bills,8.85,70
+Iceland,Groceries,67.92,88
+Disney+,Entertainment,249.96,24
+Argos,Shopping,211.34,57
+Aldi,Groceries,154.68,199
+Giffgaff,Mobile Services,230.41,163
+Uber,Transport,232.03,123
+Burger King,Food & Drink,103.55,24
+Burger King,Food & Drink,35.21,200
+TFL,Transport,233.26,49
+Burger King,Food & Drink,132.45,63
+Virgin Mobile,Mobile Services,42.1,7
+Vodafone,Mobile Services,51.64,190
+Vodafone,Mobile Services,16.57,53
+Burger King,Food & Drink,246.55,108
+Zara,Shopping,125.85,197
+Aldi,Groceries,47.75,148
+Aldi,Groceries,164.43,67
+Sky Mobile,Mobile Services,168.13,199
+Octopus Energy,Utilities & Bills,138.31,58
+John Lewis,Shopping,153.65,48
+Disney+,Entertainment,7.59,78
+Uber,Transport,118.63,119
+Vodafone,Mobile Services,85.3,74
+Vodafone,Mobile Services,139.72,28
+Vue,Entertainment,209.89,161
+Pret A Manger,Food & Drink,213.63,3
+Netflix,Entertainment,118.2,176
+Greggs,Food & Drink,245.45,107
+Aldi,Groceries,161.36,2
+Zara,Shopping,21.08,183
+Spotify,Entertainment,153.66,6
+TFL,Transport,207.58,147
+Tesco,Groceries,179.83,33
+Thames Water,Utilities & Bills,39.7,17
+Thames Water,Utilities & Bills,241.81,98
+Zara,Shopping,100.41,199
+Giffgaff,Mobile Services,248.19,25
+Aldi,Groceries,169.65,174
+Burger King,Food & Drink,9.34,176
+Sky Mobile,Mobile Services,159.64,46
+Thames Water,Utilities & Bills,113.57,92
+KFC,Food & Drink,152.27,127
+Amazon,Shopping,133.44,52
+Thames Water,Utilities & Bills,82.53,33
+Uber,Transport,182.27,149
+McDonald's,Food & Drink,25.67,6
+Tesco,Groceries,93.2,20
+Zara,Shopping,24.96,10
+Amazon,Shopping,82.28,139
+Bolt,Transport,17.91,177
+John Lewis,Shopping,99.66,164
+Giffgaff,Mobile Services,64.57,56
+eBay,Shopping,117.87,30
+National Rail,Transport,30.78,180
+Virgin Mobile,Mobile Services,207.01,196
+National Rail,Transport,217.71,75
+Argos,Shopping,178.89,103
+TFL,Transport,14.19,55
+Virgin Mobile,Mobile Services,114.46,90
+Amazon,Shopping,230.31,77
+Sky Mobile,Mobile Services,20.9,152
+Uber,Transport,137.69,159
+Disney+,Entertainment,147.63,155
+Sky Mobile,Mobile Services,128.36,33
+Bolt,Transport,167.68,23
+British Gas,Utilities & Bills,133.81,85
+Apple Music,Entertainment,242.13,107
+EDF,Utilities & Bills,47.55,43
+John Lewis,Shopping,65.43,71
+Thames Water,Utilities & Bills,141.53,109
+Giffgaff,Mobile Services,209.13,86
+Thames Water,Utilities & Bills,106.35,91
+eBay,Shopping,39.42,112
+Octopus Energy,Utilities & Bills,213.02,136
+Vodafone,Mobile Services,214.95,113
+Iceland,Groceries,54.86,20
+John Lewis,Shopping,133.06,136
+Octopus Energy,Utilities & Bills,130.46,105
+Bolt,Transport,56.03,188
+TFL,Transport,102.03,73
+Virgin Mobile,Mobile Services,222.05,96
+Zara,Shopping,191.67,6
+Greggs,Food & Drink,118.99,163
+Burger King,Food & Drink,148.75,62
+Disney+,Entertainment,99.88,89
+Octopus Energy,Utilities & Bills,49.31,159
+Sainsbury's,Groceries,221.0,76
+Spotify,Entertainment,156.38,148
+Netflix,Entertainment,238.83,182
+Octopus Energy,Utilities & Bills,10.15,123
+TFL,Transport,53.56,37
+Costa,Food & Drink,242.36,104
+Zara,Shopping,75.6,172
+Costa,Food & Drink,249.23,113
+Octopus Energy,Utilities & Bills,127.3,56
+Virgin Mobile,Mobile Services,155.78,131
+Iceland,Groceries,172.87,113
+National Rail,Transport,173.09,17
+Sainsbury's,Groceries,124.25,146
+Spotify,Entertainment,92.37,62
+Tesco,Groceries,192.76,160
+Pret A Manger,Food & Drink,163.64,123
+eBay,Shopping,164.24,101
+eBay,Shopping,188.66,40
+Waitrose,Groceries,123.21,64
+Morrisons,Groceries,52.74,200
+Greggs,Food & Drink,98.98,39
+Amazon,Shopping,152.93,138
+Virgin Mobile,Mobile Services,63.36,49
+Uber,Transport,37.01,24
+Giffgaff,Mobile Services,40.58,93
+British Gas,Utilities & Bills,24.62,122
+Tesco,Groceries,25.77,191
+National Rail,Transport,142.11,141
+Sky Mobile,Mobile Services,172.38,167
+Primark,Shopping,12.46,75
+Giffgaff,Mobile Services,62.06,141
+Virgin Mobile,Mobile Services,56.31,57
+Sainsbury's,Groceries,60.29,75
+Disney+,Entertainment,240.15,167
+Apple Music,Entertainment,249.65,172
+TFL,Transport,24.6,136
+Apple Music,Entertainment,140.88,198
+Disney+,Entertainment,23.48,103
+Iceland,Groceries,127.42,107
+Virgin Mobile,Mobile Services,153.71,186
+EDF,Utilities & Bills,141.94,61
+Bolt,Transport,126.23,153
+Zara,Shopping,169.63,6
+Costa,Food & Drink,113.31,193
+Apple Music,Entertainment,148.49,52
+Sainsbury's,Groceries,11.34,31
+Tesco,Groceries,17.97,93
+Uber,Transport,220.95,145
+EDF,Utilities & Bills,50.03,86
+Spotify,Entertainment,92.27,149
+Apple Music,Entertainment,88.58,154
+Sky Mobile,Mobile Services,6.44,14
+Uber,Transport,24.08,144
+Thames Water,Utilities & Bills,19.7,157
+National Rail,Transport,144.39,19
+Argos,Shopping,186.19,124
+Costa,Food & Drink,112.22,113
+Lidl,Groceries,17.04,77
+Tesco,Groceries,116.22,152
+Morrisons,Groceries,155.98,113
+British Gas,Utilities & Bills,71.72,12
+National Rail,Transport,230.59,145
+ASOS,Shopping,151.12,84
+Tesco,Groceries,133.21,74
+Aldi,Groceries,136.53,43
+Sky Mobile,Mobile Services,26.25,37
+EDF,Utilities & Bills,29.95,22
+Amazon,Shopping,95.96,90
+Iceland,Groceries,104.56,106
+Primark,Shopping,243.31,186
+Bolt,Transport,174.76,170
+Nando's,Food & Drink,112.34,36
+TFL,Transport,168.11,146
+Argos,Shopping,21.98,128
+Sky Mobile,Mobile Services,67.69,10
+Bolt,Transport,190.31,3
+Morrisons,Groceries,175.87,56
+Sky Mobile,Mobile Services,105.6,116
+Bolt,Transport,51.44,57
+Costa,Food & Drink,26.75,146
+Greggs,Food & Drink,105.14,2
+Bolt,Transport,132.69,71
+Octopus Energy,Utilities & Bills,38.07,139
+Argos,Shopping,92.96,130
+Spotify,Entertainment,200.01,149
+TFL,Transport,233.5,148
+Starbucks,Food & Drink,36.93,97
+Thames Water,Utilities & Bills,65.36,24
+TFL,Transport,144.98,24
+Disney+,Entertainment,15.64,166
+EDF,Utilities & Bills,62.13,179
+Waitrose,Groceries,131.67,81
+Burger King,Food & Drink,96.3,156
+Vue,Entertainment,55.91,138
+Sainsbury's,Groceries,58.36,175
+Burger King,Food & Drink,74.55,170
+Pret A Manger,Food & Drink,92.92,122
+Costa,Food & Drink,79.61,120
+Sky Mobile,Mobile Services,97.84,137
+Octopus Energy,Utilities & Bills,213.56,129
+Primark,Shopping,138.55,100
+National Rail,Transport,88.11,137
+eBay,Shopping,58.48,106
+Morrisons,Groceries,106.7,48
+British Gas,Utilities & Bills,61.53,197
+John Lewis,Shopping,23.5,165
+Netflix,Entertainment,145.89,62
+Apple Music,Entertainment,240.58,30
+Vodafone,Mobile Services,6.01,107
+Argos,Shopping,89.43,132
+Spotify,Entertainment,178.66,146
+Vue,Entertainment,113.27,176
+Argos,Shopping,32.74,28
+Tesco,Groceries,214.1,138
+Argos,Shopping,171.4,188
+Sky Mobile,Mobile Services,249.94,69
+Argos,Shopping,141.68,41
+Sky Mobile,Mobile Services,47.68,25
+Tesco,Groceries,48.5,162
+Giffgaff,Mobile Services,75.28,49
+John Lewis,Shopping,152.45,37
+Virgin Mobile,Mobile Services,199.25,93
+Burger King,Food & Drink,132.43,79
+Greggs,Food & Drink,32.65,28
+Bolt,Transport,17.22,51
+Octopus Energy,Utilities & Bills,8.68,127
+Costa,Food & Drink,18.41,1
+Giffgaff,Mobile Services,128.27,132
+Uber,Transport,103.01,87
+Argos,Shopping,202.25,176
+Argos,Shopping,105.52,10
+Thames Water,Utilities & Bills,102.63,1
+Netflix,Entertainment,67.39,23
+Vue,Entertainment,41.27,98
+Vue,Entertainment,158.83,99
+Vue,Entertainment,198.16,81
+Giffgaff,Mobile Services,109.45,149
+Vue,Entertainment,49.02,198
+British Gas,Utilities & Bills,8.14,20
+Argos,Shopping,37.07,132
+Bolt,Transport,234.26,131
+eBay,Shopping,123.15,34
+Sainsbury's,Groceries,241.61,70
+Costa,Food & Drink,19.68,32
+KFC,Food & Drink,170.64,72
+McDonald's,Food & Drink,99.97,172
+Burger King,Food & Drink,94.01,147
+Virgin Mobile,Mobile Services,156.68,117
+Aldi,Groceries,148.47,82
+Argos,Shopping,34.68,154
+EDF,Utilities & Bills,86.09,159
+Nando's,Food & Drink,114.97,189
+Octopus Energy,Utilities & Bills,214.49,111
+Giffgaff,Mobile Services,174.01,179
+eBay,Shopping,85.12,75
+EDF,Utilities & Bills,227.85,128
+Virgin Mobile,Mobile Services,60.41,89
+Morrisons,Groceries,24.04,169
+TFL,Transport,180.21,66
+KFC,Food & Drink,42.31,77
+Tesco,Groceries,25.31,85
+Octopus Energy,Utilities & Bills,214.7,41
+Burger King,Food & Drink,51.82,168
+Greggs,Food & Drink,12.3,193
+Argos,Shopping,83.81,99
+Octopus Energy,Utilities & Bills,6.2,14
+Thames Water,Utilities & Bills,92.76,163
+Pret A Manger,Food & Drink,117.84,195
+Disney+,Entertainment,209.55,14
+Starbucks,Food & Drink,224.58,58
+Costa,Food & Drink,83.41,158
+Zara,Shopping,171.74,200
+National Rail,Transport,162.63,195
+TFL,Transport,92.28,145
+British Gas,Utilities & Bills,97.41,94
+Spotify,Entertainment,244.57,139
+TFL,Transport,163.87,110
+Aldi,Groceries,97.94,155
+National Rail,Transport,29.22,94
+National Rail,Transport,16.87,180
+National Rail,Transport,155.81,125
+Primark,Shopping,164.04,77
+Burger King,Food & Drink,165.25,39
+Bolt,Transport,36.54,113
+Apple Music,Entertainment,82.73,66
+Burger King,Food & Drink,80.96,58
+Amazon,Shopping,136.73,112
+TFL,Transport,143.75,145
+Octopus Energy,Utilities & Bills,61.02,47
+Starbucks,Food & Drink,121.07,8
+TFL,Transport,119.69,84
+Thames Water,Utilities & Bills,106.34,177
+Virgin Mobile,Mobile Services,239.22,51
+EDF,Utilities & Bills,242.4,76
+Virgin Mobile,Mobile Services,78.05,23
+Octopus Energy,Utilities & Bills,93.73,62
+Sky Mobile,Mobile Services,32.53,46
+Octopus Energy,Utilities & Bills,106.27,172
+Lidl,Groceries,188.42,52
+Thames Water,Utilities & Bills,14.51,66
+Thames Water,Utilities & Bills,181.68,25
+EDF,Utilities & Bills,211.42,87
+Apple Music,Entertainment,120.32,16
+Thames Water,Utilities & Bills,214.38,61
+Giffgaff,Mobile Services,63.79,102
+Octopus Energy,Utilities & Bills,224.59,105
+Pret A Manger,Food & Drink,177.91,111
+John Lewis,Shopping,167.03,113
+Vue,Entertainment,90.91,93
+Sky Mobile,Mobile Services,209.79,119
+Bolt,Transport,56.02,131
+Argos,Shopping,45.86,154
+Nando's,Food & Drink,128.54,144
+ASOS,Shopping,24.24,51
+Uber,Transport,139.92,193
+Nando's,Food & Drink,215.39,141
+Giffgaff,Mobile Services,23.69,44
+Thames Water,Utilities & Bills,98.95,164
+Tesco,Groceries,74.65,148
+EDF,Utilities & Bills,116.28,140
+Octopus Energy,Utilities & Bills,249.22,63
+Uber,Transport,197.07,25
+Tesco,Groceries,41.9,190
+Giffgaff,Mobile Services,173.61,96
+eBay,Shopping,55.27,25
+Lidl,Groceries,134.18,147
+Giffgaff,Mobile Services,125.16,178
+Argos,Shopping,65.51,1
+Costa,Food & Drink,117.73,90
+Vodafone,Mobile Services,111.96,152
+Sky Mobile,Mobile Services,87.77,72
+Costa,Food & Drink,42.94,99
+Giffgaff,Mobile Services,8.29,23
+Bolt,Transport,23.23,106
+Netflix,Entertainment,19.28,63
+Amazon,Shopping,144.92,103
+Vodafone,Mobile Services,192.45,13
+Bolt,Transport,163.79,152
+Vue,Entertainment,156.55,15
+Starbucks,Food & Drink,248.68,73
+National Rail,Transport,173.87,17
+Vodafone,Mobile Services,80.85,175
+British Gas,Utilities & Bills,222.99,104
+Uber,Transport,249.57,119
+Burger King,Food & Drink,69.11,31
+Virgin Mobile,Mobile Services,167.7,10
+Spotify,Entertainment,181.48,119
+Sainsbury's,Groceries,173.66,52
+Spotify,Entertainment,202.07,137
+Virgin Mobile,Mobile Services,176.75,23
+Giffgaff,Mobile Services,35.01,44
+Thames Water,Utilities & Bills,148.06,161
+EDF,Utilities & Bills,122.28,107
+Nando's,Food & Drink,228.34,72
+Octopus Energy,Utilities & Bills,44.73,32
+Octopus Energy,Utilities & Bills,229.85,109
+Zara,Shopping,168.92,13
+Pret A Manger,Food & Drink,165.77,21
+Vodafone,Mobile Services,16.37,121
+Morrisons,Groceries,189.68,6
+EDF,Utilities & Bills,23.9,32
+TFL,Transport,30.47,118
+KFC,Food & Drink,148.16,147
+Iceland,Groceries,118.14,73
+Spotify,Entertainment,183.82,26
+Greggs,Food & Drink,127.39,179
+John Lewis,Shopping,157.93,187
+Octopus Energy,Utilities & Bills,69.29,88
+Apple Music,Entertainment,205.37,51
+Lidl,Groceries,188.68,24
+McDonald's,Food & Drink,247.96,120
+Greggs,Food & Drink,102.45,157
+Primark,Shopping,105.34,61
+Lidl,Groceries,123.95,153
+Sky Mobile,Mobile Services,150.18,89
+eBay,Shopping,153.24,99
+Tesco,Groceries,190.57,1
+Vue,Entertainment,137.73,41
+Vue,Entertainment,119.05,38
+Pret A Manger,Food & Drink,95.41,103
+Burger King,Food & Drink,32.59,169
+Iceland,Groceries,125.22,199
+Morrisons,Groceries,107.98,23
+Netflix,Entertainment,154.86,69
+Amazon,Shopping,234.74,47
+Zara,Shopping,64.96,139
+Uber,Transport,242.15,92
+Netflix,Entertainment,138.87,113
+Thames Water,Utilities & Bills,108.72,161
+Spotify,Entertainment,74.75,187
+Vodafone,Mobile Services,120.99,131
+British Gas,Utilities & Bills,45.32,143
+KFC,Food & Drink,195.99,199
+Bolt,Transport,175.38,165
+Octopus Energy,Utilities & Bills,168.79,191
+Virgin Mobile,Mobile Services,46.44,4
+Netflix,Entertainment,229.01,50
+Octopus Energy,Utilities & Bills,158.96,187
+EDF,Utilities & Bills,17.37,111
+KFC,Food & Drink,231.62,9
+Waitrose,Groceries,51.65,118
+EDF,Utilities & Bills,85.06,31
+EDF,Utilities & Bills,51.91,114
+Bolt,Transport,114.18,122
+Disney+,Entertainment,241.16,64
+Virgin Mobile,Mobile Services,110.39,81
+EDF,Utilities & Bills,28.17,1
+Zara,Shopping,166.46,25
+McDonald's,Food & Drink,39.42,161
+Netflix,Entertainment,128.5,177
+Zara,Shopping,140.93,12
+Netflix,Entertainment,20.74,1
+Costa,Food & Drink,224.47,147
+TFL,Transport,94.21,2
+Amazon,Shopping,110.43,164
+Netflix,Entertainment,169.14,188
+Bolt,Transport,209.08,57
+Greggs,Food & Drink,103.59,37
+Octopus Energy,Utilities & Bills,134.02,80
+Morrisons,Groceries,6.32,24
+Disney+,Entertainment,113.47,88
+eBay,Shopping,61.98,126
+Primark,Shopping,177.2,94
+Waitrose,Groceries,186.99,61
+Nando's,Food & Drink,51.34,46
+Vodafone,Mobile Services,140.65,181
+Apple Music,Entertainment,62.34,135
+TFL,Transport,52.79,159
+Aldi,Groceries,102.09,54
+Sky Mobile,Mobile Services,109.08,75
+British Gas,Utilities & Bills,116.46,150
+Vue,Entertainment,195.45,27
+Netflix,Entertainment,8.31,80
+Disney+,Entertainment,23.62,147
+Starbucks,Food & Drink,236.71,150
+Virgin Mobile,Mobile Services,62.38,156
+Primark,Shopping,137.45,165
+Starbucks,Food & Drink,184.26,85
+Netflix,Entertainment,146.89,189
+Sainsbury's,Groceries,132.19,72
+Iceland,Groceries,153.02,57
+Zara,Shopping,45.08,158
+Uber,Transport,149.26,137
+Lidl,Groceries,127.95,86
+McDonald's,Food & Drink,142.48,178
+Pret A Manger,Food & Drink,74.31,80
+Tesco,Groceries,90.41,135
+Giffgaff,Mobile Services,49.88,47
+Thames Water,Utilities & Bills,186.04,19
+John Lewis,Shopping,9.5,107
+Amazon,Shopping,21.07,95
+TFL,Transport,119.91,197
+Aldi,Groceries,130.73,3
+KFC,Food & Drink,48.05,145
+Virgin Mobile,Mobile Services,111.28,45
+Uber,Transport,207.16,21
+Bolt,Transport,216.67,67
+Netflix,Entertainment,26.05,10
+Giffgaff,Mobile Services,51.06,28
+Spotify,Entertainment,119.95,4
+Giffgaff,Mobile Services,184.89,74
+Virgin Mobile,Mobile Services,168.12,18
+John Lewis,Shopping,49.93,186
+Sky Mobile,Mobile Services,10.65,131
+Lidl,Groceries,215.9,89
+Primark,Shopping,36.21,122
+Greggs,Food & Drink,115.42,161
+Thames Water,Utilities & Bills,178.45,85
+Zara,Shopping,46.21,171
+Giffgaff,Mobile Services,223.69,122
+Iceland,Groceries,152.98,29
+Sky Mobile,Mobile Services,153.9,193
+Uber,Transport,83.52,174
+eBay,Shopping,94.98,185
+Iceland,Groceries,225.85,97
+Netflix,Entertainment,209.44,51
+British Gas,Utilities & Bills,86.87,29
+Netflix,Entertainment,147.73,97
+Spotify,Entertainment,168.52,74
+Zara,Shopping,6.96,187
+Greggs,Food & Drink,38.87,156
+Morrisons,Groceries,180.53,141
+Argos,Shopping,108.12,69
+Lidl,Groceries,202.83,152
+Virgin Mobile,Mobile Services,174.88,151
+Thames Water,Utilities & Bills,215.97,56
+Netflix,Entertainment,213.33,125
+Vodafone,Mobile Services,129.06,197
+Amazon,Shopping,36.8,122
+Starbucks,Food & Drink,106.67,54
+Starbucks,Food & Drink,232.96,20
+Apple Music,Entertainment,10.53,127
+Nando's,Food & Drink,124.64,31
+Bolt,Transport,63.61,73
+Aldi,Groceries,95.5,137
+Pret A Manger,Food & Drink,239.98,78
+Vue,Entertainment,182.23,152
+ASOS,Shopping,109.74,112
+Giffgaff,Mobile Services,34.22,47
+British Gas,Utilities & Bills,116.76,192
+Spotify,Entertainment,207.55,9
+Amazon,Shopping,219.35,19
+Thames Water,Utilities & Bills,247.36,70
+Primark,Shopping,63.41,196
+Thames Water,Utilities & Bills,177.46,51
+Costa,Food & Drink,127.64,192
+Zara,Shopping,67.53,121
+John Lewis,Shopping,129.43,86
+KFC,Food & Drink,185.2,99
+Netflix,Entertainment,76.7,125
+TFL,Transport,230.37,32
+eBay,Shopping,184.62,19
+National Rail,Transport,157.47,33
+KFC,Food & Drink,7.05,190
+TFL,Transport,233.47,171
+Aldi,Groceries,184.9,19
+Netflix,Entertainment,170.62,27
+Primark,Shopping,170.41,8
+McDonald's,Food & Drink,132.86,1
+Bolt,Transport,236.28,5
+Sainsbury's,Groceries,249.41,65
+Iceland,Groceries,56.3,131
+Starbucks,Food & Drink,185.04,183
+Sainsbury's,Groceries,197.7,95
+Zara,Shopping,83.44,185
+Vodafone,Mobile Services,194.03,38
+Zara,Shopping,152.62,181
+Vodafone,Mobile Services,225.97,38
+British Gas,Utilities & Bills,14.57,29
+Uber,Transport,231.94,91
+ASOS,Shopping,215.95,5
+Uber,Transport,183.73,33
+eBay,Shopping,164.4,137
+Argos,Shopping,225.79,39
+Aldi,Groceries,15.03,56
+Burger King,Food & Drink,245.98,142
+Morrisons,Groceries,230.9,189
+Sky Mobile,Mobile Services,10.85,77
+Argos,Shopping,92.16,61
+Thames Water,Utilities & Bills,161.85,118
+Uber,Transport,83.3,2
+McDonald's,Food & Drink,223.17,171
+Vue,Entertainment,202.94,12
+Uber,Transport,169.0,125
+John Lewis,Shopping,213.23,69
+Netflix,Entertainment,82.57,6
+John Lewis,Shopping,162.49,66
+KFC,Food & Drink,106.72,77
+Apple Music,Entertainment,83.95,200
+Sainsbury's,Groceries,131.82,154
+Nando's,Food & Drink,133.07,5
+Netflix,Entertainment,18.09,131
+Morrisons,Groceries,147.01,15
+Lidl,Groceries,127.31,82
+Waitrose,Groceries,81.37,40
+ASOS,Shopping,22.73,121
+Sky Mobile,Mobile Services,221.21,43
+Giffgaff,Mobile Services,171.14,115
+Disney+,Entertainment,224.9,84
+Netflix,Entertainment,29.5,78
+Morrisons,Groceries,92.05,196
+Vodafone,Mobile Services,88.35,54
+Bolt,Transport,136.66,9
+Apple Music,Entertainment,94.85,60
+Octopus Energy,Utilities & Bills,147.56,95
+Vue,Entertainment,175.34,194
+Apple Music,Entertainment,246.45,50
+TFL,Transport,48.47,160
+Thames Water,Utilities & Bills,226.25,40
+Thames Water,Utilities & Bills,108.28,183
+Waitrose,Groceries,202.59,86
+TFL,Transport,5.19,90
+KFC,Food & Drink,219.28,90
+Waitrose,Groceries,167.99,14
+Uber,Transport,37.7,120
+Sainsbury's,Groceries,151.86,25
+National Rail,Transport,8.36,42
+Primark,Shopping,43.78,137
+Uber,Transport,222.88,38
+Argos,Shopping,188.35,89
+Disney+,Entertainment,223.5,116
+Vodafone,Mobile Services,26.49,119
+Aldi,Groceries,217.34,199
+Argos,Shopping,74.22,55
+Tesco,Groceries,163.77,87
+Octopus Energy,Utilities & Bills,178.65,65
+Apple Music,Entertainment,86.88,101
+Virgin Mobile,Mobile Services,224.84,141
+Costa,Food & Drink,159.96,25
+National Rail,Transport,75.27,7
+British Gas,Utilities & Bills,88.77,86
+Apple Music,Entertainment,171.33,123
+Lidl,Groceries,58.73,4
+Pret A Manger,Food & Drink,233.82,28
+Octopus Energy,Utilities & Bills,45.31,108
+Virgin Mobile,Mobile Services,70.99,24
+Netflix,Entertainment,169.28,175
+Uber,Transport,31.21,92
+Bolt,Transport,129.08,155
+Sainsbury's,Groceries,59.66,115
+Bolt,Transport,110.72,56
+Giffgaff,Mobile Services,148.73,130
+Zara,Shopping,226.96,107
+Vodafone,Mobile Services,238.54,167
+Virgin Mobile,Mobile Services,141.4,94
+TFL,Transport,50.13,44
+Primark,Shopping,28.29,160
+Bolt,Transport,204.34,166
+Netflix,Entertainment,55.83,86
+Thames Water,Utilities & Bills,98.85,105
+British Gas,Utilities & Bills,112.68,163
+Sainsbury's,Groceries,171.66,128
+Iceland,Groceries,126.03,135
+Spotify,Entertainment,34.0,42
+Zara,Shopping,198.61,40
+Waitrose,Groceries,38.13,112
+Giffgaff,Mobile Services,167.05,107
+Virgin Mobile,Mobile Services,76.02,125
+Uber,Transport,82.51,32
+Bolt,Transport,110.36,68
+Giffgaff,Mobile Services,7.07,8
+Morrisons,Groceries,235.34,3
+Argos,Shopping,218.46,114
+Bolt,Transport,163.57,134
+Octopus Energy,Utilities & Bills,117.02,17
+TFL,Transport,30.64,163
+Sky Mobile,Mobile Services,236.52,101
+Thames Water,Utilities & Bills,207.26,155
+Sky Mobile,Mobile Services,113.18,35
+TFL,Transport,177.98,137
+TFL,Transport,106.78,163
+Starbucks,Food & Drink,59.18,55
+Giffgaff,Mobile Services,122.27,193
+Lidl,Groceries,36.94,153
+Sky Mobile,Mobile Services,26.46,184
+British Gas,Utilities & Bills,136.69,1
+Giffgaff,Mobile Services,154.21,157
+Nando's,Food & Drink,120.84,93
+Bolt,Transport,163.72,140
+Vodafone,Mobile Services,14.2,119
+Tesco,Groceries,68.86,129
+Pret A Manger,Food & Drink,158.99,168
+Primark,Shopping,206.34,197
+Giffgaff,Mobile Services,244.47,79
+EDF,Utilities & Bills,34.86,127
+Apple Music,Entertainment,249.56,24
+Vodafone,Mobile Services,162.05,105
+Amazon,Shopping,40.55,184
+Uber,Transport,158.11,55
+Lidl,Groceries,89.7,147
+Virgin Mobile,Mobile Services,152.74,38
+Iceland,Groceries,134.8,194
+Vodafone,Mobile Services,249.94,171
+Burger King,Food & Drink,220.33,24
+TFL,Transport,119.77,93
+Uber,Transport,11.41,158
+Disney+,Entertainment,234.27,37
+Iceland,Groceries,161.08,158
+Waitrose,Groceries,13.79,7
+Netflix,Entertainment,230.82,41
+McDonald's,Food & Drink,178.75,127
+Apple Music,Entertainment,189.68,155
+National Rail,Transport,196.59,191
+Vue,Entertainment,77.93,8
+Netflix,Entertainment,173.28,149
+TFL,Transport,82.14,169
+Costa,Food & Drink,158.71,179
+TFL,Transport,227.57,153
+Octopus Energy,Utilities & Bills,173.38,17
+KFC,Food & Drink,144.28,184
+National Rail,Transport,206.16,2
+Sky Mobile,Mobile Services,18.84,78
+Uber,Transport,160.99,163
+Bolt,Transport,103.38,200
+Burger King,Food & Drink,156.34,138
+Uber,Transport,55.52,23
+Aldi,Groceries,149.34,105
+TFL,Transport,104.49,101
+Uber,Transport,195.26,71
+British Gas,Utilities & Bills,91.6,191
+Vue,Entertainment,71.49,111
+Octopus Energy,Utilities & Bills,135.7,7
+Amazon,Shopping,70.73,114
+Nando's,Food & Drink,30.05,33
+EDF,Utilities & Bills,178.34,35
+Primark,Shopping,38.97,83
+Amazon,Shopping,240.27,12
+Giffgaff,Mobile Services,194.58,179
+Thames Water,Utilities & Bills,62.45,86
+TFL,Transport,159.78,180
+Bolt,Transport,102.2,21
+Netflix,Entertainment,7.41,7
+Amazon,Shopping,56.28,87
+Pret A Manger,Food & Drink,106.64,26
+McDonald's,Food & Drink,86.15,41
+Octopus Energy,Utilities & Bills,154.33,79
+Nando's,Food & Drink,233.1,185
+Sky Mobile,Mobile Services,39.75,9
+Greggs,Food & Drink,223.78,36
+Tesco,Groceries,106.86,70
+KFC,Food & Drink,221.64,150
+Spotify,Entertainment,148.54,6
+Pret A Manger,Food & Drink,83.45,3
+Bolt,Transport,51.81,191
+Primark,Shopping,204.98,76
+EDF,Utilities & Bills,16.62,68
+TFL,Transport,240.76,57
+Greggs,Food & Drink,186.87,50
+Octopus Energy,Utilities & Bills,79.78,171
+Starbucks,Food & Drink,123.27,68
+Sainsbury's,Groceries,184.12,147
+EDF,Utilities & Bills,199.5,151
+Apple Music,Entertainment,33.89,105
+Uber,Transport,87.84,158
+Vue,Entertainment,233.74,61
+TFL,Transport,132.44,2
+EDF,Utilities & Bills,121.45,180
+EDF,Utilities & Bills,81.09,9
+Vue,Entertainment,75.53,125
+McDonald's,Food & Drink,162.99,134
+EDF,Utilities & Bills,178.63,198
+Sky Mobile,Mobile Services,230.66,63
+Giffgaff,Mobile Services,64.19,178
+Spotify,Entertainment,30.27,48
+Aldi,Groceries,127.39,34
+Bolt,Transport,103.56,16
+Lidl,Groceries,122.62,95
+Amazon,Shopping,234.75,103
+British Gas,Utilities & Bills,202.4,62
+Lidl,Groceries,52.72,68
+Bolt,Transport,53.73,147
+Sky Mobile,Mobile Services,161.33,134
+Amazon,Shopping,183.98,85
+Zara,Shopping,6.66,83
+Apple Music,Entertainment,88.41,12
+Zara,Shopping,55.15,189
+Greggs,Food & Drink,94.38,60
+EDF,Utilities & Bills,175.32,190
+Starbucks,Food & Drink,90.93,200
+Apple Music,Entertainment,173.8,80
+Iceland,Groceries,5.7,33
+McDonald's,Food & Drink,97.43,90
+EDF,Utilities & Bills,36.12,63
+Argos,Shopping,219.36,128
+TFL,Transport,191.39,165
+Spotify,Entertainment,184.24,48
+Bolt,Transport,142.89,122
+Vodafone,Mobile Services,183.02,61
+McDonald's,Food & Drink,52.18,7
+Vue,Entertainment,88.76,25
+Pret A Manger,Food & Drink,35.82,86
+Iceland,Groceries,6.1,88
+Netflix,Entertainment,84.44,96
+Vue,Entertainment,227.76,190
+Bolt,Transport,42.4,81
+Costa,Food & Drink,166.79,66
+Apple Music,Entertainment,93.18,37
+Vue,Entertainment,228.74,180
+Vodafone,Mobile Services,201.74,18
+Greggs,Food & Drink,65.57,192
+KFC,Food & Drink,66.69,168
+Giffgaff,Mobile Services,85.28,117
+British Gas,Utilities & Bills,121.63,140
+Vodafone,Mobile Services,83.37,74
+Vodafone,Mobile Services,94.45,48
+Zara,Shopping,20.37,122
+British Gas,Utilities & Bills,22.06,93
+Primark,Shopping,186.84,184
+Giffgaff,Mobile Services,102.53,97
+McDonald's,Food & Drink,60.31,135
+Morrisons,Groceries,203.54,139
+Spotify,Entertainment,226.31,42
+Spotify,Entertainment,130.05,20
+Greggs,Food & Drink,22.37,69
+Apple Music,Entertainment,209.91,99
+Disney+,Entertainment,55.9,45
+Virgin Mobile,Mobile Services,68.46,128
+British Gas,Utilities & Bills,35.55,1
+Bolt,Transport,48.76,19
+Sky Mobile,Mobile Services,129.59,170
+Sainsbury's,Groceries,161.79,58
+Pret A Manger,Food & Drink,101.96,87
+Morrisons,Groceries,24.27,58
+TFL,Transport,126.27,126
+eBay,Shopping,179.36,117
+Lidl,Groceries,35.86,149
+National Rail,Transport,118.82,62
+Octopus Energy,Utilities & Bills,110.02,109
+Costa,Food & Drink,102.61,4
+Tesco,Groceries,118.34,57
+Pret A Manger,Food & Drink,45.09,173
+Morrisons,Groceries,8.04,161
+Vodafone,Mobile Services,203.73,108
+Virgin Mobile,Mobile Services,163.42,142
+Aldi,Groceries,213.85,81
+National Rail,Transport,82.73,41
+Apple Music,Entertainment,17.66,89
+Amazon,Shopping,93.63,80
+EDF,Utilities & Bills,131.69,92
+EDF,Utilities & Bills,198.52,142
+Virgin Mobile,Mobile Services,20.4,52
+Virgin Mobile,Mobile Services,153.89,99
+Burger King,Food & Drink,76.97,139
+Waitrose,Groceries,44.35,18
+Apple Music,Entertainment,148.85,87
+Uber,Transport,68.2,92
+Thames Water,Utilities & Bills,177.26,77
+Primark,Shopping,27.1,135
+Vue,Entertainment,187.83,115
+John Lewis,Shopping,146.53,168
+Lidl,Groceries,215.3,191
+Apple Music,Entertainment,82.67,119
+Apple Music,Entertainment,136.9,157
+Bolt,Transport,5.91,53
+Nando's,Food & Drink,5.39,187
+Primark,Shopping,245.26,47
+Morrisons,Groceries,191.51,90
+TFL,Transport,194.98,107
+John Lewis,Shopping,97.68,142
+National Rail,Transport,227.43,198
+Sainsbury's,Groceries,80.77,51
+Lidl,Groceries,5.39,1
+Vue,Entertainment,16.33,153
+Bolt,Transport,52.0,128
+Sky Mobile,Mobile Services,168.97,62
+Lidl,Groceries,18.0,92
+Argos,Shopping,49.02,174
+Thames Water,Utilities & Bills,80.88,193
+Nando's,Food & Drink,224.64,177
+Sky Mobile,Mobile Services,113.18,184
+Giffgaff,Mobile Services,53.47,88
+ASOS,Shopping,240.74,40
+eBay,Shopping,201.87,187
+Apple Music,Entertainment,112.01,155
+Vodafone,Mobile Services,241.19,55
+Primark,Shopping,74.07,12
+Uber,Transport,227.41,187
+Disney+,Entertainment,133.03,47
+Apple Music,Entertainment,65.74,9
+Vodafone,Mobile Services,181.54,172
+Apple Music,Entertainment,9.42,122
+National Rail,Transport,203.52,168
+Apple Music,Entertainment,217.53,1
+Bolt,Transport,248.6,21
+Zara,Shopping,10.46,3
+TFL,Transport,80.78,182
+Burger King,Food & Drink,42.57,187
+EDF,Utilities & Bills,33.51,60
+Thames Water,Utilities & Bills,75.54,85
+Sainsbury's,Groceries,115.76,71
+Nando's,Food & Drink,83.23,48
+Netflix,Entertainment,123.43,99
+TFL,Transport,212.32,179
+Bolt,Transport,199.49,37
+British Gas,Utilities & Bills,136.67,8
+John Lewis,Shopping,196.43,159
+Netflix,Entertainment,227.84,163
+John Lewis,Shopping,197.9,185
+Nando's,Food & Drink,48.28,142
+Uber,Transport,120.34,76
+Primark,Shopping,170.18,30
+Morrisons,Groceries,87.16,52
+Virgin Mobile,Mobile Services,212.2,172
+Giffgaff,Mobile Services,27.3,126
+ASOS,Shopping,45.93,42
+National Rail,Transport,21.44,63
+TFL,Transport,67.96,105
+Spotify,Entertainment,224.87,181
+Primark,Shopping,123.89,135
+Disney+,Entertainment,124.52,133
+Morrisons,Groceries,72.23,80
+eBay,Shopping,47.8,2
+British Gas,Utilities & Bills,249.83,198
+Lidl,Groceries,47.34,197
+Primark,Shopping,57.87,82
+Waitrose,Groceries,221.83,49
+Zara,Shopping,38.78,34
+Amazon,Shopping,130.7,175
+Waitrose,Groceries,40.53,102
+National Rail,Transport,227.27,187
+Vue,Entertainment,232.24,193
+Amazon,Shopping,132.53,131
+Virgin Mobile,Mobile Services,126.79,26
+Virgin Mobile,Mobile Services,42.9,64
+British Gas,Utilities & Bills,24.48,184
+Argos,Shopping,219.98,47
+Giffgaff,Mobile Services,108.77,2
+Pret A Manger,Food & Drink,62.1,72
+Thames Water,Utilities & Bills,190.96,29
+Virgin Mobile,Mobile Services,44.47,129
+TFL,Transport,147.68,3
+Sainsbury's,Groceries,10.0,34
+Netflix,Entertainment,216.27,200
+Iceland,Groceries,170.18,22
+Netflix,Entertainment,137.92,35
+Waitrose,Groceries,237.02,143
+Morrisons,Groceries,92.75,24
+Apple Music,Entertainment,138.92,185
+Argos,Shopping,79.97,48
+Giffgaff,Mobile Services,181.06,140
+Vue,Entertainment,193.15,186
+National Rail,Transport,148.05,162
+ASOS,Shopping,122.35,116
+Virgin Mobile,Mobile Services,43.16,109
+Pret A Manger,Food & Drink,243.58,19
+Lidl,Groceries,127.0,8
+Octopus Energy,Utilities & Bills,8.2,29
+Sky Mobile,Mobile Services,66.79,46
+Aldi,Groceries,59.16,175
+TFL,Transport,57.47,135
+Vodafone,Mobile Services,127.43,19
+Uber,Transport,135.76,87
+Uber,Transport,203.0,139
+Giffgaff,Mobile Services,87.55,28
+Aldi,Groceries,163.89,119
+Disney+,Entertainment,133.32,170
+Primark,Shopping,7.91,156
+Burger King,Food & Drink,153.41,67
+Vodafone,Mobile Services,228.81,76
+Tesco,Groceries,232.34,10
+Thames Water,Utilities & Bills,197.18,108
+Apple Music,Entertainment,187.29,79
+Octopus Energy,Utilities & Bills,57.59,101
+Greggs,Food & Drink,75.93,48
+Vue,Entertainment,222.83,200
+Giffgaff,Mobile Services,12.75,165
+Primark,Shopping,81.75,149
+Nando's,Food & Drink,183.03,30
+National Rail,Transport,182.48,121
+Primark,Shopping,57.37,188
+Lidl,Groceries,42.48,74
+National Rail,Transport,74.01,78
+Bolt,Transport,24.6,8
+Apple Music,Entertainment,75.45,35
+Virgin Mobile,Mobile Services,110.8,130
+Vue,Entertainment,12.54,52
+TFL,Transport,122.78,175
+Sainsbury's,Groceries,188.24,192
+EDF,Utilities & Bills,47.53,54
+Pret A Manger,Food & Drink,61.47,120
+Giffgaff,Mobile Services,107.32,167
+Virgin Mobile,Mobile Services,169.49,92
+Giffgaff,Mobile Services,65.99,150
+Netflix,Entertainment,11.44,85
+EDF,Utilities & Bills,46.69,59
+Octopus Energy,Utilities & Bills,105.8,6
+Disney+,Entertainment,32.21,174
+Thames Water,Utilities & Bills,91.05,52
+Bolt,Transport,45.07,29
+Morrisons,Groceries,120.58,117
+Pret A Manger,Food & Drink,50.31,96
+McDonald's,Food & Drink,241.33,160
+Octopus Energy,Utilities & Bills,180.57,180
+National Rail,Transport,10.67,111
+Starbucks,Food & Drink,43.67,172
+Thames Water,Utilities & Bills,40.99,118
+Thames Water,Utilities & Bills,211.13,14
+Netflix,Entertainment,14.92,124
+Vue,Entertainment,13.95,172
+Amazon,Shopping,178.78,111
+TFL,Transport,146.38,195
+Giffgaff,Mobile Services,158.69,70
+Virgin Mobile,Mobile Services,38.5,80
+Lidl,Groceries,135.89,53
+Aldi,Groceries,165.58,166
+Octopus Energy,Utilities & Bills,236.17,103
+Giffgaff,Mobile Services,148.14,158
+Netflix,Entertainment,91.31,141
+Greggs,Food & Drink,64.27,25
+KFC,Food & Drink,35.91,5
+Sainsbury's,Groceries,166.01,121
+Disney+,Entertainment,230.43,86
+Netflix,Entertainment,174.01,172
+Octopus Energy,Utilities & Bills,248.67,165
+Morrisons,Groceries,145.7,94
+Sky Mobile,Mobile Services,205.19,46
+Thames Water,Utilities & Bills,8.13,14
+Vue,Entertainment,115.75,157
+Virgin Mobile,Mobile Services,229.69,77
+TFL,Transport,29.12,75
+Pret A Manger,Food & Drink,42.69,47
+Sky Mobile,Mobile Services,57.5,113
+Disney+,Entertainment,234.9,97
+British Gas,Utilities & Bills,203.56,186
+Octopus Energy,Utilities & Bills,176.04,143
+National Rail,Transport,50.25,162
+Morrisons,Groceries,212.95,116
+Zara,Shopping,83.91,78
+Zara,Shopping,134.17,76
+Argos,Shopping,228.58,132
+Bolt,Transport,153.65,123
+Octopus Energy,Utilities & Bills,173.41,140
+eBay,Shopping,246.67,2
+Vodafone,Mobile Services,11.82,134
+KFC,Food & Drink,25.53,95
+Amazon,Shopping,243.8,12
+ASOS,Shopping,144.86,89
+Sky Mobile,Mobile Services,155.73,16
+eBay,Shopping,181.76,87
+Octopus Energy,Utilities & Bills,212.61,126
+TFL,Transport,101.46,100
+Virgin Mobile,Mobile Services,31.29,38
+Burger King,Food & Drink,200.25,8
+Netflix,Entertainment,81.78,188
+John Lewis,Shopping,82.02,87
+Vue,Entertainment,196.47,95
+Spotify,Entertainment,141.44,62
+Disney+,Entertainment,143.38,37
+Spotify,Entertainment,11.52,86
+Disney+,Entertainment,88.52,15
+Sky Mobile,Mobile Services,115.38,181
+Amazon,Shopping,167.07,137
+Vodafone,Mobile Services,144.98,107
+Giffgaff,Mobile Services,171.21,15
+eBay,Shopping,24.51,20
+Amazon,Shopping,174.99,77
+Vodafone,Mobile Services,86.54,107
+Amazon,Shopping,194.54,74
+Morrisons,Groceries,7.79,124
+Virgin Mobile,Mobile Services,209.75,96
+McDonald's,Food & Drink,148.99,129
+Vue,Entertainment,171.55,132
+Vodafone,Mobile Services,77.54,76
+Apple Music,Entertainment,198.74,168
+Spotify,Entertainment,233.33,165
+Nando's,Food & Drink,66.45,113
+Zara,Shopping,159.36,17
+Amazon,Shopping,146.67,59
+Netflix,Entertainment,75.23,145
+John Lewis,Shopping,17.81,13
+British Gas,Utilities & Bills,193.77,6
+eBay,Shopping,14.52,151
+Pret A Manger,Food & Drink,199.73,87
+National Rail,Transport,29.81,57
+Greggs,Food & Drink,202.95,62
+Vodafone,Mobile Services,109.26,178
+Bolt,Transport,64.84,19
+ASOS,Shopping,116.3,50
+EDF,Utilities & Bills,177.09,140
+Starbucks,Food & Drink,40.6,8
+Disney+,Entertainment,67.92,172
+John Lewis,Shopping,125.01,94
+National Rail,Transport,247.97,8
+KFC,Food & Drink,139.05,54
+Thames Water,Utilities & Bills,146.01,81
+Disney+,Entertainment,235.7,151
+Octopus Energy,Utilities & Bills,54.29,39
+Giffgaff,Mobile Services,203.89,191
+National Rail,Transport,128.57,70
+Burger King,Food & Drink,128.73,47
+Tesco,Groceries,215.13,157
+Vue,Entertainment,131.7,64
+Virgin Mobile,Mobile Services,197.13,151
+Sky Mobile,Mobile Services,233.69,141
+Virgin Mobile,Mobile Services,120.11,114
+Tesco,Groceries,113.07,133
+ASOS,Shopping,214.23,188
+Lidl,Groceries,97.83,124
+McDonald's,Food & Drink,124.53,152
+Giffgaff,Mobile Services,218.67,188
+John Lewis,Shopping,204.5,150
+Bolt,Transport,146.22,156
+Sky Mobile,Mobile Services,35.56,151
+Thames Water,Utilities & Bills,76.37,145
+Netflix,Entertainment,111.04,121
+Spotify,Entertainment,236.11,93
+TFL,Transport,63.53,112
+John Lewis,Shopping,121.54,62
+TFL,Transport,162.75,55
+TFL,Transport,222.84,113
+Giffgaff,Mobile Services,240.42,166
+Vue,Entertainment,106.87,187
+KFC,Food & Drink,235.08,17
+Uber,Transport,173.95,174
+Bolt,Transport,195.27,97
+Sainsbury's,Groceries,121.39,48
+Vue,Entertainment,156.25,60
+Costa,Food & Drink,151.01,114
+Vue,Entertainment,107.87,190
+ASOS,Shopping,105.25,66
+Giffgaff,Mobile Services,50.41,162
+Greggs,Food & Drink,126.54,173
+TFL,Transport,165.75,47
+Netflix,Entertainment,166.58,37
+Starbucks,Food & Drink,31.52,19
+Thames Water,Utilities & Bills,58.65,99
+Disney+,Entertainment,214.22,107
+ASOS,Shopping,74.98,135
+EDF,Utilities & Bills,12.42,62
+Tesco,Groceries,72.11,3
+Disney+,Entertainment,149.63,176
+Vue,Entertainment,110.18,159
+eBay,Shopping,49.39,184
+Starbucks,Food & Drink,181.62,115
+Apple Music,Entertainment,81.15,1
+Zara,Shopping,120.1,191
+Bolt,Transport,203.4,126
+British Gas,Utilities & Bills,207.97,62
+National Rail,Transport,171.24,74
+Sky Mobile,Mobile Services,113.52,142
+British Gas,Utilities & Bills,104.07,110
+Pret A Manger,Food & Drink,173.3,19
+Aldi,Groceries,64.19,10
+Amazon,Shopping,20.76,99
+Waitrose,Groceries,85.71,24
+Waitrose,Groceries,65.51,182
+Spotify,Entertainment,27.79,99
+Uber,Transport,76.39,164
+British Gas,Utilities & Bills,232.2,12
+Iceland,Groceries,114.85,41
+Argos,Shopping,29.14,84
+TFL,Transport,116.25,170
+Iceland,Groceries,158.16,96
+TFL,Transport,174.04,114
+Vue,Entertainment,130.81,156
+Disney+,Entertainment,114.75,125
+EDF,Utilities & Bills,53.85,91
+National Rail,Transport,180.66,111
+Uber,Transport,193.85,115
+Greggs,Food & Drink,92.45,27
+eBay,Shopping,67.43,15
+Waitrose,Groceries,86.04,120
+John Lewis,Shopping,77.63,133
+Disney+,Entertainment,75.85,154
+Apple Music,Entertainment,203.58,132
+National Rail,Transport,137.59,111
+Bolt,Transport,223.85,38
+Netflix,Entertainment,234.03,36
+Spotify,Entertainment,205.97,42
+Vodafone,Mobile Services,199.83,141
+British Gas,Utilities & Bills,136.89,21
+Virgin Mobile,Mobile Services,226.05,70
+British Gas,Utilities & Bills,236.14,161
+Uber,Transport,126.29,27
+Lidl,Groceries,48.98,128
+Costa,Food & Drink,184.29,17
+Sky Mobile,Mobile Services,70.83,37
+Thames Water,Utilities & Bills,178.54,153
+Greggs,Food & Drink,152.53,184
+Giffgaff,Mobile Services,237.15,173
+Aldi,Groceries,56.37,86
+McDonald's,Food & Drink,110.04,118
+eBay,Shopping,211.68,50
+Octopus Energy,Utilities & Bills,203.37,111
+Vodafone,Mobile Services,227.07,91
+Netflix,Entertainment,95.42,96
+Uber,Transport,149.61,70
+British Gas,Utilities & Bills,170.13,187
+Amazon,Shopping,191.63,176
+Waitrose,Groceries,189.34,129
+ASOS,Shopping,102.08,51
+Sainsbury's,Groceries,60.96,55
+Argos,Shopping,24.17,186
+Primark,Shopping,148.54,150
+Starbucks,Food & Drink,51.21,167
+Tesco,Groceries,107.72,152
+National Rail,Transport,128.77,111
+Burger King,Food & Drink,65.1,106
+National Rail,Transport,160.01,42
+Vodafone,Mobile Services,219.04,8
+Virgin Mobile,Mobile Services,143.21,179
+British Gas,Utilities & Bills,219.7,100
+Giffgaff,Mobile Services,48.67,137
+Sky Mobile,Mobile Services,97.1,71
+TFL,Transport,228.56,67
+Disney+,Entertainment,88.09,181
+EDF,Utilities & Bills,181.33,185
+Iceland,Groceries,75.16,126
+Iceland,Groceries,117.84,88
+Vodafone,Mobile Services,101.96,3
+Waitrose,Groceries,142.17,81
+Virgin Mobile,Mobile Services,8.09,94
+EDF,Utilities & Bills,136.03,53
+Virgin Mobile,Mobile Services,26.28,54
+Primark,Shopping,189.71,135
+Apple Music,Entertainment,162.14,2
+Octopus Energy,Utilities & Bills,209.36,71
+Disney+,Entertainment,147.83,49
+Netflix,Entertainment,195.41,59
+Spotify,Entertainment,141.88,20
+McDonald's,Food & Drink,206.61,171
+Amazon,Shopping,76.21,112
+Apple Music,Entertainment,175.63,118
+Thames Water,Utilities & Bills,116.8,6
+Nando's,Food & Drink,63.19,23
+Thames Water,Utilities & Bills,8.5,44
+Argos,Shopping,38.01,14
+Uber,Transport,114.89,168
+Octopus Energy,Utilities & Bills,112.3,120
+Uber,Transport,67.78,153
+Giffgaff,Mobile Services,79.7,33
+Virgin Mobile,Mobile Services,172.51,149
+Uber,Transport,114.42,90
+Uber,Transport,238.89,115
+Spotify,Entertainment,74.19,23
+EDF,Utilities & Bills,174.02,190
+Zara,Shopping,82.37,107
+Vue,Entertainment,24.07,82
+Disney+,Entertainment,32.5,152
+Bolt,Transport,6.91,48
+Iceland,Groceries,157.82,199
+National Rail,Transport,128.3,100
+Vodafone,Mobile Services,15.63,69
+Spotify,Entertainment,163.53,197
+Zara,Shopping,56.39,107
+Virgin Mobile,Mobile Services,57.61,82
+Thames Water,Utilities & Bills,245.2,165
+Octopus Energy,Utilities & Bills,48.96,78
+Starbucks,Food & Drink,75.61,101
+TFL,Transport,239.84,48
+Virgin Mobile,Mobile Services,176.06,189
+Aldi,Groceries,120.01,48
+Starbucks,Food & Drink,58.27,116
+McDonald's,Food & Drink,154.55,103
+Iceland,Groceries,23.31,92
+Spotify,Entertainment,244.84,2
+Netflix,Entertainment,237.52,58
+Thames Water,Utilities & Bills,93.97,35
+Tesco,Groceries,113.01,73
+British Gas,Utilities & Bills,152.62,48
+Lidl,Groceries,50.75,199
+Vodafone,Mobile Services,119.92,188
+Giffgaff,Mobile Services,40.68,86
+Costa,Food & Drink,207.59,19
+Giffgaff,Mobile Services,236.83,146
+Burger King,Food & Drink,233.47,5
+Netflix,Entertainment,31.2,94
+McDonald's,Food & Drink,197.64,58
+Vodafone,Mobile Services,22.71,159
+Uber,Transport,167.0,91
+Bolt,Transport,157.1,100
+John Lewis,Shopping,81.29,129
+Morrisons,Groceries,20.07,172
+Octopus Energy,Utilities & Bills,179.69,175
+eBay,Shopping,17.46,186
+EDF,Utilities & Bills,104.32,67
+John Lewis,Shopping,37.82,18
+Burger King,Food & Drink,21.78,27
+Thames Water,Utilities & Bills,92.13,40
+Disney+,Entertainment,114.26,6
+Starbucks,Food & Drink,178.43,110
+Octopus Energy,Utilities & Bills,20.78,138
+Lidl,Groceries,227.82,196
+Vodafone,Mobile Services,46.88,34
+Giffgaff,Mobile Services,92.78,79
+Greggs,Food & Drink,125.91,122
+Virgin Mobile,Mobile Services,215.5,45
+Spotify,Entertainment,115.12,27
+Argos,Shopping,215.76,62
+Octopus Energy,Utilities & Bills,45.47,24
+Vodafone,Mobile Services,113.33,175
+Tesco,Groceries,186.69,131
+Waitrose,Groceries,150.86,81
+Aldi,Groceries,99.44,19
+Disney+,Entertainment,30.9,75
+Disney+,Entertainment,53.73,3
+EDF,Utilities & Bills,152.74,168
+Pret A Manger,Food & Drink,123.48,17
+Costa,Food & Drink,37.38,6
+McDonald's,Food & Drink,107.01,35
+ASOS,Shopping,149.51,53
+Netflix,Entertainment,44.66,176
+Nando's,Food & Drink,132.26,175
+McDonald's,Food & Drink,52.91,195
+Burger King,Food & Drink,142.26,74
+TFL,Transport,92.99,170
+Spotify,Entertainment,58.73,60
+EDF,Utilities & Bills,146.55,198
+Vue,Entertainment,100.05,26
+EDF,Utilities & Bills,109.12,130
+Vodafone,Mobile Services,21.84,71
+Bolt,Transport,84.8,141
+Primark,Shopping,81.69,20
+Uber,Transport,240.78,175
+Tesco,Groceries,209.71,35
+British Gas,Utilities & Bills,101.37,50
+EDF,Utilities & Bills,55.69,179
+National Rail,Transport,33.05,1
+Giffgaff,Mobile Services,53.92,116
+National Rail,Transport,201.01,142
+Thames Water,Utilities & Bills,5.64,10
+Disney+,Entertainment,58.39,145
+Thames Water,Utilities & Bills,60.48,141
+McDonald's,Food & Drink,9.27,51
+TFL,Transport,46.58,139
+Bolt,Transport,37.5,74
+KFC,Food & Drink,185.3,110
+Disney+,Entertainment,87.52,57
+Burger King,Food & Drink,37.06,100
+TFL,Transport,188.3,192
+EDF,Utilities & Bills,187.83,18
+Sky Mobile,Mobile Services,9.5,131
+British Gas,Utilities & Bills,7.29,68
+National Rail,Transport,131.83,80
+Virgin Mobile,Mobile Services,90.54,78
+Sky Mobile,Mobile Services,13.83,199
+Uber,Transport,163.62,130
+Sainsbury's,Groceries,193.27,196
+Thames Water,Utilities & Bills,65.64,62
+Amazon,Shopping,53.36,181
+John Lewis,Shopping,40.99,140
+Giffgaff,Mobile Services,184.41,75
+Morrisons,Groceries,15.95,181
+TFL,Transport,49.2,113
+Sainsbury's,Groceries,48.03,120
+Morrisons,Groceries,118.89,40
+British Gas,Utilities & Bills,13.55,123
+Uber,Transport,226.97,137
+Greggs,Food & Drink,234.78,92
+Greggs,Food & Drink,166.42,117
+Tesco,Groceries,9.9,137
+Uber,Transport,148.22,32
+Netflix,Entertainment,130.94,166
+Uber,Transport,233.84,5
+Sky Mobile,Mobile Services,232.94,78
+eBay,Shopping,243.01,114
+EDF,Utilities & Bills,142.17,135
+McDonald's,Food & Drink,246.66,43
+Primark,Shopping,167.04,72
+Sainsbury's,Groceries,220.06,71
+Uber,Transport,117.79,4
+Greggs,Food & Drink,163.92,93
+McDonald's,Food & Drink,171.24,16
+Sky Mobile,Mobile Services,245.1,179
+Costa,Food & Drink,136.47,16
+Argos,Shopping,105.29,103
+Uber,Transport,152.89,22
+Spotify,Entertainment,8.66,65
+Giffgaff,Mobile Services,183.78,32
+Morrisons,Groceries,247.94,180
+McDonald's,Food & Drink,171.75,60
+ASOS,Shopping,212.75,128
+Sky Mobile,Mobile Services,6.66,71
+eBay,Shopping,134.25,140
+Virgin Mobile,Mobile Services,216.44,166
+Disney+,Entertainment,142.33,109
+Virgin Mobile,Mobile Services,103.08,161
+eBay,Shopping,202.47,126
+Giffgaff,Mobile Services,162.72,37
+Giffgaff,Mobile Services,75.59,107
+Bolt,Transport,131.63,83
+Thames Water,Utilities & Bills,47.1,25
+Bolt,Transport,195.75,88
+Burger King,Food & Drink,108.6,34
+British Gas,Utilities & Bills,241.28,176
+Lidl,Groceries,223.36,116
+Sky Mobile,Mobile Services,140.36,48
+Spotify,Entertainment,25.65,18
+Aldi,Groceries,188.33,180
+Disney+,Entertainment,145.45,26
+Uber,Transport,15.19,164
+Zara,Shopping,121.02,76
+Disney+,Entertainment,229.75,195
+Starbucks,Food & Drink,5.06,144
+Thames Water,Utilities & Bills,95.67,23
+eBay,Shopping,189.79,158
+Argos,Shopping,234.92,22
+Uber,Transport,94.95,15
+KFC,Food & Drink,73.07,113
+ASOS,Shopping,161.05,91
+Aldi,Groceries,163.56,1
+Zara,Shopping,81.28,161
+Zara,Shopping,60.72,151
+TFL,Transport,99.6,30
+ASOS,Shopping,25.27,45
+EDF,Utilities & Bills,53.73,32
+Uber,Transport,75.89,79
+Spotify,Entertainment,71.1,28
+Costa,Food & Drink,144.44,94
+Pret A Manger,Food & Drink,99.85,84
+Greggs,Food & Drink,113.5,75
+Costa,Food & Drink,190.39,165
+Primark,Shopping,244.53,82
+John Lewis,Shopping,123.65,66
+Thames Water,Utilities & Bills,143.54,114
+Virgin Mobile,Mobile Services,188.66,69
+Pret A Manger,Food & Drink,144.12,59
+Nando's,Food & Drink,19.81,165
+Vodafone,Mobile Services,120.17,162
+Vue,Entertainment,91.71,84
+Vodafone,Mobile Services,112.53,145
+Iceland,Groceries,141.77,160
+Virgin Mobile,Mobile Services,170.47,192
+British Gas,Utilities & Bills,115.34,94
+Argos,Shopping,123.84,198
+Uber,Transport,215.13,152
+Argos,Shopping,111.69,189
+Sky Mobile,Mobile Services,186.95,114
+Vue,Entertainment,121.77,159
+EDF,Utilities & Bills,235.14,83
+National Rail,Transport,191.07,75
+Thames Water,Utilities & Bills,151.49,46
+Sainsbury's,Groceries,128.29,139
+Thames Water,Utilities & Bills,63.83,21
+Octopus Energy,Utilities & Bills,153.01,136
+Vodafone,Mobile Services,149.94,119
+Pret A Manger,Food & Drink,42.28,105
+Spotify,Entertainment,165.21,150
+ASOS,Shopping,246.29,64
+McDonald's,Food & Drink,234.36,26
+TFL,Transport,223.94,97
+Bolt,Transport,217.36,38
+Netflix,Entertainment,39.49,67
+Octopus Energy,Utilities & Bills,157.67,43
+Iceland,Groceries,61.87,163
+Vodafone,Mobile Services,162.47,121
+Spotify,Entertainment,176.39,55
+Spotify,Entertainment,133.61,34
+McDonald's,Food & Drink,50.99,54
+Pret A Manger,Food & Drink,82.6,89
+Greggs,Food & Drink,34.76,50
+Morrisons,Groceries,115.93,16
+Thames Water,Utilities & Bills,189.28,66
+Morrisons,Groceries,205.51,173
+Disney+,Entertainment,160.72,14
+Bolt,Transport,36.61,162
+Morrisons,Groceries,18.93,2
+KFC,Food & Drink,141.45,24
+Sky Mobile,Mobile Services,12.86,134
+EDF,Utilities & Bills,107.1,115
+EDF,Utilities & Bills,164.31,39
+National Rail,Transport,96.14,27
+Thames Water,Utilities & Bills,98.79,74
+Giffgaff,Mobile Services,79.14,81
+Greggs,Food & Drink,153.68,72
+Netflix,Entertainment,56.76,148
+British Gas,Utilities & Bills,68.99,105
+Waitrose,Groceries,160.16,46
+ASOS,Shopping,13.76,87
+Sky Mobile,Mobile Services,158.13,66
+Giffgaff,Mobile Services,30.12,198
+Lidl,Groceries,189.8,27
+Starbucks,Food & Drink,172.34,56
+Morrisons,Groceries,216.0,126
+Burger King,Food & Drink,8.81,28
+Virgin Mobile,Mobile Services,61.92,169
+Vodafone,Mobile Services,35.21,4
+eBay,Shopping,207.71,46
+Vodafone,Mobile Services,80.32,77
+Thames Water,Utilities & Bills,231.53,172
+Apple Music,Entertainment,22.43,160
+Bolt,Transport,132.22,25
+National Rail,Transport,122.66,39
+Giffgaff,Mobile Services,73.65,52
+Uber,Transport,68.13,118
+Tesco,Groceries,37.12,99
+Uber,Transport,155.95,140
+Iceland,Groceries,229.29,127
+Primark,Shopping,104.13,66
+EDF,Utilities & Bills,132.13,198
+British Gas,Utilities & Bills,215.79,15
+Nando's,Food & Drink,109.72,104
+Thames Water,Utilities & Bills,114.34,39
+Greggs,Food & Drink,66.36,118
+Vodafone,Mobile Services,41.14,47
+National Rail,Transport,46.79,105
+Disney+,Entertainment,10.3,65
+Bolt,Transport,222.72,48
+Vue,Entertainment,187.19,85
+Waitrose,Groceries,64.99,50
+Waitrose,Groceries,47.16,116
+Sainsbury's,Groceries,109.71,169
+Morrisons,Groceries,183.45,180
+Giffgaff,Mobile Services,86.15,72
+Virgin Mobile,Mobile Services,223.25,62
+Giffgaff,Mobile Services,157.52,84
+ASOS,Shopping,27.35,23
+Pret A Manger,Food & Drink,63.38,173
+EDF,Utilities & Bills,138.67,113
+Sainsbury's,Groceries,52.47,108
+National Rail,Transport,98.78,72
+Morrisons,Groceries,121.07,134
+Uber,Transport,25.54,146
+Amazon,Shopping,72.27,172
+McDonald's,Food & Drink,128.98,107
+TFL,Transport,70.34,159
+Primark,Shopping,188.77,155
+Netflix,Entertainment,9.88,85
+ASOS,Shopping,199.29,98
+Uber,Transport,7.88,56
+Octopus Energy,Utilities & Bills,50.14,81
+Uber,Transport,171.63,45
+John Lewis,Shopping,206.66,99
+TFL,Transport,230.72,140
+Octopus Energy,Utilities & Bills,99.13,42
+Lidl,Groceries,181.16,105
+Aldi,Groceries,122.66,116
+Argos,Shopping,152.91,92
+Costa,Food & Drink,96.81,81
+Greggs,Food & Drink,168.47,161
+ASOS,Shopping,45.19,158
+Octopus Energy,Utilities & Bills,19.54,159
+British Gas,Utilities & Bills,82.57,12
+Octopus Energy,Utilities & Bills,206.12,36
+Primark,Shopping,42.82,102
+Sky Mobile,Mobile Services,228.25,24
+Sky Mobile,Mobile Services,95.16,66
+Netflix,Entertainment,227.47,172
+Sky Mobile,Mobile Services,163.1,140
+Starbucks,Food & Drink,228.61,48
+ASOS,Shopping,178.77,107
+KFC,Food & Drink,59.76,33
+Giffgaff,Mobile Services,140.45,49
+Octopus Energy,Utilities & Bills,108.51,102
+Greggs,Food & Drink,64.37,90
+Amazon,Shopping,125.38,149
+Burger King,Food & Drink,155.29,141
+Octopus Energy,Utilities & Bills,14.29,108
+Giffgaff,Mobile Services,66.26,134
+National Rail,Transport,75.27,30
+Octopus Energy,Utilities & Bills,143.58,94
+Argos,Shopping,208.23,98
+Octopus Energy,Utilities & Bills,6.97,31
+KFC,Food & Drink,146.69,55
+TFL,Transport,192.46,153
+Uber,Transport,22.73,102
+Octopus Energy,Utilities & Bills,193.5,166
+TFL,Transport,220.63,120
+Morrisons,Groceries,195.47,161
+eBay,Shopping,98.16,185
+Bolt,Transport,87.88,144
+Uber,Transport,94.43,97
+EDF,Utilities & Bills,49.82,108
+Waitrose,Groceries,125.91,14
+McDonald's,Food & Drink,64.54,115
+Bolt,Transport,198.2,10
+EDF,Utilities & Bills,89.88,15
+Iceland,Groceries,39.97,188
+National Rail,Transport,65.27,117
+McDonald's,Food & Drink,138.61,74
+Tesco,Groceries,102.99,152
+eBay,Shopping,73.28,187
+Argos,Shopping,101.87,23
+Bolt,Transport,15.28,40
+Giffgaff,Mobile Services,199.46,20
+Apple Music,Entertainment,22.74,68
+National Rail,Transport,140.69,28
+Nando's,Food & Drink,107.47,91
+British Gas,Utilities & Bills,72.31,163
+Bolt,Transport,85.21,38
+Spotify,Entertainment,187.95,103
+Greggs,Food & Drink,210.24,123
+Netflix,Entertainment,169.24,157
+Burger King,Food & Drink,93.98,152
+Morrisons,Groceries,111.08,36
+Giffgaff,Mobile Services,174.97,59
+Octopus Energy,Utilities & Bills,42.73,94
+Morrisons,Groceries,101.59,120
+EDF,Utilities & Bills,16.83,86
+Greggs,Food & Drink,238.36,109
+Giffgaff,Mobile Services,85.18,74
+Burger King,Food & Drink,66.69,157
+EDF,Utilities & Bills,46.21,191
+Apple Music,Entertainment,133.69,73
+Vodafone,Mobile Services,44.62,183
+Vodafone,Mobile Services,93.33,71
+Sainsbury's,Groceries,111.83,175
+Thames Water,Utilities & Bills,172.25,51
+British Gas,Utilities & Bills,228.03,118
+TFL,Transport,124.38,147
+John Lewis,Shopping,66.82,171
+Netflix,Entertainment,212.94,186
+Greggs,Food & Drink,158.77,154
+Costa,Food & Drink,11.27,113
+National Rail,Transport,38.74,79
+KFC,Food & Drink,188.06,150
+Sky Mobile,Mobile Services,198.48,68
+Iceland,Groceries,186.09,151
+Vodafone,Mobile Services,192.81,55
+Netflix,Entertainment,141.23,63
+Netflix,Entertainment,196.16,65
+Netflix,Entertainment,138.33,156
+Disney+,Entertainment,235.61,143
+British Gas,Utilities & Bills,219.02,85
+Octopus Energy,Utilities & Bills,216.87,190
+TFL,Transport,223.57,38
+Spotify,Entertainment,190.9,143
+Greggs,Food & Drink,79.08,188
+Netflix,Entertainment,5.78,146
+Zara,Shopping,122.36,166
+TFL,Transport,21.27,113
+Uber,Transport,226.82,3
+Sky Mobile,Mobile Services,157.67,137
+British Gas,Utilities & Bills,44.02,110
+TFL,Transport,146.05,167
+National Rail,Transport,97.66,174
+Starbucks,Food & Drink,80.89,96
+Greggs,Food & Drink,7.16,95
+Nando's,Food & Drink,61.6,173
+Amazon,Shopping,133.58,191
+Giffgaff,Mobile Services,232.49,16
+Costa,Food & Drink,212.13,38
+KFC,Food & Drink,60.09,56
+British Gas,Utilities & Bills,244.24,46
+National Rail,Transport,75.35,31
+Primark,Shopping,247.75,130
+Primark,Shopping,134.79,170
+Uber,Transport,83.65,99
+TFL,Transport,39.18,6
+TFL,Transport,150.45,186
+Amazon,Shopping,215.63,187
+Thames Water,Utilities & Bills,50.05,100
+Costa,Food & Drink,121.11,173
+Costa,Food & Drink,237.47,193
+Disney+,Entertainment,103.92,98
+Lidl,Groceries,240.9,54
+Virgin Mobile,Mobile Services,217.85,157
+Sky Mobile,Mobile Services,67.82,137
+Apple Music,Entertainment,100.44,52
+Primark,Shopping,219.2,64
+Starbucks,Food & Drink,126.91,78
+Virgin Mobile,Mobile Services,155.62,15
+Virgin Mobile,Mobile Services,79.33,86
+Octopus Energy,Utilities & Bills,56.04,56
+British Gas,Utilities & Bills,186.9,101
+Disney+,Entertainment,94.19,92
+Amazon,Shopping,233.37,31
+Primark,Shopping,70.06,65
+McDonald's,Food & Drink,123.84,185
+Greggs,Food & Drink,76.24,22
+Primark,Shopping,212.68,178
+Lidl,Groceries,101.15,167
+Sainsbury's,Groceries,211.88,7
+Uber,Transport,152.0,188
+TFL,Transport,137.01,26
+Disney+,Entertainment,208.97,122
+Starbucks,Food & Drink,221.1,2
+Vue,Entertainment,39.1,176
+KFC,Food & Drink,22.09,86
+Sky Mobile,Mobile Services,227.68,27
+Netflix,Entertainment,49.47,43
+Vodafone,Mobile Services,219.38,84
+TFL,Transport,237.92,198
+Amazon,Shopping,238.81,103
+EDF,Utilities & Bills,112.66,86
+Burger King,Food & Drink,60.39,173
+KFC,Food & Drink,64.61,60
+Costa,Food & Drink,239.0,14
+Giffgaff,Mobile Services,203.32,12
+TFL,Transport,183.21,4
+Greggs,Food & Drink,113.55,1
+Zara,Shopping,20.93,62
+Vue,Entertainment,158.48,162
+Tesco,Groceries,28.01,175
+Sky Mobile,Mobile Services,188.69,114
+Starbucks,Food & Drink,243.27,78
+Octopus Energy,Utilities & Bills,237.79,132
+Sky Mobile,Mobile Services,64.37,78
+Starbucks,Food & Drink,28.24,20
+Costa,Food & Drink,174.97,34
+Spotify,Entertainment,184.18,193
+Giffgaff,Mobile Services,160.33,137
+Disney+,Entertainment,190.36,43
+Starbucks,Food & Drink,214.86,13
+Aldi,Groceries,60.06,165
+Vue,Entertainment,195.4,106
+Vue,Entertainment,9.52,188
+Vodafone,Mobile Services,115.51,42
+Costa,Food & Drink,182.53,193
+eBay,Shopping,12.5,125
+British Gas,Utilities & Bills,88.08,17
+Thames Water,Utilities & Bills,233.96,105
+Netflix,Entertainment,199.85,199
+Amazon,Shopping,33.81,70
+Costa,Food & Drink,151.35,118
+Apple Music,Entertainment,5.54,99
+Thames Water,Utilities & Bills,6.42,143
+Spotify,Entertainment,199.57,170
+British Gas,Utilities & Bills,81.47,157
+Tesco,Groceries,178.16,153
+Octopus Energy,Utilities & Bills,159.99,73
+TFL,Transport,180.45,150
+Netflix,Entertainment,88.04,69
+Tesco,Groceries,47.48,65
+Burger King,Food & Drink,66.85,60
+EDF,Utilities & Bills,28.75,181
+Thames Water,Utilities & Bills,21.37,138
+Sky Mobile,Mobile Services,166.18,31
+TFL,Transport,96.24,166
+Sainsbury's,Groceries,195.26,139
+Starbucks,Food & Drink,33.9,22
+Vue,Entertainment,160.69,117
+Bolt,Transport,126.04,18
+Aldi,Groceries,31.16,137
+Burger King,Food & Drink,129.26,169
+Lidl,Groceries,213.7,117
+Iceland,Groceries,53.91,143
+Lidl,Groceries,67.58,174
+EDF,Utilities & Bills,145.86,142
+EDF,Utilities & Bills,194.13,72
+KFC,Food & Drink,120.49,122
+John Lewis,Shopping,139.76,148
+Sky Mobile,Mobile Services,222.83,130
+Virgin Mobile,Mobile Services,179.43,189
+eBay,Shopping,158.34,5
+Vue,Entertainment,30.64,118
+TFL,Transport,141.41,22
+KFC,Food & Drink,88.18,184
+Argos,Shopping,26.02,146
+Disney+,Entertainment,21.13,135
+Bolt,Transport,228.0,85
+Waitrose,Groceries,209.22,198
+Thames Water,Utilities & Bills,24.95,18
+Vue,Entertainment,99.89,148
+Aldi,Groceries,190.2,120
+Uber,Transport,205.71,190
+McDonald's,Food & Drink,47.92,98
+British Gas,Utilities & Bills,93.39,176
+Uber,Transport,79.17,74
+Pret A Manger,Food & Drink,239.18,147
+Giffgaff,Mobile Services,136.86,180
+National Rail,Transport,154.15,5
+Primark,Shopping,163.66,117
+Apple Music,Entertainment,61.35,75
+Spotify,Entertainment,54.6,115
+National Rail,Transport,31.07,199
+Bolt,Transport,162.54,15
+Burger King,Food & Drink,171.24,31
+National Rail,Transport,188.79,177
+Pret A Manger,Food & Drink,231.19,97
+British Gas,Utilities & Bills,218.87,189
+TFL,Transport,77.7,168
+Lidl,Groceries,52.05,85
+Thames Water,Utilities & Bills,215.29,36
+Disney+,Entertainment,64.49,9
+Morrisons,Groceries,83.4,177
+Pret A Manger,Food & Drink,207.31,163
+Nando's,Food & Drink,245.51,31
+Bolt,Transport,194.03,153
+National Rail,Transport,12.99,92
+John Lewis,Shopping,44.85,42
+Octopus Energy,Utilities & Bills,213.97,18
+Vue,Entertainment,187.32,194
+Sky Mobile,Mobile Services,223.41,32
+Costa,Food & Drink,146.34,183
+Bolt,Transport,39.42,81
+British Gas,Utilities & Bills,65.42,164
+KFC,Food & Drink,223.98,123
+National Rail,Transport,117.19,186
+Bolt,Transport,190.9,21
+Uber,Transport,103.06,95
+TFL,Transport,15.54,153
+Apple Music,Entertainment,22.21,8
+Zara,Shopping,122.67,105
+Vodafone,Mobile Services,189.99,115
+Giffgaff,Mobile Services,68.01,134
+Waitrose,Groceries,229.79,81
+Pret A Manger,Food & Drink,82.12,159
+Morrisons,Groceries,39.44,87
+Iceland,Groceries,170.63,153
+Aldi,Groceries,63.96,86
+Starbucks,Food & Drink,67.15,10
+Spotify,Entertainment,52.4,10
+Disney+,Entertainment,17.38,132
+Uber,Transport,123.7,85
+Disney+,Entertainment,211.4,79
+Amazon,Shopping,208.63,147
+TFL,Transport,51.78,109
+Greggs,Food & Drink,25.98,77
+Bolt,Transport,154.08,172
+National Rail,Transport,194.95,187
+Greggs,Food & Drink,68.51,189
+Argos,Shopping,117.98,121
+Uber,Transport,99.67,79
+Argos,Shopping,188.61,96
+ASOS,Shopping,201.56,127
+Costa,Food & Drink,115.09,151
+Disney+,Entertainment,180.82,95
+Giffgaff,Mobile Services,71.63,125
+British Gas,Utilities & Bills,13.18,153
+Apple Music,Entertainment,78.7,194
+Tesco,Groceries,70.58,196
+TFL,Transport,241.07,14
+Vodafone,Mobile Services,8.25,83
+Zara,Shopping,37.17,191
+TFL,Transport,85.74,174
+ASOS,Shopping,181.02,36
+Vue,Entertainment,142.2,156
+Vodafone,Mobile Services,173.71,135
+Primark,Shopping,14.8,46
+Sky Mobile,Mobile Services,136.47,110
+Vue,Entertainment,247.39,144
+National Rail,Transport,192.82,57
+Virgin Mobile,Mobile Services,83.08,157
+Waitrose,Groceries,135.42,74
+Starbucks,Food & Drink,132.26,123
+Starbucks,Food & Drink,12.45,197
+Uber,Transport,47.25,152
+Uber,Transport,134.56,109
+Spotify,Entertainment,239.36,51
+Spotify,Entertainment,13.51,107
+EDF,Utilities & Bills,209.71,193
+Bolt,Transport,129.55,65
+Octopus Energy,Utilities & Bills,75.6,3
+Burger King,Food & Drink,235.33,191
+Uber,Transport,80.93,90
+Nando's,Food & Drink,192.92,151
+Uber,Transport,55.09,78
+Netflix,Entertainment,119.97,172
+Iceland,Groceries,196.61,105
+Spotify,Entertainment,186.18,47
+Pret A Manger,Food & Drink,208.85,197
+Morrisons,Groceries,49.01,45
+Uber,Transport,22.61,87
+Virgin Mobile,Mobile Services,209.53,96
+KFC,Food & Drink,90.75,142
+Giffgaff,Mobile Services,56.14,112
+Vodafone,Mobile Services,107.13,65
+Sky Mobile,Mobile Services,87.99,42
+Uber,Transport,152.05,118
+Netflix,Entertainment,12.54,147
+Giffgaff,Mobile Services,160.28,90
+Morrisons,Groceries,136.19,58
+British Gas,Utilities & Bills,161.82,190
+TFL,Transport,55.65,165
+Primark,Shopping,69.97,5
+KFC,Food & Drink,235.58,84
+Uber,Transport,205.77,1
+Octopus Energy,Utilities & Bills,225.91,31
+British Gas,Utilities & Bills,67.73,93
+Vodafone,Mobile Services,99.02,181
+National Rail,Transport,14.42,181
+Giffgaff,Mobile Services,65.94,17
+Disney+,Entertainment,110.21,3
+ASOS,Shopping,103.35,90
+Virgin Mobile,Mobile Services,175.65,55
+Octopus Energy,Utilities & Bills,177.14,147
+EDF,Utilities & Bills,160.94,160
+Pret A Manger,Food & Drink,154.37,29
+Lidl,Groceries,50.75,101
+Vodafone,Mobile Services,219.67,82
+Iceland,Groceries,61.59,133
+Primark,Shopping,89.12,38
+Lidl,Groceries,91.03,190
+Octopus Energy,Utilities & Bills,150.94,39
+Sky Mobile,Mobile Services,238.35,1
+John Lewis,Shopping,224.47,69
+British Gas,Utilities & Bills,206.16,19
+TFL,Transport,112.39,79
+TFL,Transport,55.97,77
+EDF,Utilities & Bills,233.51,30
+Sky Mobile,Mobile Services,190.98,144
+TFL,Transport,32.87,155
+Apple Music,Entertainment,74.0,156
+Morrisons,Groceries,191.53,110
+Pret A Manger,Food & Drink,175.09,96
+EDF,Utilities & Bills,220.53,154
+Nando's,Food & Drink,155.71,50
+Vodafone,Mobile Services,178.24,150
+Apple Music,Entertainment,121.4,117
+Sainsbury's,Groceries,15.37,64
+Giffgaff,Mobile Services,209.4,135
+eBay,Shopping,57.44,132
+Thames Water,Utilities & Bills,14.53,104
+Pret A Manger,Food & Drink,10.66,148
+Argos,Shopping,236.53,191
+EDF,Utilities & Bills,201.6,8
+Giffgaff,Mobile Services,118.89,106
+Tesco,Groceries,196.0,113
+TFL,Transport,37.01,91
+Argos,Shopping,215.85,31
+Apple Music,Entertainment,9.68,98
+Pret A Manger,Food & Drink,113.43,3
+eBay,Shopping,21.75,166
+Tesco,Groceries,39.37,157
+Uber,Transport,88.26,156
+Costa,Food & Drink,81.6,59
+Nando's,Food & Drink,187.04,16
+Costa,Food & Drink,46.62,150
+TFL,Transport,93.97,129
+Waitrose,Groceries,112.29,9
+Apple Music,Entertainment,216.36,193
+Starbucks,Food & Drink,241.26,79
+Waitrose,Groceries,200.82,188
+Sky Mobile,Mobile Services,196.6,103
+Vodafone,Mobile Services,149.5,82
+TFL,Transport,52.13,131
+Sky Mobile,Mobile Services,183.61,161
+Thames Water,Utilities & Bills,67.2,26
+KFC,Food & Drink,64.25,42
+Disney+,Entertainment,38.13,49
+Octopus Energy,Utilities & Bills,221.33,12
+Bolt,Transport,53.84,2
+Tesco,Groceries,98.24,22
+Sainsbury's,Groceries,74.17,61
+Uber,Transport,205.3,159
+Sky Mobile,Mobile Services,92.28,53
+Bolt,Transport,164.87,150
+Vodafone,Mobile Services,36.05,154
+Morrisons,Groceries,84.09,109
+Zara,Shopping,115.88,18
+eBay,Shopping,18.07,143
+Disney+,Entertainment,52.01,73
+Giffgaff,Mobile Services,102.67,190
+Greggs,Food & Drink,29.38,78
+Amazon,Shopping,106.9,24
+Morrisons,Groceries,147.23,99
+Greggs,Food & Drink,134.91,79
+Disney+,Entertainment,67.92,59
+Bolt,Transport,208.67,119
+ASOS,Shopping,170.06,68
+Apple Music,Entertainment,115.0,124
+Uber,Transport,244.96,113
+Amazon,Shopping,129.41,79
+Virgin Mobile,Mobile Services,86.41,118
+Vue,Entertainment,33.69,133
+Nando's,Food & Drink,113.76,62
+Lidl,Groceries,107.28,67
+Giffgaff,Mobile Services,207.46,74
+Sky Mobile,Mobile Services,132.98,142
+National Rail,Transport,108.8,14
+Bolt,Transport,142.43,116
+Vodafone,Mobile Services,83.22,32
+Primark,Shopping,169.66,17
+Apple Music,Entertainment,173.16,80
+Thames Water,Utilities & Bills,103.4,116
+Aldi,Groceries,249.65,79
+Uber,Transport,59.63,109
+Zara,Shopping,196.97,13
+Uber,Transport,152.84,15
+EDF,Utilities & Bills,146.31,95
+TFL,Transport,170.52,138
+EDF,Utilities & Bills,236.09,53
+Netflix,Entertainment,106.85,112
+Sainsbury's,Groceries,90.17,30
+Vue,Entertainment,102.66,78
+Thames Water,Utilities & Bills,175.76,107
+National Rail,Transport,130.95,47
+Octopus Energy,Utilities & Bills,210.93,174
+EDF,Utilities & Bills,124.67,167
+Sky Mobile,Mobile Services,5.87,194
+British Gas,Utilities & Bills,98.49,110
+TFL,Transport,97.03,164
+Apple Music,Entertainment,214.37,45
+Virgin Mobile,Mobile Services,179.57,122
+Thames Water,Utilities & Bills,66.85,15
+Amazon,Shopping,242.99,20
+Thames Water,Utilities & Bills,196.86,179
+Octopus Energy,Utilities & Bills,227.03,167
+National Rail,Transport,178.5,26
+Primark,Shopping,29.98,186
+Vodafone,Mobile Services,115.4,178
+ASOS,Shopping,236.54,6
+Starbucks,Food & Drink,143.75,183
+Giffgaff,Mobile Services,204.0,14
+Giffgaff,Mobile Services,143.38,178
+Giffgaff,Mobile Services,125.14,96
+Giffgaff,Mobile Services,106.45,147
+Disney+,Entertainment,25.74,6
+TFL,Transport,69.53,3
+Primark,Shopping,51.1,47
+Disney+,Entertainment,132.53,39
+TFL,Transport,226.56,185
+Disney+,Entertainment,145.11,118
+British Gas,Utilities & Bills,31.7,30
+Nando's,Food & Drink,92.09,69
+Sainsbury's,Groceries,167.62,52
+British Gas,Utilities & Bills,216.45,91
+Apple Music,Entertainment,225.44,72
+Giffgaff,Mobile Services,203.87,192
+TFL,Transport,131.17,30
+Virgin Mobile,Mobile Services,165.78,16
+Vodafone,Mobile Services,82.99,123
+Pret A Manger,Food & Drink,97.5,155
+ASOS,Shopping,234.75,31
+Iceland,Groceries,99.5,134
+National Rail,Transport,208.6,190
+John Lewis,Shopping,58.28,167
+Octopus Energy,Utilities & Bills,102.61,159
+Vodafone,Mobile Services,205.69,25
+National Rail,Transport,17.23,167
+EDF,Utilities & Bills,117.3,32
+Primark,Shopping,115.26,16
+KFC,Food & Drink,228.13,75
+EDF,Utilities & Bills,10.51,38
+Uber,Transport,209.82,129
+Thames Water,Utilities & Bills,111.57,74
+Sky Mobile,Mobile Services,91.35,164
+Primark,Shopping,75.12,57
+Pret A Manger,Food & Drink,147.2,79
+McDonald's,Food & Drink,222.97,50
+Netflix,Entertainment,249.69,117
+Zara,Shopping,98.27,159
+Spotify,Entertainment,159.26,169
+EDF,Utilities & Bills,15.68,102
+Aldi,Groceries,209.1,51
+Lidl,Groceries,11.98,1
+Amazon,Shopping,102.21,14
+British Gas,Utilities & Bills,33.38,3
+KFC,Food & Drink,58.48,194
+Costa,Food & Drink,53.6,94
+Uber,Transport,237.16,25
+Octopus Energy,Utilities & Bills,190.24,137
+Virgin Mobile,Mobile Services,165.1,57
+Apple Music,Entertainment,194.18,26
+Uber,Transport,16.01,29
+Sky Mobile,Mobile Services,232.16,27
+EDF,Utilities & Bills,37.32,113
+Virgin Mobile,Mobile Services,141.45,87
+Virgin Mobile,Mobile Services,160.83,132
+KFC,Food & Drink,96.93,98
+Greggs,Food & Drink,8.89,156
+Octopus Energy,Utilities & Bills,105.17,185
+Netflix,Entertainment,164.75,194
+McDonald's,Food & Drink,66.92,196
+Bolt,Transport,189.55,67
+Bolt,Transport,9.6,181
+Giffgaff,Mobile Services,52.17,31
+Sainsbury's,Groceries,69.8,11
+Nando's,Food & Drink,56.17,181
+Apple Music,Entertainment,226.52,19
+Uber,Transport,157.74,157
+ASOS,Shopping,76.69,155
+TFL,Transport,149.96,166
+Aldi,Groceries,204.44,81
+Disney+,Entertainment,19.84,160
+Primark,Shopping,13.99,32
+Uber,Transport,57.82,199
+Amazon,Shopping,217.57,54
+Sky Mobile,Mobile Services,227.88,137
+Uber,Transport,23.23,107
+Vue,Entertainment,65.93,103
+John Lewis,Shopping,67.96,155
+Vodafone,Mobile Services,10.43,69
+Virgin Mobile,Mobile Services,63.67,48
+Morrisons,Groceries,79.97,5
+National Rail,Transport,44.22,108
+Virgin Mobile,Mobile Services,79.79,20
+National Rail,Transport,168.3,152
+Uber,Transport,186.14,176
+Thames Water,Utilities & Bills,108.64,145
+Bolt,Transport,184.53,59
+Tesco,Groceries,218.65,111
+Sainsbury's,Groceries,169.92,125
+Uber,Transport,48.4,94
+Virgin Mobile,Mobile Services,248.33,4
+British Gas,Utilities & Bills,134.21,91
+Spotify,Entertainment,177.06,70
+Morrisons,Groceries,235.51,172
+National Rail,Transport,205.03,168
+ASOS,Shopping,194.46,176
+Uber,Transport,230.92,166
+Aldi,Groceries,227.83,183
+Apple Music,Entertainment,76.17,90
+Virgin Mobile,Mobile Services,45.36,167
+Virgin Mobile,Mobile Services,197.81,106
+Burger King,Food & Drink,210.58,94
+Nando's,Food & Drink,149.23,65
+Octopus Energy,Utilities & Bills,68.98,8
+KFC,Food & Drink,111.5,79
+Giffgaff,Mobile Services,245.6,40
+Aldi,Groceries,12.49,134
+EDF,Utilities & Bills,243.51,128
+Vodafone,Mobile Services,238.76,180
+Virgin Mobile,Mobile Services,34.4,168
+Thames Water,Utilities & Bills,199.26,62
+ASOS,Shopping,207.84,194
+Thames Water,Utilities & Bills,234.92,32
+Aldi,Groceries,197.48,29
+McDonald's,Food & Drink,159.27,148
+Tesco,Groceries,86.32,172
+Zara,Shopping,234.51,129
+Zara,Shopping,72.37,180
+Starbucks,Food & Drink,58.09,196
+Virgin Mobile,Mobile Services,180.97,161
+Primark,Shopping,77.98,106
+Pret A Manger,Food & Drink,170.3,192
+Zara,Shopping,199.95,149
+Uber,Transport,21.42,4
+Aldi,Groceries,205.38,24
+Sainsbury's,Groceries,134.05,125
+Bolt,Transport,176.92,179
+Aldi,Groceries,183.97,175
+Spotify,Entertainment,214.86,75
+Uber,Transport,230.3,58
+Greggs,Food & Drink,33.13,48
+Vodafone,Mobile Services,64.51,189
+British Gas,Utilities & Bills,82.94,190
+Bolt,Transport,77.53,170
+Giffgaff,Mobile Services,84.26,175
+Vodafone,Mobile Services,131.91,160
+Giffgaff,Mobile Services,100.07,112
+Spotify,Entertainment,131.89,109
+Virgin Mobile,Mobile Services,123.66,76
+Tesco,Groceries,69.02,126
+National Rail,Transport,207.43,168
+Lidl,Groceries,85.19,104
+Disney+,Entertainment,172.55,171
+British Gas,Utilities & Bills,211.87,3
+Bolt,Transport,171.22,52
+Disney+,Entertainment,16.14,69
+Vue,Entertainment,80.89,68
+Lidl,Groceries,115.99,95
+National Rail,Transport,156.58,53
+Starbucks,Food & Drink,28.27,194
+Sky Mobile,Mobile Services,96.35,179
+Tesco,Groceries,215.85,198
+ASOS,Shopping,175.34,85
+Primark,Shopping,39.75,72
+Vodafone,Mobile Services,145.35,85
+Spotify,Entertainment,242.11,3
+Netflix,Entertainment,194.81,4
+Giffgaff,Mobile Services,172.78,15
+McDonald's,Food & Drink,104.44,7
+Thames Water,Utilities & Bills,246.65,178
+Octopus Energy,Utilities & Bills,82.65,118
+TFL,Transport,171.6,193
+Virgin Mobile,Mobile Services,134.53,121
+Zara,Shopping,226.57,69
+Sky Mobile,Mobile Services,33.25,1
+Octopus Energy,Utilities & Bills,222.05,18
+Amazon,Shopping,157.95,151
+Lidl,Groceries,47.76,142
+Thames Water,Utilities & Bills,177.83,16
+Giffgaff,Mobile Services,243.69,134
+Iceland,Groceries,188.53,95
+Iceland,Groceries,80.77,159
+eBay,Shopping,12.39,172
+Giffgaff,Mobile Services,219.83,176
+Aldi,Groceries,197.64,30
+Virgin Mobile,Mobile Services,53.21,32
+Vue,Entertainment,116.06,131
+Thames Water,Utilities & Bills,184.01,81
+Tesco,Groceries,61.8,63
+Vodafone,Mobile Services,85.8,103
+Octopus Energy,Utilities & Bills,183.02,46
+Virgin Mobile,Mobile Services,203.65,97
+Bolt,Transport,9.24,22
+Burger King,Food & Drink,199.28,194
+Tesco,Groceries,51.45,113
+Pret A Manger,Food & Drink,86.19,120
+British Gas,Utilities & Bills,84.15,82
+Vue,Entertainment,65.24,9
+Morrisons,Groceries,219.46,88
+Octopus Energy,Utilities & Bills,113.11,77
+Octopus Energy,Utilities & Bills,148.63,17
+Virgin Mobile,Mobile Services,56.7,2
+Lidl,Groceries,18.2,161
+Apple Music,Entertainment,154.98,46
+Netflix,Entertainment,160.38,51
+Disney+,Entertainment,213.02,82
+Vue,Entertainment,89.59,139
+Starbucks,Food & Drink,186.97,96
+Disney+,Entertainment,69.18,1
+Thames Water,Utilities & Bills,110.66,79
+Bolt,Transport,190.94,129
+Lidl,Groceries,242.22,54
+Vodafone,Mobile Services,70.54,7
+EDF,Utilities & Bills,62.94,74
+Sainsbury's,Groceries,198.29,123
+Bolt,Transport,78.43,21
+EDF,Utilities & Bills,243.62,88
+Pret A Manger,Food & Drink,60.48,107
+Vue,Entertainment,169.21,56
+Octopus Energy,Utilities & Bills,159.75,185
+Costa,Food & Drink,32.82,123
+British Gas,Utilities & Bills,61.29,156
+McDonald's,Food & Drink,30.13,67
+ASOS,Shopping,148.9,140
+Costa,Food & Drink,47.92,193
+Lidl,Groceries,43.28,64
+Amazon,Shopping,185.5,70
+ASOS,Shopping,231.2,111
+Virgin Mobile,Mobile Services,151.05,28
+Virgin Mobile,Mobile Services,24.02,86
+Costa,Food & Drink,97.32,33
+Sky Mobile,Mobile Services,65.4,46
+Spotify,Entertainment,155.44,133
+Uber,Transport,72.8,178
+British Gas,Utilities & Bills,220.46,120
+Argos,Shopping,49.97,172
+Sainsbury's,Groceries,153.35,55
+Zara,Shopping,73.09,115
+Disney+,Entertainment,112.16,67
+Tesco,Groceries,177.2,33
+Vodafone,Mobile Services,19.46,133
+Giffgaff,Mobile Services,62.18,177
+EDF,Utilities & Bills,241.52,4
+Thames Water,Utilities & Bills,202.39,159
+Apple Music,Entertainment,171.48,136
+ASOS,Shopping,36.96,156
+Netflix,Entertainment,8.09,137
+Nando's,Food & Drink,91.2,116
+Zara,Shopping,69.87,186
+Waitrose,Groceries,245.89,73
+McDonald's,Food & Drink,36.3,122
+Virgin Mobile,Mobile Services,29.89,185
+Octopus Energy,Utilities & Bills,46.4,198
+Starbucks,Food & Drink,123.89,67
+Zara,Shopping,119.08,60
+Amazon,Shopping,213.3,41
+Uber,Transport,244.41,100
+Netflix,Entertainment,120.91,60
+Bolt,Transport,156.69,189
+Argos,Shopping,248.05,74
+Vodafone,Mobile Services,28.29,80
+Amazon,Shopping,27.19,127
+EDF,Utilities & Bills,30.6,129
+Morrisons,Groceries,168.63,65
+Zara,Shopping,96.81,158
+eBay,Shopping,82.06,110
+TFL,Transport,78.37,140
+ASOS,Shopping,64.31,119
+National Rail,Transport,114.39,65
+Argos,Shopping,94.0,66
+eBay,Shopping,231.39,137
+Spotify,Entertainment,15.02,134
+EDF,Utilities & Bills,204.81,75
+Vodafone,Mobile Services,124.51,143
+Aldi,Groceries,163.2,167
+National Rail,Transport,151.48,6
+eBay,Shopping,24.94,99
+John Lewis,Shopping,104.03,117
+Costa,Food & Drink,67.82,15
+John Lewis,Shopping,151.8,147
+National Rail,Transport,55.4,91
+British Gas,Utilities & Bills,75.81,127
+Bolt,Transport,222.75,192
+Primark,Shopping,169.02,122
+Octopus Energy,Utilities & Bills,220.55,46
+Octopus Energy,Utilities & Bills,172.63,79
+Vue,Entertainment,102.85,74
+Disney+,Entertainment,110.77,149
+Burger King,Food & Drink,148.9,72
+National Rail,Transport,197.01,128
+Virgin Mobile,Mobile Services,165.38,87
+Primark,Shopping,36.5,182
+Uber,Transport,88.94,92
+Zara,Shopping,105.16,167
+Morrisons,Groceries,243.45,24
+Vue,Entertainment,236.61,59
+KFC,Food & Drink,164.33,187
+Uber,Transport,20.74,119
+Tesco,Groceries,60.33,57
+Costa,Food & Drink,136.59,180
+Pret A Manger,Food & Drink,123.4,138
+Argos,Shopping,194.83,105
+National Rail,Transport,84.99,9
+TFL,Transport,41.29,97
+Amazon,Shopping,73.98,21
+Apple Music,Entertainment,238.11,196
+Amazon,Shopping,188.98,190
+TFL,Transport,174.85,21
+Sky Mobile,Mobile Services,188.27,121
+TFL,Transport,124.94,56
+Primark,Shopping,190.15,28
+National Rail,Transport,172.06,65
+Pret A Manger,Food & Drink,235.48,153
+Greggs,Food & Drink,36.45,192
+Spotify,Entertainment,152.03,81
+Disney+,Entertainment,136.86,35
+Giffgaff,Mobile Services,79.44,36
+Vodafone,Mobile Services,50.78,42
+Vue,Entertainment,242.91,69
+National Rail,Transport,143.5,36
+British Gas,Utilities & Bills,103.18,51
+Sainsbury's,Groceries,145.42,49
+McDonald's,Food & Drink,138.89,93
+Apple Music,Entertainment,41.86,192
+Iceland,Groceries,208.9,165
+Uber,Transport,131.81,126
+Morrisons,Groceries,17.02,148
+Disney+,Entertainment,8.82,175
+Vodafone,Mobile Services,86.26,190
+EDF,Utilities & Bills,209.05,122
+TFL,Transport,42.65,159
+Argos,Shopping,146.28,111
+Uber,Transport,175.27,178
+Bolt,Transport,198.81,166
+Thames Water,Utilities & Bills,205.13,96
+Aldi,Groceries,92.78,97
+Virgin Mobile,Mobile Services,109.09,131
+Vue,Entertainment,191.75,184
+Virgin Mobile,Mobile Services,196.46,199
+Octopus Energy,Utilities & Bills,58.33,7
+National Rail,Transport,153.32,153
+British Gas,Utilities & Bills,54.47,95
+Starbucks,Food & Drink,171.97,132
+Amazon,Shopping,110.55,182
+Sky Mobile,Mobile Services,208.38,22
+KFC,Food & Drink,8.85,20
+Iceland,Groceries,101.39,26
+ASOS,Shopping,199.26,56
+Bolt,Transport,87.3,56
+Vodafone,Mobile Services,248.08,84
+ASOS,Shopping,206.23,111
+TFL,Transport,202.65,112
+Disney+,Entertainment,97.06,183
+British Gas,Utilities & Bills,119.71,166
+Vue,Entertainment,103.79,115
+EDF,Utilities & Bills,43.63,181
+Sky Mobile,Mobile Services,247.27,151
+Disney+,Entertainment,218.74,183
+Uber,Transport,18.36,111
+British Gas,Utilities & Bills,224.58,100
+Giffgaff,Mobile Services,149.96,31
+Virgin Mobile,Mobile Services,84.44,30
+Giffgaff,Mobile Services,52.01,41
+Disney+,Entertainment,143.48,158
+Spotify,Entertainment,147.14,104
+Giffgaff,Mobile Services,67.53,84
+Vue,Entertainment,109.41,124
+Octopus Energy,Utilities & Bills,106.71,13
+Apple Music,Entertainment,171.57,20
+Vodafone,Mobile Services,107.34,149
+Morrisons,Groceries,167.3,26
+Octopus Energy,Utilities & Bills,172.33,125
+Waitrose,Groceries,148.57,34
+EDF,Utilities & Bills,105.73,65
+Waitrose,Groceries,99.5,52
+Octopus Energy,Utilities & Bills,74.86,113
+Virgin Mobile,Mobile Services,36.9,185
+Tesco,Groceries,126.19,72
+Morrisons,Groceries,44.63,75
+Apple Music,Entertainment,137.7,19
+McDonald's,Food & Drink,44.28,137
+Vodafone,Mobile Services,211.28,182
+Waitrose,Groceries,69.58,136
+Thames Water,Utilities & Bills,135.77,13
+Lidl,Groceries,220.96,170
+Giffgaff,Mobile Services,26.98,146
+Costa,Food & Drink,12.71,112
+Thames Water,Utilities & Bills,194.95,120
+Uber,Transport,72.96,128
+Iceland,Groceries,99.33,4
+Starbucks,Food & Drink,115.54,145
+Amazon,Shopping,234.27,22
+TFL,Transport,71.15,94
+EDF,Utilities & Bills,178.0,113
+Netflix,Entertainment,38.17,152
+Primark,Shopping,185.18,154
+Primark,Shopping,182.13,36
+Greggs,Food & Drink,63.88,73
+EDF,Utilities & Bills,151.83,37
+British Gas,Utilities & Bills,125.08,107
+Spotify,Entertainment,136.79,37
+Octopus Energy,Utilities & Bills,181.87,149
+Amazon,Shopping,103.99,2
+National Rail,Transport,43.8,14
+ASOS,Shopping,105.7,152
+Costa,Food & Drink,64.95,64
+KFC,Food & Drink,22.03,119
+Netflix,Entertainment,235.76,146
+Aldi,Groceries,185.32,10
+Vodafone,Mobile Services,103.33,195
+British Gas,Utilities & Bills,168.88,157
+Thames Water,Utilities & Bills,31.34,43
+ASOS,Shopping,83.71,81
+Giffgaff,Mobile Services,152.72,38
+ASOS,Shopping,216.51,130
+TFL,Transport,77.12,110
+Apple Music,Entertainment,65.23,61
+Morrisons,Groceries,102.38,134
+Giffgaff,Mobile Services,230.74,32
+Iceland,Groceries,189.15,15
+National Rail,Transport,149.92,9
+Greggs,Food & Drink,155.69,190
+Spotify,Entertainment,100.59,115
+Tesco,Groceries,31.63,106
+Argos,Shopping,54.49,163
+British Gas,Utilities & Bills,49.34,59
+Bolt,Transport,104.65,47
+British Gas,Utilities & Bills,167.16,159
+Disney+,Entertainment,229.41,51
+Netflix,Entertainment,133.64,128
+Greggs,Food & Drink,142.27,41
+Spotify,Entertainment,10.08,105
+Zara,Shopping,231.92,195
+Costa,Food & Drink,59.21,66
+Waitrose,Groceries,142.11,105
+Sainsbury's,Groceries,119.67,194
+Vodafone,Mobile Services,237.96,197
+Waitrose,Groceries,168.27,6
+EDF,Utilities & Bills,191.89,177
+eBay,Shopping,65.89,200
+British Gas,Utilities & Bills,48.03,129
+Sky Mobile,Mobile Services,203.91,97
+TFL,Transport,18.33,133
+Uber,Transport,169.39,142
+McDonald's,Food & Drink,57.27,104
+ASOS,Shopping,183.9,165
+Apple Music,Entertainment,155.25,124
+National Rail,Transport,243.8,52
+Zara,Shopping,78.27,171
+Giffgaff,Mobile Services,154.77,29
+Octopus Energy,Utilities & Bills,89.02,178
+Octopus Energy,Utilities & Bills,231.49,151
+Giffgaff,Mobile Services,40.54,47
+Spotify,Entertainment,5.03,149
+Netflix,Entertainment,200.76,51
+Virgin Mobile,Mobile Services,110.38,50
+Bolt,Transport,76.72,49
+EDF,Utilities & Bills,152.16,7
+ASOS,Shopping,238.34,129
+Vue,Entertainment,98.52,116
+Sainsbury's,Groceries,141.89,17
+Apple Music,Entertainment,192.44,182
+Sky Mobile,Mobile Services,63.08,102
+Iceland,Groceries,120.86,117
+Disney+,Entertainment,29.64,164
+ASOS,Shopping,5.62,36
+Giffgaff,Mobile Services,245.69,52
+eBay,Shopping,130.61,118
+Vodafone,Mobile Services,40.44,44
+Zara,Shopping,52.95,186
+Octopus Energy,Utilities & Bills,199.33,196
+Virgin Mobile,Mobile Services,91.36,109
+Iceland,Groceries,158.21,44
+TFL,Transport,57.24,18
+Waitrose,Groceries,117.31,74
+Zara,Shopping,223.51,196
+Sky Mobile,Mobile Services,115.18,113
+Netflix,Entertainment,42.69,159
+Greggs,Food & Drink,131.58,97
+Morrisons,Groceries,169.25,113
+Waitrose,Groceries,86.88,102
+Sky Mobile,Mobile Services,158.01,91
+Zara,Shopping,213.5,61
+Apple Music,Entertainment,196.37,40
+National Rail,Transport,88.33,43
+Vue,Entertainment,208.01,155
+British Gas,Utilities & Bills,221.09,97
+Argos,Shopping,241.55,43
+Giffgaff,Mobile Services,157.7,76
+Zara,Shopping,79.17,80
+National Rail,Transport,201.92,28
+Argos,Shopping,22.61,127
+Starbucks,Food & Drink,81.16,88
+British Gas,Utilities & Bills,29.47,55
+Bolt,Transport,124.32,123
+Greggs,Food & Drink,125.98,124
+Morrisons,Groceries,86.68,21
+Disney+,Entertainment,212.71,44
+Giffgaff,Mobile Services,225.36,121
+KFC,Food & Drink,169.02,180
+Primark,Shopping,76.64,10
+eBay,Shopping,64.76,60
+Sky Mobile,Mobile Services,135.38,134
+Giffgaff,Mobile Services,218.37,133
+EDF,Utilities & Bills,235.17,23
+National Rail,Transport,103.1,84
+Sky Mobile,Mobile Services,84.62,145
+eBay,Shopping,205.28,156
+Pret A Manger,Food & Drink,166.2,86
+Lidl,Groceries,18.87,170
+Spotify,Entertainment,177.83,121
+eBay,Shopping,55.61,105
+Lidl,Groceries,175.4,77
+Lidl,Groceries,113.87,21
+National Rail,Transport,113.72,135
+Nando's,Food & Drink,243.45,42
+Vodafone,Mobile Services,135.77,79
+Apple Music,Entertainment,53.87,46
+Nando's,Food & Drink,149.4,191
+Iceland,Groceries,157.96,111
+Amazon,Shopping,32.83,142
+Uber,Transport,245.65,134
+EDF,Utilities & Bills,160.0,4
+Tesco,Groceries,183.32,162
+Aldi,Groceries,20.99,126
+Zara,Shopping,227.49,180
+Starbucks,Food & Drink,33.95,180
+TFL,Transport,227.63,91
+Octopus Energy,Utilities & Bills,32.34,33
+Uber,Transport,235.36,152
+Greggs,Food & Drink,247.51,58
+Zara,Shopping,155.9,67
+National Rail,Transport,95.33,190
+Burger King,Food & Drink,245.23,75
+Argos,Shopping,248.7,143
+Vue,Entertainment,186.16,13
+Uber,Transport,83.75,19
+Vodafone,Mobile Services,72.65,148
+Disney+,Entertainment,187.9,103
+Thames Water,Utilities & Bills,139.49,86
+Aldi,Groceries,67.56,122
+Nando's,Food & Drink,67.42,74
+Netflix,Entertainment,121.52,137
+Sky Mobile,Mobile Services,170.12,112
+Spotify,Entertainment,182.96,191
+Primark,Shopping,109.78,180
+eBay,Shopping,210.71,133
+TFL,Transport,47.84,89
+Burger King,Food & Drink,245.43,174
+Disney+,Entertainment,231.16,123
+Iceland,Groceries,39.38,83
+National Rail,Transport,72.27,39
+Aldi,Groceries,146.47,118
+Nando's,Food & Drink,42.73,152
+Argos,Shopping,62.11,15
+Virgin Mobile,Mobile Services,142.32,28
+Apple Music,Entertainment,103.91,88
+Greggs,Food & Drink,29.64,31
+Virgin Mobile,Mobile Services,71.25,195
+Thames Water,Utilities & Bills,236.4,147
+Greggs,Food & Drink,221.25,78
+Vue,Entertainment,92.77,50
+Spotify,Entertainment,175.27,177
+Vodafone,Mobile Services,66.98,20
+Vue,Entertainment,31.04,173
+Disney+,Entertainment,45.21,168
+Vue,Entertainment,91.27,114
+Greggs,Food & Drink,54.21,49
+Disney+,Entertainment,209.72,102
+Waitrose,Groceries,242.54,77
+Amazon,Shopping,16.17,131
+Thames Water,Utilities & Bills,122.42,138
+Spotify,Entertainment,86.07,100
+KFC,Food & Drink,172.79,55
+Sky Mobile,Mobile Services,15.63,66
+Giffgaff,Mobile Services,127.88,126
+Vodafone,Mobile Services,47.02,146
+Vodafone,Mobile Services,54.61,64
+KFC,Food & Drink,155.3,130
+Netflix,Entertainment,248.79,198
+Giffgaff,Mobile Services,203.11,107
+Apple Music,Entertainment,74.05,199
+British Gas,Utilities & Bills,32.51,126
+KFC,Food & Drink,44.03,87
+Zara,Shopping,205.03,172
+Netflix,Entertainment,90.91,138
+Octopus Energy,Utilities & Bills,120.21,134
+Thames Water,Utilities & Bills,162.48,185
+Thames Water,Utilities & Bills,190.81,51
+Starbucks,Food & Drink,83.11,109
+Virgin Mobile,Mobile Services,227.45,194
+Bolt,Transport,174.74,119
+Lidl,Groceries,99.9,152
+eBay,Shopping,75.76,54
+Vue,Entertainment,107.7,77
+Spotify,Entertainment,50.77,62
+EDF,Utilities & Bills,32.34,154
+Apple Music,Entertainment,87.33,54
+EDF,Utilities & Bills,234.11,38
+British Gas,Utilities & Bills,110.61,73
+Thames Water,Utilities & Bills,102.25,125
+EDF,Utilities & Bills,213.24,15
+Starbucks,Food & Drink,89.57,37
+Zara,Shopping,147.54,166
+Giffgaff,Mobile Services,127.71,103
+Aldi,Groceries,58.84,107
+Virgin Mobile,Mobile Services,214.56,90
+Tesco,Groceries,211.88,48
+Bolt,Transport,12.89,162
+Aldi,Groceries,53.78,6
+Nando's,Food & Drink,93.29,156
+Disney+,Entertainment,197.06,138
+Primark,Shopping,100.08,68
+Sainsbury's,Groceries,31.81,151
+Bolt,Transport,152.78,42
+Burger King,Food & Drink,11.04,170
+KFC,Food & Drink,163.42,145
+Spotify,Entertainment,243.9,177
+ASOS,Shopping,29.58,46
+EDF,Utilities & Bills,102.67,5
+Morrisons,Groceries,87.34,112
+eBay,Shopping,123.5,136
+Vodafone,Mobile Services,110.7,82
+Octopus Energy,Utilities & Bills,70.11,178
+Vodafone,Mobile Services,13.43,110
+Waitrose,Groceries,168.72,185
+TFL,Transport,65.86,99
+Waitrose,Groceries,185.97,140
+Octopus Energy,Utilities & Bills,110.93,32
+Zara,Shopping,152.32,154
+Morrisons,Groceries,233.41,50
+National Rail,Transport,108.23,29
+British Gas,Utilities & Bills,91.46,121
+Greggs,Food & Drink,62.65,78
+Apple Music,Entertainment,104.11,193
+Octopus Energy,Utilities & Bills,135.47,3
+Virgin Mobile,Mobile Services,20.29,125
+Zara,Shopping,183.17,80
+McDonald's,Food & Drink,144.68,153
+Octopus Energy,Utilities & Bills,221.22,112
+Virgin Mobile,Mobile Services,160.28,4
+Octopus Energy,Utilities & Bills,118.75,62
+Uber,Transport,79.91,128
+Apple Music,Entertainment,160.9,62
+KFC,Food & Drink,111.19,137
+Giffgaff,Mobile Services,222.46,112
+Argos,Shopping,88.06,89
+McDonald's,Food & Drink,90.14,42
+Iceland,Groceries,125.86,41
+Sainsbury's,Groceries,208.9,200
+Giffgaff,Mobile Services,81.26,106
+Amazon,Shopping,107.08,122
+Apple Music,Entertainment,230.71,6
+Disney+,Entertainment,209.05,168
+Amazon,Shopping,171.46,186
+Lidl,Groceries,137.29,96
+Primark,Shopping,127.92,158
+McDonald's,Food & Drink,233.84,53
+Uber,Transport,9.98,121
+Thames Water,Utilities & Bills,61.54,18
+Sainsbury's,Groceries,68.07,101
+Spotify,Entertainment,218.92,68
+Apple Music,Entertainment,185.7,176
+Apple Music,Entertainment,136.62,2
+Giffgaff,Mobile Services,156.71,8
+Nando's,Food & Drink,202.47,23
+Burger King,Food & Drink,160.44,165
+Argos,Shopping,44.38,106
+Burger King,Food & Drink,126.05,17
+Lidl,Groceries,153.8,170
+Lidl,Groceries,184.75,95
+Sky Mobile,Mobile Services,61.63,161
+Uber,Transport,182.38,137
+Starbucks,Food & Drink,122.86,39
+Argos,Shopping,105.62,15
+National Rail,Transport,173.29,65
+Greggs,Food & Drink,89.49,47
+Zara,Shopping,224.42,179
+Primark,Shopping,34.78,164
+Netflix,Entertainment,39.5,6
+Disney+,Entertainment,182.94,123
+Disney+,Entertainment,121.83,175
+Spotify,Entertainment,183.98,59
+TFL,Transport,218.09,117
+McDonald's,Food & Drink,39.99,15
+EDF,Utilities & Bills,142.26,89
+Giffgaff,Mobile Services,72.61,150
+EDF,Utilities & Bills,100.07,168
+Burger King,Food & Drink,214.58,73
+Vue,Entertainment,183.73,133
+Tesco,Groceries,189.96,32
+Giffgaff,Mobile Services,205.37,143
+Costa,Food & Drink,51.16,32
+Vodafone,Mobile Services,67.16,160
+Disney+,Entertainment,209.05,119
+Aldi,Groceries,76.55,136
+Waitrose,Groceries,49.72,99
+Virgin Mobile,Mobile Services,83.86,152
+Argos,Shopping,134.83,144
+Uber,Transport,78.59,174
+Lidl,Groceries,249.92,153
+Virgin Mobile,Mobile Services,120.46,117
+Primark,Shopping,173.05,6
+Pret A Manger,Food & Drink,199.39,95
+Sainsbury's,Groceries,216.96,67
+Primark,Shopping,57.74,63
+British Gas,Utilities & Bills,63.14,73
+Virgin Mobile,Mobile Services,46.02,63
+ASOS,Shopping,218.54,4
+Amazon,Shopping,232.29,82
+Vue,Entertainment,60.37,105
+Aldi,Groceries,163.5,110
+Disney+,Entertainment,140.18,27
+Bolt,Transport,83.51,36
+Waitrose,Groceries,188.16,149
+Virgin Mobile,Mobile Services,129.67,155
+KFC,Food & Drink,232.32,26
+National Rail,Transport,14.59,80
+Sainsbury's,Groceries,36.65,10
+Netflix,Entertainment,176.8,122
+TFL,Transport,19.61,19
+Bolt,Transport,229.24,89
+TFL,Transport,79.18,39
+EDF,Utilities & Bills,216.88,107
+Giffgaff,Mobile Services,209.39,50
+Starbucks,Food & Drink,70.66,194
+Tesco,Groceries,167.12,186
+Aldi,Groceries,147.73,87
+John Lewis,Shopping,225.47,130
+Netflix,Entertainment,177.52,79
+EDF,Utilities & Bills,17.9,160
+Uber,Transport,156.69,156
+Greggs,Food & Drink,148.12,86
+Disney+,Entertainment,123.56,119
+Giffgaff,Mobile Services,60.56,184
+Bolt,Transport,213.36,58
+Morrisons,Groceries,233.71,75
+Vodafone,Mobile Services,196.28,40
+Sainsbury's,Groceries,242.32,176
+National Rail,Transport,222.01,110
+Greggs,Food & Drink,192.84,2
+Primark,Shopping,236.32,169
+Waitrose,Groceries,63.1,172
+Iceland,Groceries,243.28,87
+Amazon,Shopping,30.8,6
+Waitrose,Groceries,64.65,10
+Lidl,Groceries,50.74,136
+eBay,Shopping,125.45,191
+Zara,Shopping,221.84,21
+Iceland,Groceries,60.96,169
+Lidl,Groceries,187.82,178
+Spotify,Entertainment,124.87,140
+Primark,Shopping,247.61,21
+National Rail,Transport,13.22,177
+Sainsbury's,Groceries,212.05,154
+Sky Mobile,Mobile Services,104.94,88
+TFL,Transport,107.37,9
+Iceland,Groceries,40.18,176
+Vodafone,Mobile Services,138.1,191
+Pret A Manger,Food & Drink,155.15,133
+Lidl,Groceries,30.58,70
+Sky Mobile,Mobile Services,98.43,60
+Bolt,Transport,181.2,80
+Sainsbury's,Groceries,170.3,28
+Disney+,Entertainment,74.62,176
+Primark,Shopping,141.45,188
+Disney+,Entertainment,54.44,27
+Sky Mobile,Mobile Services,58.92,182
+Spotify,Entertainment,173.5,170
+Pret A Manger,Food & Drink,136.93,154
+Giffgaff,Mobile Services,224.52,8
+Netflix,Entertainment,27.05,145
+Greggs,Food & Drink,155.8,90
+Greggs,Food & Drink,222.74,9
+Sainsbury's,Groceries,123.05,81
+Pret A Manger,Food & Drink,135.89,13
+Disney+,Entertainment,48.94,120
+Disney+,Entertainment,216.47,1
+Uber,Transport,191.94,78
+Costa,Food & Drink,25.99,198
+EDF,Utilities & Bills,88.47,37
+Sky Mobile,Mobile Services,236.77,197
+Uber,Transport,110.4,198
+Vodafone,Mobile Services,31.96,87
+EDF,Utilities & Bills,126.1,158
+Iceland,Groceries,224.09,158
+Netflix,Entertainment,51.39,102
+Waitrose,Groceries,226.94,91
+KFC,Food & Drink,118.81,32
+Apple Music,Entertainment,58.88,100
+Apple Music,Entertainment,202.88,126
+Octopus Energy,Utilities & Bills,29.42,61
+British Gas,Utilities & Bills,66.3,81
+Octopus Energy,Utilities & Bills,50.56,196
+Morrisons,Groceries,106.88,152
+Pret A Manger,Food & Drink,71.7,61
+Giffgaff,Mobile Services,171.61,199
+Virgin Mobile,Mobile Services,94.22,172
+Spotify,Entertainment,57.16,98
+Pret A Manger,Food & Drink,192.06,43
+Costa,Food & Drink,145.82,188
+John Lewis,Shopping,50.07,167
+Giffgaff,Mobile Services,194.75,53
+Argos,Shopping,244.54,106
+British Gas,Utilities & Bills,26.21,40
+EDF,Utilities & Bills,178.45,13
+Primark,Shopping,223.98,3
+Uber,Transport,220.43,50
+Netflix,Entertainment,31.3,179
+Argos,Shopping,231.91,152
+Octopus Energy,Utilities & Bills,73.85,176
+Giffgaff,Mobile Services,205.74,89
+Vue,Entertainment,186.69,59
+Argos,Shopping,210.13,153
+Uber,Transport,191.73,112
+Vodafone,Mobile Services,53.87,118
+Octopus Energy,Utilities & Bills,203.09,101
+eBay,Shopping,13.97,12
+EDF,Utilities & Bills,36.17,78
+Apple Music,Entertainment,110.85,166
+Greggs,Food & Drink,202.41,67
+KFC,Food & Drink,108.92,105
+Virgin Mobile,Mobile Services,205.28,4
+Pret A Manger,Food & Drink,164.91,47
+Thames Water,Utilities & Bills,65.56,29
+Uber,Transport,151.75,194
+TFL,Transport,23.16,118
+TFL,Transport,6.81,31
+Zara,Shopping,173.46,81
+EDF,Utilities & Bills,110.7,151
+Tesco,Groceries,189.82,88
+John Lewis,Shopping,36.39,79
+Argos,Shopping,44.49,71
+Disney+,Entertainment,35.63,112
+Tesco,Groceries,230.87,165
+Sky Mobile,Mobile Services,246.33,55
+Tesco,Groceries,218.02,33
+Sainsbury's,Groceries,133.45,19
+Lidl,Groceries,77.79,10
